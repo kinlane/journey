@@ -1,0 +1,235 @@
+---
+layout: default
+title: API Journey
+---
+<h1>API Journey - Editor</h1>
+
+token: <input type="text" name="githubtoken" id="githubtoken" value="" width="50" /><br />
+<hr />
+<script>
+function addLine()
+	{
+
+  $line = {}
+  $line['class'] = ['line'];
+  $line['rel'] = ['/rels/line '];
+
+	// Grab the github oauth token
+	var $github_token = document.getElementById("githubtoken").value;
+
+	$line['properties'] = {};
+  var $name = document.getElementById("add_line_name").value;
+  $line['properties']['name'] = $name;
+  $file_name = $name.toLowerCase();
+  $file_name = $file_name.replace(' ','-');
+
+  var $level = document.getElementById("add_line_level").value;
+	$level = $level - 0;
+  $line['properties']['level'] = $level;
+
+	var $sort = document.getElementById("add_line_sort").value;
+	$sort = $sort - 0;
+  $line['properties']['sort'] = $sort;
+
+  var $description = document.getElementById("add_line_description").value;
+  $line['properties']['description'] = $description;
+
+	$line['entities'] = [];
+
+	// entities
+	$entity = {};
+	$entity['class'] = ['line'];
+	$entity['rel'] = ['/rels/line'];
+	$entity['properties'] = [];
+	$entity['links'] = [];
+
+	// entity properties
+	$properties = {};
+	$properties['name'] = $name;
+	$entity['properties'].push($properties);
+
+	// entity links
+	$links = {};
+	$links['rel'] = ['self'];
+	$links['href'] = '/journey/' + $file_name + '/';
+	$entity['links'].push($links);
+
+	$line['entities'].push($entity);
+
+	// Links
+  $line['links'] = [];
+
+	$links = {};
+	$links['rel'] = ['self'];
+	$links['href'] = '/' + $file_name + '/';
+	$line['links'].push($links);
+
+  $yaml_dump = '---\n' + jsyaml.dump($line) + '---\n';
+
+  console.log($yaml_dump);
+
+	// Set the user/org and the repo
+	$github_owner = 'kinlane';
+	$github_repo = 'journey';
+	$file_name = '_journey/' + $file_name + '.md';
+
+	$token = 'Authorization: token ' + $github_token;
+	$headers = [$token,'User-Agent: Streaam-To-github'];
+
+  // build the url
+	$githuburl = 'https://api.github.com/repos/' + $github_owner + '/' + $github_repo + '/contents/' + $file_name;
+
+	// write the file to Github repo using github API
+	$body = {};
+	$body['message'] = "Add " + $name + " Line";
+	$body['content'] = btoa(unescape(encodeURIComponent($yaml_dump)));
+	//$body['sha'] = $file_response['sha'];
+	$body_json = JSON.stringify($body);
+
+	var xmlHttp = new XMLHttpRequest();
+	xmlHttp.open("PUT", $githuburl, false ); // false for synchronous request
+	xmlHttp.setRequestHeader("Authorization",'token ' + $github_token);
+	xmlHttp.setRequestHeader("Content-Type", "application/json");
+	xmlHttp.send($body_json);
+
+	console.log(xmlHttp.responseText);
+	//$file_response = JSON.parse(xmlHttp.responseText);
+
+	}
+
+function updateLine($this)
+	{
+
+  $line = {}
+  $line['class'] = ['line'];
+  $line['rel'] = ['/rels/line'];
+
+	// Grab the github oauth token
+	var $github_token = document.getElementById("githubtoken").value;
+
+	$line['properties'] = {};
+  var $name = document.getElementById("name_"+$this).value;
+  $line['properties']['name'] = $name;
+
+	$file_name = $name.toLowerCase();
+  $file_name = $file_name.replace(' ','-');
+
+  var $sort = document.getElementById("sort_"+$this).value;
+	$sort = $sort - 0;
+  $line['properties']['sort'] = $sort;
+
+	var $level = document.getElementById("level_"+$this).value;
+	$level = $level - 0;
+  $line['properties']['level'] = $level;
+
+  var $description = document.getElementById("description_"+$this).value;
+  $line['properties']['description'] = $description;
+
+	$line['entities'] = [];
+
+	// entities
+	$entity = {};
+	$entity['class'] = ['line'];
+	$entity['rel'] = ['/rels/line '];
+	$entity['properties'] = [];
+	$entity['links'] = [];
+
+	// entity properties
+	$properties = {};
+	$properties['name'] = $name;
+	$entity['properties'].push($properties);
+
+	// entity links
+	$links = {};
+	$links['rel'] = ['self'];
+	$links['href'] = '/journey/' + $file_name + '/';
+	$entity['links'].push($links);
+
+	$line['entities'].push($entity);
+
+	// Links
+  $line['links'] = [];
+
+	$links = {};
+	$links['rel'] = ['self'];
+	$links['href'] = '/' + $file_name + '/';
+	$line['links'].push($links);
+
+  $yaml_dump = '---\n' + jsyaml.dump($line) + '---\n';
+
+  console.log($yaml_dump);
+
+	// Set the user/org and the repo
+	$github_owner = 'kinlane';
+	$github_repo = 'journey';
+
+	var $path = document.getElementById("path_"+$this).value;
+	$file_name = $path;
+
+	$token = 'Authorization: token ' + $github_token;
+	$headers = [$token,'User-Agent: Streaam-To-github'];
+
+  // build the url
+	$githuburl = 'https://api.github.com/repos/' + $github_owner + '/' + $github_repo + '/contents/' + $file_name;
+
+	// Get the file, so we have the SHA
+	var xmlHttp = new XMLHttpRequest();
+	xmlHttp.open( "GET", $githuburl, false ); // false for synchronous request
+	xmlHttp.setRequestHeader("Authorization",'token ' + $github_token);
+	xmlHttp.send( null );
+	$file_response = JSON.parse(xmlHttp.responseText);
+
+	// write the file to Github repo using github API
+	$body = {};
+	$body['message'] = "Add New Line";
+	$body['content'] = btoa(unescape(encodeURIComponent($yaml_dump)));
+	$body['sha'] = $file_response['sha'];
+	$body_json = JSON.stringify($body);
+
+	var xmlHttp = new XMLHttpRequest();
+	xmlHttp.open("PUT", $githuburl, false ); // false for synchronous request
+	xmlHttp.setRequestHeader("Authorization",'token ' + $github_token);
+	xmlHttp.setRequestHeader("Content-Type", "application/json");
+	xmlHttp.send($body_json);
+
+	console.log(xmlHttp.responseText);
+	//$file_response = JSON.parse(xmlHttp.responseText);
+
+	}
+</script>
+
+<form>
+<input type="text" name="add_line_name" id="add_line_name" value="" width="50" /><br />
+<input type="text" name="add_line_sort" id="add_line_sort" value="" width="5" /><br />
+<input type="text" name="add_line_level" id="add_line_level" value="" width="5" /><br />
+<textarea name="add_line_description" id="add_line_description" rows="5" cols="40"></textarea><br />
+<input type="button" name="save" value="Add Line" onclick="addLine();">
+</form>
+<hr />
+
+
+{% assign lines = site.journey | sort: 'properties.sort' %}
+{% assign line_count = 1 %}
+{% for plan in lines %}
+
+  {% assign is_line = 0 %}
+  {% for class in plan.class %}
+    {% if class == "line" %}
+      {% assign is_line = 1 %}
+    {% endif %}
+  {% endfor %}
+
+  {% if is_line == 1 and plan.properties.level == 1 %}
+    <form>
+    path: <input type="text" name="path_{{ line_count }}" id="path_{{ line_count }}" value="{{ plan.path }}" width="50" /><br />
+    name: <input type="text" name="name_{{ line_count }}" id="name_{{ line_count }}" value="{{ plan.properties.name }}" width="50" /><br />
+    level: <input type="text" name="level_{{ line_count }}" id="level_{{ line_count }}" value="{{ plan.properties.level }}" width="5" /><br />
+		sort: <input type="text" name="sort_{{ line_count }}" id="sort_{{ line_count }}" value="{{ plan.properties.sort }}" width="5" /><br />
+    <textarea name="description_{{ line_count }}" id="description_{{ line_count }}" rows="5" cols="40">{{ plan.properties.description }}</textarea><br />
+    <input type="button" name="save" value="Save" onclick="updateLine('{{ line_count }}')">
+    </form>
+    <hr />
+    {% assign line_count = line_count | plus: 1 %}
+  {% endif %}
+
+{% endfor %}

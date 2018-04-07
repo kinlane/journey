@@ -1,0 +1,41 @@
+title:       API Plan
+url:          http://plan.apievangelist.com/
+
+tag: Plan
+
+logo:         https://kinlane-productions.s3.amazonaws.com/api-evangelist/api-evangelist-logo-400.png
+logo_width:   80
+logo_bottom_padding: 10
+
+version:      1.1.1
+author:
+  name:       'Kin Lane'
+  email:      'info@apievangelist.com'
+markdown:     kramdown
+
+permalink: /:categories/:title/
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
+
+paginate: 25
+paginate_path: "/blog/page:num"
+
+github_user: kinlane
+github_repo: journey
+github_branch: master
+
+# Footer
+footer_title: API Evangelist
+footer_link: http://apievangelist.com
+footer_image_source: https://s3.amazonaws.com/kinlane-productions/footer/empowered-by-you-banner.png
+footer_image_width: 60
+
+collections:
+  journey:
+    output: true
+    permalink: /journey/:path/
+
+defaults:
+  - scope:
+      type: journey
+    values:
+      layout: journey
