@@ -18,46 +18,12 @@ title: API Plan
   {% assign one_base_path = one.path | replace: '_journey/','' | replace: 'index.md','' %}
 
   {% if is_line == 1 and one.properties.level == 1 %}
+
     <p><strong>{{ one.properties.name }}</strong> ({{ one.path }}/{{ one_base_path }}) ({{ one.properties.level }}/{{ one.properties.sort }}) - {{ one.properties.description }}</p>
-
     {% assign line_count = line_count | plus: 1 %}
+
+    <hr />
+
   {% endif %}
-  <ul>
-  {% for two in lines %}
-
-    {% assign is_line = 0 %}
-    {% for class in two.class %}
-      {% if class == "line" %}
-        {% assign is_line = 1 %}
-      {% endif %}
-    {% endfor %}
-
-    {% assign is_child = 0 %}
-    {% assign is_parent = 0 %}
-    {% for links in two.links %}
-
-      {% for rels in links.rel %}
-        {% if rels == "parent" %}
-          {% assign is_parent = 1 %}
-        {% endif %}
-      {% endfor %}
-
-      {% if is_parent == 1 and links.href == one_base_path %}
-        {% assign is_child = 1 %}
-      {% endif %}
-
-    {% endfor %}
-
-    {% assign two_base_path = two.path | replace: '_journey/','' | replace: 'index.md','' %}
-
-    {% if two.properties.level == 2 and is_child == 1 %}
-      <li><strong>{{ two.properties.name }}</strong> ({{ two.path }}/{{ two_base_path }}) ({{ two.properties.level }}/{{ two.properties.sort }}) - {{ two.properties.description }}</li>
-      {% assign line_count = line_count | plus: 1 %}
-    {% endif %}
-
-  {% endfor %}
-  </ul>
-
-  <hr />
 
 {% endfor %}

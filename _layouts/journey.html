@@ -1,5 +1,9 @@
 ---
 layout: default
 ---
-<h1>{{ page.name }}</h1>
+
+{% assign entries = site.journey | sort: 'properties.sort' %}
+
+<h1>{{ page.properties.name }}</h1>
 <p>{{ page.properties.description }}</li>
+<p>{{ page.path }}</li>
