@@ -2,8 +2,60 @@
 layout: default
 ---
 
-{% assign entries = site.journey | sort: 'properties.sort' %}
+{% assign entries = site.journey %}
 
 <h1>{{ page.properties.name }}</h1>
-<p>{{ page.properties.description }}</li>
-<p>{{ page.path }}</li>
+<p>{{ page.properties.description }}</p>
+<p>{{ page.path }}</p>
+
+{% assign elements = page.path | replace: '.md','' %}
+{% assign elements = elements | split: '/' %}
+
+{% assign line = elements[0] | append: '/' | append: elements[1] %}
+
+<p>line: {{ line }}</p>
+
+{% assign last = '/' %}
+{% assign next = '/' %}
+{% assign tracking = '/' %}
+{% assign get_next = 0 %}
+{% for entry in entries %}
+  {% if entry.path contains line %}
+
+    {% if get_next == 1 %}
+      {% assign next = entry.path %}
+      {% assign get_next = 0 %}
+    {% endif %}
+
+    {% if page.path == entry.path %}
+      {% assign last = tracking %}
+      {% assign get_next = 1 %}
+    {% endif %}
+
+    {{ entry.name }} - {{ entry.path }} - {{ entry.title }}<br />
+    {% assign tracking = entry.path %}
+
+  {% endif %}
+{% endfor %}
+
+last: --{{ last }}--<br />
+next: --{{ next }}--<br />
+
+<br />
+<table width="100%" border="1">
+  <tr style="border: 1px solid #000;">
+    <td width="33%" align="left">
+      {% if last != '/' %}
+        {% assign last = last | replace: '_journey/','' | replace: '.md','' %}
+        <a href="/journey/{{ last }}"><< Previous</a>
+      {% endif %}
+    </td>
+    <td width="33%" align="center"><a href="">Back to Line</a></td>
+    <td width="33%" align="right">
+      {% if next != '/' %}
+        {% assign next = next | replace: '_journey/','' | replace: '.md','' %}
+        <a href="/journey/{{ next }}">Next >></a>
+      {% endif %}
+    </td>
+  </tr>
+</table>
