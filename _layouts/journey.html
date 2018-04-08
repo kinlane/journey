@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign entries = site.journey %}
+{% assign entries = site.journey | sort: 'properties.sort' %}
 
 <h1>{{ page.properties.name }}</h1>
 <p>{{ page.properties.description }}</p>
@@ -60,7 +60,7 @@ next: --{{ next }}--<br />
         <a href="/journey/{{ last }}"><< Previous</a>
       {% endif %}
     </td>
-    <td width="33%" align="center"><a href="">Back to Line</a></td>
+    <td width="33%" align="center"><a href="/journey/{{ parent_link }}">Back to Line</a></td>
     <td width="33%" align="right">
       {% if next != '/' %}
         {% assign next = next | replace: '_journey/','' | replace: '.md','' %}
