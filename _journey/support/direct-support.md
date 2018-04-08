@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Direct Support
-  sort: 3
+  sort: 1890
   level: 2
   description: Also providing direct support opportunities so that all developers
     and consumers will be able to get direct support across all services, and actually

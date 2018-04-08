@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SOAP
-  sort: 6
+  sort: 1062
   level: 3
   description: Providing a ready to go SOAP connector for working with other existing
     SOAP services, and enabling them to be transformed into a new API for different

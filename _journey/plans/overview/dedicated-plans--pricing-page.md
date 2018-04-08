@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Dedicated Plans / Pricing Page
-  sort: 1
+  sort: 3672
   level: 2
   description: Providing a single landing page, available at a simple URL, with all
     the information about plans available as part of platform operations. There may

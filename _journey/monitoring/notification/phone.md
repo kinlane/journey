@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Phone
-  sort: 3
+  sort: 2025
   level: 2
   description: Allow notifications to be received by Phone.
 entities:

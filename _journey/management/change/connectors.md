@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Connectors
-  sort: 1
+  sort: 1744
   level: 2
   description: Defining the possible backend connectors available for binding the
     API management layer to backend systems and services using a variety of methods.

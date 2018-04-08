@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: AWS AMI
-  sort: 1
+  sort: 4356
   level: 2
   description: Will there be an Amazon AMI made available for any server or client
     implementations?

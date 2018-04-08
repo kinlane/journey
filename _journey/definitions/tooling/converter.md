@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Converter
-  sort: 4
+  sort: 165
   level: 2
   description: The conversion of an API definition from one format into another, allowing
     designers to share API definitions in any format.

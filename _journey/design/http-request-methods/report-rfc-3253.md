@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: REPORT (RFC 3253)
-  sort: 30
+  sort: 314
   level: 2
   description: 'A REPORT request is an extensible mechanism for obtaining information
     about a resource. Unlike a resource property, which has a single value, the value

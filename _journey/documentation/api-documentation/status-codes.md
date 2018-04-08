@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Status Codes
-  sort: 3
+  sort: 1696
   level: 2
   description: Provide a list of all the status codes available either for each individual
     APIs, or also across all API paths available via a platform.

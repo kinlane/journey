@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Twitter
-  sort: 2
+  sort: 4227
   level: 2
   description: Setup of new API specific Twitter account, and the tweeting of all
     API evangelism activity, relevant industry landscape activity, discover new followers

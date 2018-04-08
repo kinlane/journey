@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Scripting
-  sort: 9
+  sort: 1110
   level: 2
   description: Allowing for scripts to be added and executed at runtime by the proxy,
     allowing for custom transformations to occur as part of proxying.

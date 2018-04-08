@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Country
-  sort: 7
+  sort: 3662
   level: 2
   description: How are things broken down by country? Country defined API operations
     will continue to be an important way to look at API operations, and value generated.

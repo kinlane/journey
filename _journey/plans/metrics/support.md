@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Support
-  sort: 42
+  sort: 3904
   level: 2
   description: Directly using support elements as a consideration in API resource
     planning and consumption.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Stories
-  sort: 3
+  sort: 4166
   level: 2
   description: Deriving of stories for blog derived from forum activity, and the actual
     needs of developers to be crafted and published as part of overall editorial strategy.

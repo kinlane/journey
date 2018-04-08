@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Advertising Development Kit (ADK)
-  sort: 1
+  sort: 2939
   level: 2
   description: Providing a toolkit for integrating advertising opportunities directly
     into language, mobile, and platform development kits.

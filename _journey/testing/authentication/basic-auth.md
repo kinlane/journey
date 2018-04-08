@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Basic Auth
-  sort: 1
+  sort: 2064
   level: 2
   description: Using Basic Auth, a username and password for authentication.
 entities:

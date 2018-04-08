@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: PATCH (RFC 5789)
-  sort: 23
+  sort: 300
   level: 2
   description: 'The PATCH method requests that a set of changes described in the request
     entity be applied to the resource identified by the Request-URI. The set of changes

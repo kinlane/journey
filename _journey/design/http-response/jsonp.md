@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: JSONP
-  sort: 3
+  sort: 708
   level: 2
   description: Using JSONP to enable sharing of data bypassing same-origin policy,
     and make API responses available in client side applications.

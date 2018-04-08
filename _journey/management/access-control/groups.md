@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Groups
-  sort: 1
+  sort: 1733
   level: 2
   description: Defining, profiling, and planning for which groups will be accessing
     API resources, and organizing which services they will have access to.

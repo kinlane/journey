@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Value
-  sort: 10
+  sort: 3537
   level: 2
   description: What is the value of an API resource? Often you will be just making
     this up, but at the least you should be able to articulate in some way.

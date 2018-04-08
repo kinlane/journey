@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Import / Export
-  sort: 3
+  sort: 2780
   level: 2
   description: Enabling the import and export of common API definitions into an API
     client and allowing for API definitions to be used across the API lifecycle, and

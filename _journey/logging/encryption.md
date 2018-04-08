@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Encryption
-  sort: 19
+  sort: 1863
   level: 1
   description: Applying encryption to all aggregate logging while being stored, and
     in transit, ensuring that no data is leaked at any point in the lifecycle.

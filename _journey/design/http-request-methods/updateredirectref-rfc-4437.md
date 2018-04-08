@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: UPDATEREDIRECTREF (RFC 4437)
-  sort: 38
+  sort: 330
   level: 2
   description: 'The UPDATEREDIRECTREF method requests the update of a redirect reference
     resource. '

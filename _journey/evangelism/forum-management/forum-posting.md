@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Forum Posting
-  sort: 2
+  sort: 4164
   level: 2
   description: Generating forum activity by anonymous posters or officially with common
     problems and questions faced throughout community as well as open landscape.

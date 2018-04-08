@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Downtime Period
-  sort: 3
+  sort: 2604
   level: 1
   description: Information regarding how downtime duration and length are measure,
     quantified, and reported upon as part of availability.

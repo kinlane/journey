@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Security Practices Page
-  sort: 1
+  sort: 2269
   level: 2
   description: Publishing a single page that covers what the security approaches are
     for a platform, providing as much detail as possible about what practices are

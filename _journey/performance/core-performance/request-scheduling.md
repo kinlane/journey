@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Scheduling
-  sort: 9
+  sort: 2177
   level: 2
   description: Enable the scheduling of performance tests.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: DELETE (RFC 7231)
-  sort: 8
+  sort: 270
   level: 2
   description: 'The DELETE method requests that the origin server remove the association
     between the target resource and its current functionality. In effect, this method

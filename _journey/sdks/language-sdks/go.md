@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Go
-  sort: 7
+  sort: 2894
   level: 2
   description: An SDK available in the Go programming language, with consideration
     specifically tailored for the language.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Scheduling
-  sort: 7
+  sort: 3333
   level: 2
   description: Offering the ability to schedule messages, jobs, and other events,
     and allow triggering of them on defined schedules.

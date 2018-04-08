@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Cookies
-  sort: 2
+  sort: 1301
   level: 3
   description: Provide tooling for managing and configuration cookies that are used
     as part of scraping and crawling.

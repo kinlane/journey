@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Investment
-  sort: 1
+  sort: 3500
   level: 2
   description: Who put up the money to support the development of this API resource?
     Was it internal, or did we have to take external investment.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reciprocity
-  sort: 2
+  sort: 3609
   level: 2
   description: How can API interoperability, automation, and reciprocity with other
     platforms be used as part of the overall API monetization strategy? Common approaches

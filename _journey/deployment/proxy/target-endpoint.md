@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Target Endpoint
-  sort: 7
+  sort: 1106
   level: 2
   description: The URL of the target being proxied, allowing for the backend connection
     of existing resources, and the delivered via proxy.

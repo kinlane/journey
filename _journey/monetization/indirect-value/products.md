@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Products
-  sort: 8
+  sort: 3590
   level: 2
   description: An API exists in support of a specific product. Just like devices,
     but products could be physical devices that are not connected to the database.

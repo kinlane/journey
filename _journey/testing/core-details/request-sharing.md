@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Sharing
-  sort: 5
+  sort: 2081
   level: 2
   description: Allow for the sharing of requests.
 entities:

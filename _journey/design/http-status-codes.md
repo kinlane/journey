@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HTTP Status Codes
-  sort: 6
+  sort: 718
   level: 2
   description: Providing lists of HTTP status codes that should be used across services,
     supporting the web, and providing consistent responses that other systems and

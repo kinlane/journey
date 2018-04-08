@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Emotion Analysis
-  sort: 4
+  sort: 1262
   level: 3
   description: Evaluating content for signs of human emotion presence such as sad
     or happy, complimenting and augmenting sentiment analysis.

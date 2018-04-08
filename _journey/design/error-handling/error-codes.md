@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Error Codes
-  sort: 1
+  sort: 848
   level: 2
   description: The visual code for the error beyond an individual status code.
 entities:

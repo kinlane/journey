@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Cache
-  sort: 5
+  sort: 944
   level: 2
   description: Allow for domain level caching of all requests made through the domain.
 entities:

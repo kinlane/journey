@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: MERGE (RFC 3253)
-  sort: 14
+  sort: 282
   level: 2
   description: 'The MERGE method performs the logical merge of a specified version
     (the "merge source") into a specified version-controlled resource (the "merge

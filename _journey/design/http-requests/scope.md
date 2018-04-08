@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Scope
-  sort: 13
+  sort: 251
   level: 2
   description: considering the overall scope and size of the API and its individual
     paths, keeping things as small and focused as they possibly can.

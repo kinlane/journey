@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Environment
-  sort: 3
+  sort: 177
   level: 2
   description: Providing standardized environments for working with all of the definitions
     being used throughout the service delivery life cycle.

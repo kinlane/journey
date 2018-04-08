@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Customization
-  sort: 49
+  sort: 3775
   level: 2
   description: There are customization opportunities around API plans, pricing, and
     rate limits, giving more control to consumers to customize their experience. For

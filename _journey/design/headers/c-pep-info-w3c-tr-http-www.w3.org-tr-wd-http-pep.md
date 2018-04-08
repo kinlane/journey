@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: C-PEP-Info (W3C TR http://www.w3.org/TR/WD-http-pep)
-  sort: 38
+  sort: 411
   level: 2
   description: 'PEP hop-by-hop policies are meaningful only for a single transport-level
     connection. The C-PEP-Info header field is a hop-by-hop header field and MUST

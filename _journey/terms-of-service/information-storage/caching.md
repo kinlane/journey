@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Caching
-  sort: 1
+  sort: 2499
   level: 2
   description: Information regarding how data can be cached as part of usage within
     the web and mobile applications where the data and content is being made available.

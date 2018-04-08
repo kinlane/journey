@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HAR
-  sort: 3
+  sort: 2007
   level: 2
   description: Allow for importing using HAR.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content-Range (Internet Draft combs-http-indeterminate-range RFC 7233)
-  sort: 52
+  sort: 439
   level: 2
   description: 'The Content-Range entity-header is sent with a partial entity-body
     to specify where in the full entity-body the partial body should be applied.The

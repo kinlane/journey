@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Search
-  sort: 5
+  sort: 2839
   level: 2
   description: Allow the searching of results, by keyword and key phase, returning
     the point in results that match search.

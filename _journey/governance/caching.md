@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Caching
-  sort: 26
+  sort: 4434
   level: 1
   description: Plan for the caching guidance that will be needed to drive a wider
     service governance strategy.

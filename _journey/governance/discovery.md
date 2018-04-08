@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Discovery
-  sort: 35
+  sort: 4452
   level: 1
   description: Plan for the discovery guidance that will be needed to drive a wider
     service governance strategy.

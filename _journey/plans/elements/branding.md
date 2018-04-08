@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Branding
-  sort: 29
+  sort: 3735
   level: 2
   description: Is there a strong brand aspect to API operations, with clear guidelines,
     resources, and a presence for the companies brand. It is common to require API

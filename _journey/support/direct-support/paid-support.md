@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Paid Support
-  sort: 7
+  sort: 1905
   level: 2
   description: Providing paid support tiers for developers to use, allowing them to
     pay by the minute, hour, or project, and get the intimate, direct support they

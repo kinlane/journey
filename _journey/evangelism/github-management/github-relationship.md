@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Github Relationship
-  sort: 2
+  sort: 4173
   level: 2
   description: Managing of followers, forks, downloads and other potential relationships
     via Github.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Multi-Lingual
-  sort: 8
+  sort: 3335
   level: 2
   description: Providing default multi-lingual support, either natively or through
     real time translation.

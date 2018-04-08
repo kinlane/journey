@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: DNS
-  sort: 10
+  sort: 3309
   level: 2
   description: Providing DNS infrastructure to accompany and support real time technology.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Children's Privacy Overview
-  sort: 1
+  sort: 2522
   level: 2
   description: Are there any special considerations for children's privacy. Will minors
     potentially be using the system, and what areas should be considered?

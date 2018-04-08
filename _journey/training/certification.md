@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Certification
-  sort: 8
+  sort: 4379
   level: 1
   description: Providing certification associated with the completion of training,
     which might include multiple tiers of accomplishments, and providing badges and

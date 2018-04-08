@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Github Authentication
-  sort: 8
+  sort: 1807
   level: 2
   description: Allow developers to create and login to their API developer account
     using their own Github account credentials.

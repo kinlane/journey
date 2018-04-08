@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content-Disposition (RFC 6266)
-  sort: 47
+  sort: 429
   level: 2
   description: 'The Content-Disposition response header field is used to convey additional
     information about how to process the response payload, and also can be used to

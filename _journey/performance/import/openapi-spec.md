@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OpenAPI Spec
-  sort: 2
+  sort: 2196
   level: 2
   description: Allow for tests to be imported using OpenAPI Spec.
 entities:

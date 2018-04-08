@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Account Management
-  sort: 2
+  sort: 1818
   level: 2
   description: An account management API, enabling users to create, read, update,
     and delete information associated with their account.

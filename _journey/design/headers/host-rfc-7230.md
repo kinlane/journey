@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Host (RFC 7230)
-  sort: 86
+  sort: 507
   level: 2
   description: 'The "Host" header field in a request provides the host and port information
     from the target URI, enabling the origin server to distinguish among resources

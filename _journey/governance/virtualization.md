@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Virtualization
-  sort: 11
+  sort: 4404
   level: 1
   description: Plan for the virtualization guidance that will be needed to drive a
     wider service governance strategy.

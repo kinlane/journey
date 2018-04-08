@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Management
-  sort: 13
+  sort: 4408
   level: 1
   description: Plan for the management guidance that will be needed to drive a wider
     service governance strategy.

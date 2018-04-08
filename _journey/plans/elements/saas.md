@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SaaS
-  sort: 30
+  sort: 3737
   level: 2
   description: Is the API operations secondary to a strong SaaS focus for a platform.
     How does an API add value to a SaaS offering? Considering the relationship between

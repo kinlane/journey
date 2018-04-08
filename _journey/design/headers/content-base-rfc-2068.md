@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content-Base (RFC 2068)
-  sort: 45
+  sort: 425
   level: 2
   description: 'The Content-Base entity-header field may be used to specify the base
     URI for resolving relative URLs within the entity. This header field is described

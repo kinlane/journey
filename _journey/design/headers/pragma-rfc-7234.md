@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Pragma (RFC 7234)
-  sort: 124
+  sort: 583
   level: 2
   description: 'The "Pragma" header field allows backwards compatibility with HTTP/1.0
     caches, so that clients can specify a "no-cache" request that they will understand

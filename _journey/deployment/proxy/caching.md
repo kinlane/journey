@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Caching
-  sort: 11
+  sort: 1114
   level: 2
   description: 'Enabling the caching of data, and content flowing through the proxy,
     and use as part of performance, reliability, and historical access to proxied

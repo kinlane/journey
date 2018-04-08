@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: On-Demand
-  sort: 8
+  sort: 3693
   level: 2
   description: The resource or set of resources can be deployed, and shut down on
     demand. Each resource can be evaluated for how long it should be available. With

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Performance
-  sort: 3
+  sort: 2241
   level: 2
   description: Regular performance monitoring and testing, as well as actively sharing
     and publishing the results with stakeholders demonstrates the observability around

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Trailer (RFC 7230)
-  sort: 166
+  sort: 667
   level: 2
   description: 'When a message includes a message body encoded with the chunked transfer
     coding and the sender desires to send metadata in the form of trailer fields at

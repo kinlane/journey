@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Playback
-  sort: 5
+  sort: 1547
   level: 2
   description: Setup of a virtualized environment captured from recording of earlier
     instance.

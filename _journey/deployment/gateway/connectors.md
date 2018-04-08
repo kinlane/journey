@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Connectors
-  sort: 3
+  sort: 1125
   level: 2
   description: Enabling the easy connection to backend resources that have already
     been defined, allowing anyone to quickly connect, and make available as a web

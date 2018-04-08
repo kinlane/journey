@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Seconds
-  sort: 1
+  sort: 3933
   level: 2
   description: Managing, guiding, and restricting plan entries in seconds. This is
     a common timeframe for considering rate limits, and judging the overall volume

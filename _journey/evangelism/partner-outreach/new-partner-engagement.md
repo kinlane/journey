@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: New Partner Engagement
-  sort: 1
+  sort: 4126
   level: 2
   description: When a new partner is signed up, there is engagement of some sort,
     on-boarding them properly as a partner.

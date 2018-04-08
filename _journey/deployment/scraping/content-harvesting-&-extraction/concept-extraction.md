@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Concept Extraction
-  sort: 1
+  sort: 1150
   level: 3
   description: Extracting topics that are present as tags from extracted content
 entities:

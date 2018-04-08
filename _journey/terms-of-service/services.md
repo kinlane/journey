@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Services
-  sort: 9
+  sort: 2531
   level: 2
   description: The legal side of the terms of service that impacts specific services
     and their availability, providing what can be legally expected when it comes to

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Best Practices
-  sort: 3
+  sort: 1774
   level: 2
   description: Publishing of a plain english introduction to the best practices around
     integrating with an API, providing introductory lesson for developers of how to

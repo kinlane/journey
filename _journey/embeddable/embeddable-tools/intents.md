@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Intents
-  sort: 6
+  sort: 3048
   level: 2
   description: providing the ability to easily make a single, or orchestrate several
     API calls -

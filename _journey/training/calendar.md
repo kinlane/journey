@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Calendar
-  sort: 7
+  sort: 4377
   level: 1
   description: Providing a calendar of trainings that are occurring either online
     or offline, allowing consumers to plan for, and participate in formal training

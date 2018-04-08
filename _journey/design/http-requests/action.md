@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Action
-  sort: 4
+  sort: 233
   level: 2
   description: Allow for standard actions to be taken across resource, but also reflect
     how APIs will be experienced, providing meaningful action to be taken around any

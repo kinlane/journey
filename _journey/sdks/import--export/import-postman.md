@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Import Postman
-  sort: 2
+  sort: 2946
   level: 2
   description: Allow for importing of API definitions using Postman format, for generation
     of SDKs.

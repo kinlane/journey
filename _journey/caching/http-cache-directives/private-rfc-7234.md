@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: private (RFC 7234)
-  sort: 11
+  sort: 880
   level: 2
   description: 'The "private" response directive indicates that the response message
     is intended for a single user and MUST NOT be stored by a shared cache. A private

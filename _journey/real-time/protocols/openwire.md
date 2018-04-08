@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OpenWire
-  sort: 7
+  sort: 3387
   level: 2
   description: OpenWire is our cross language Wire Protocol to allow native access
     to ActiveMQ from a number of different languages and platforms. The Java OpenWire

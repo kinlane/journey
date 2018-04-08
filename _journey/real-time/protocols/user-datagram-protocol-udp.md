@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: User Datagram Protocol (UDP)
-  sort: 17
+  sort: 3407
   level: 2
   description: The User Datagram Protocol (UDP) is one of the core members of the
     Internet protocol suite. The protocol was designed by David P. Reed in 1980 and

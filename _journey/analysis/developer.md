@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Developer
-  sort: 5
+  sort: 3103
   level: 1
   description: What is available for developers to analyse their own consumption,
     usage, and behavior, including informing them of what is measured about them at

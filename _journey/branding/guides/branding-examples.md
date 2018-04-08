@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Branding Examples
-  sort: 1
+  sort: 2679
   level: 2
   description: What are some existing examples of how brand can be used. Are there
     samples, or actual case studies of existing integrators that can show how branding

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Secure Parsing
-  sort: 3
+  sort: 2375
   level: 2
   description: Use a secure parser for parsing the incoming messages. If you are using
     XML, make sure to use a parser that is not vulnerable to XXE and similar attacks.

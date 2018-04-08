@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Discovery
-  sort: 1
+  sort: 3240
   level: 1
   description: Provide the ability to discovery and map out existing services, systems,
     and applications, and make them available for migration.

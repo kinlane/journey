@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Editor(s)
-  sort: 1
+  sort: 2994
   level: 2
   description: Are there options for multiple editors, depending on media or file
     type, or possible set per project and environment levels, within the IDE.

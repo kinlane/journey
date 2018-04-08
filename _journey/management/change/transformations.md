@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Transformations
-  sort: 4
+  sort: 1750
   level: 2
   description: Defining what transformations are possible, and will occur as a backend
     service is begin served up via an API through the API management layer.

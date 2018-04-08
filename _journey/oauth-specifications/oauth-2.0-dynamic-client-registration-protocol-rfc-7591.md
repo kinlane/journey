@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OAuth 2.0 Dynamic Client Registration Protocol (RFC 7591)
-  sort: 2
+  sort: 1634
   level: 1
   description: 'This specification defines mechanisms for dynamically registering
     OAuth 2.0 clients with authorization servers. Registration requests send a set

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Landscape Analysis
-  sort: 2
+  sort: 4095
   level: 2
   description: Developing an understanding and awareness of the space we are operating
     in and mapping out the landscape of service providers who are doing the same thing

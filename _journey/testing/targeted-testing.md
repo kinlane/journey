@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Targeted Testing
-  sort: 6
+  sort: 2128
   level: 2
   description: Allowing for the targeting of services from a variety of regions, demonstrating
     what service availability will look like across targeted regions, and around the

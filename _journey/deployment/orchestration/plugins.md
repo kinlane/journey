@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Plugins
-  sort: 11
+  sort: 1510
   level: 2
   description: Providing a define suite of plugins that should be used as part of
     the service delivery lifecycle, adding to the overall pipeline and model flow,

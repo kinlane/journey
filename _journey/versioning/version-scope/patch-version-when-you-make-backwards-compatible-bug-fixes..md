@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: PATCH version when you make backwards-compatible bug fixes.
-  sort: 3
+  sort: 902
   level: 2
   description: ~
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Deep Linking
-  sort: 2
+  sort: 3353
   level: 2
   description: Deep linking is the use of a hyperlink that links to a specific, generally
     searchable or indexed, piece of web content on a website.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: API
-  sort: 9
+  sort: 3816
   level: 2
   description: There is an API specifically for accessing limitations around API resources
     for API consumers to use.

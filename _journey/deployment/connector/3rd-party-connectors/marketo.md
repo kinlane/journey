@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Marketo
-  sort: 7
+  sort: 1087
   level: 3
   description: Providing a ready to go connector for working with the Marketo API,
     allowing an existing 3rd party service in use to be made available via a web API.

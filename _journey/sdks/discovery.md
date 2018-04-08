@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Discovery
-  sort: 8
+  sort: 2948
   level: 2
   description: Identifying resources and challenges with helping developers find the
     SDKs, and other code libraries they are needed. Providing a common approach to

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Scheduler
-  sort: 8
+  sort: 1313
   level: 3
   description: Enable the ability control the schedule for the execution of scraping
     and crawling jobs.

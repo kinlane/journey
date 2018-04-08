@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Core Virtualization
-  sort: 1
+  sort: 1536
   level: 2
   description: Delivering the core features of virtualization and making sure there
     are relevant and useful representations of services available to work with when

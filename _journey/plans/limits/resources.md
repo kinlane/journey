@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Resources
-  sort: 5
+  sort: 3808
   level: 2
   description: Limits are place upon specific endpoints or verbs, providing granular
     controls over API resources.

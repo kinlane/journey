@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: DNS
-  sort: 5
+  sort: 1215
   level: 3
   description: Allowing for the management of DNS associated with scraping, allowing
     for domains to be efficiently targeted, and excluded depending on what is needed.

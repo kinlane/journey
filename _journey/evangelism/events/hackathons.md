@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Hackathons
-  sort: 1
+  sort: 4151
   level: 2
   description: What hackathons are coming up in 30, 90, 120 days? Which would should
     be sponsored, attended, etc.

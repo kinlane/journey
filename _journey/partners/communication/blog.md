@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Blog
-  sort: 1
+  sort: 3982
   level: 2
   description: Have a blog that is dedicated to providing information for the partner
     program.

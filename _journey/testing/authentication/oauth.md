@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OAuth
-  sort: 2
+  sort: 2066
   level: 2
   description: Using OAuth for platform authentication.
 entities:

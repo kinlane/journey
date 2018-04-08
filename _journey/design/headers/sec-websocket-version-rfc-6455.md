@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Sec-WebSocket-Version (RFC 6455)
-  sort: 143
+  sort: 621
   level: 2
   description: 'The Sec-WebSocket-Version header field is used in the WebSocket opening
     handshake. It is sent from the client to the server to indicate the protocol version

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Authentication Considerations
-  sort: 2
+  sort: 2275
   level: 2
   description: Looking at the security concerns focused in on platform authentication,
     and staying in sync with how authentication and authorization layers are performing

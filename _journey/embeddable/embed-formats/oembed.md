@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: oEmbed
-  sort: 2
+  sort: 3062
   level: 2
   description: Format for allowing an embedded representation of a URL on third party
     sites to display embedded content (such as photos or videos) when a user posts

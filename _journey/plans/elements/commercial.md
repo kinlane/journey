@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Commercial
-  sort: 17
+  sort: 3711
   level: 2
   description: There is a commercial licensing element to a set of resources, which
     require additional business or legal requirements. This element may not be cost

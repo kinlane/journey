@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Visualization
-  sort: 44
+  sort: 4470
   level: 1
   description: Plan for the visualization guidance that will be needed to drive a
     wider service governance strategy.

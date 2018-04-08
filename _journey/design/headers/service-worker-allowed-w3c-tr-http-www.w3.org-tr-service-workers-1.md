@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Service-Worker-Allowed (W3C TR http://www.w3.org/TR/service-workers-1)
-  sort: 148
+  sort: 631
   level: 2
   description: 'An HTTP response to a service worker''s script resource request can
     include the Service-Worker-Allowed header. It indicates that the user agent will

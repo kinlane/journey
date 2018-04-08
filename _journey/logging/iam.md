@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: IAM
-  sort: 6
+  sort: 1837
   level: 1
   description: Plan the identity and access and management management layer required
     for all aspects of logging, ensuring access across systems, as well as separate,

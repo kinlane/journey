@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Export API Blueprint
-  sort: 6
+  sort: 2793
   level: 2
   description: Allow for the exporting of API requests using the API Blueprint API
     definition format.

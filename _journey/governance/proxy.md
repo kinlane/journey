@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Proxy
-  sort: 9
+  sort: 4400
   level: 1
   description: Plan for the proxy guidance that will be needed to drive a wider service
     governance strategy.

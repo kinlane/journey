@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Google+
-  sort: 7
+  sort: 1922
   level: 1
   description: Provide an active Google+ account for support, as well as evangelism
     efforts around an APIs operations.

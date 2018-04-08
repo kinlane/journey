@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Application / Registration
-  sort: 1
+  sort: 3973
   level: 2
   description: The actual application for registering to become a partner.
 entities:

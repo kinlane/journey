@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Easy to Read
-  sort: 4
+  sort: 208
   level: 2
   description: While APIs are for computers, they should be easy to read by humans,
     making documentation more accessible.

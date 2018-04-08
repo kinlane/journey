@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Awareness
-  sort: 5
+  sort: 3007
   level: 2
   description: Providing as much awareness within the development environment regarding
     other resources, analysis, and information that might help them make better decisions

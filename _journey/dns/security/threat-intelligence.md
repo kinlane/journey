@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Threat Intelligence
-  sort: 2
+  sort: 968
   level: 2
   description: Give access to the actual intelligence behind threats to DNS.
 entities:

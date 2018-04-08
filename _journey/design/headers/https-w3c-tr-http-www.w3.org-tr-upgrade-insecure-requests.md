@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HTTPS (W3C TR http://www.w3.org/TR/upgrade-insecure-requests)
-  sort: 84
+  sort: 503
   level: 2
   description: "The HTTPS HTTP request header field sends a signal to the server expressing
     the client\u2019s preference for an encrypted and authenticated response, and

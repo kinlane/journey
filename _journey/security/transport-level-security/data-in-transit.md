@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Data in Transit
-  sort: 1
+  sort: 2401
   level: 2
   description: Unless the public information is completely read-only, the use of TLS
     should be mandated, particularly where credentials, updates, deletions, and any

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Angular.js
-  sort: 7
+  sort: 2932
   level: 2
   description: Providing developers with AngularJS framework integration, allowing
     them to build single page applications using API resources.

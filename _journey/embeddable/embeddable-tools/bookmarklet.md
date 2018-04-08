@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Bookmarklet
-  sort: 4
+  sort: 3044
   level: 2
   description: A bookmarklet that can be added to the toolbar of a browser, and quickly
     push data to an API.

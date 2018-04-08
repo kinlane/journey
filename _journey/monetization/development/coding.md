@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Coding
-  sort: 7
+  sort: 3512
   level: 2
   description: How much work to I put into actually coding an API. I use the Slim
     PHP framework, and using automation scripts I can generate 75% of it usually,

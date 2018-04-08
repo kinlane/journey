@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Knowledgebase
-  sort: 4
+  sort: 1888
   level: 2
   description: Providing a single repository of content, organized by title, and tag,
     allowing you to search for keywords and phrases, as well as browse for answers.

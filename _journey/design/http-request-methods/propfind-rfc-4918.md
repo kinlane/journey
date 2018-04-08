@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: PROPFIND (RFC 4918)
-  sort: 26
+  sort: 306
   level: 2
   description: 'The PROPFIND method retrieves properties defined on the resource identified
     by the Request-URI, if the resource does not have any internal members, or on

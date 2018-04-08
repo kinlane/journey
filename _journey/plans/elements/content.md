@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content
-  sort: 33
+  sort: 3743
   level: 2
   description: One of the primary objectives for API resources existing is in support
     of acquiring data and content that fuels platform operations. This is a very common

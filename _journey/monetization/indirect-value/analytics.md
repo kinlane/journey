@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Analytics
-  sort: 11
+  sort: 3596
   level: 2
   description: How can analytics be leveraged as part of API value generation? Are
     analytics part of the base of operations, or are they an added value incentive

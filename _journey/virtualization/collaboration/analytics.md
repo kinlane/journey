@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Analytics
-  sort: 2
+  sort: 1580
   level: 2
   description: Provide real-time, and other analytics that give details of what is
     happening with virtualized APIs as they operate.

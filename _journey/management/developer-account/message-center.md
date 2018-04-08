@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Message Center
-  sort: 7
+  sort: 1805
   level: 2
   description: Providing developers with a messaging system within their developer
     accounts, and communicate with API providers, and receive system updates.

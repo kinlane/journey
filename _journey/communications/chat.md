@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Chat
-  sort: 12
+  sort: 1932
   level: 1
   description: Providing a live chant mechanism in the developer portal, allowing
     developers to connect directly with API support and evangelists.

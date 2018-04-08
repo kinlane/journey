@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Daily
-  sort: 4
+  sort: 3939
   level: 2
   description: Managing, guiding, and restricting plan entries in days. Like seconds
     and minutes this is a common timeframe for considering rate limits, and judging

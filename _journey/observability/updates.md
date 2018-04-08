@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Updates
-  sort: 3
+  sort: 2243
   level: 2
   description: Tuning into what updates are provide around platform operations, providing
     a look into what is being planned, what currently is happening, as well as what

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: 3rd Party Connectors
-  sort: 2
+  sort: 1072
   level: 3
   description: Providing a list of all the 3rd party connectors that are available
     and enable the deploying of APIs from existing services that are being consumed

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Brute Force Attack
-  sort: 1
+  sort: 2295
   level: 2
   description: A brute force attack can manifest itself in many different ways, but
     primarily consists in an attacker configuring predetermined values, making requests

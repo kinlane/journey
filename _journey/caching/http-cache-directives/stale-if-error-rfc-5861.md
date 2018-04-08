@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: stale-if-error (RFC 5861)
-  sort: 15
+  sort: 888
   level: 2
   description: 'The stale-if-error Cache-Control extension indicates that when an
     error is encountered, a cached stale response MAY be used to satisfy the request,

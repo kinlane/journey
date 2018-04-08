@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content Harvesting & Extraction
-  sort: 1
+  sort: 1147
   level: 3
   description: Defining how content and data will be harvested and extracting consistently
     across scraping operations.

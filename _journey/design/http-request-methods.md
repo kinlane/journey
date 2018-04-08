@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HTTP Request Methods
-  sort: 3
+  sort: 253
   level: 2
   description: Leverage the web, and utilizing all of the HTTP Request Methods that
     are available to work with, keeping the methods that are available for each service

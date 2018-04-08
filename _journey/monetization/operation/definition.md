@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Definition
-  sort: 1
+  sort: 3616
   level: 2
   description: How much resources am I applying to creating and maintaining APIs.json,
     Swagger, and API Blueprint definitions for my APIs.

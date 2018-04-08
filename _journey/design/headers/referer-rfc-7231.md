@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Referer (RFC 7231)
-  sort: 130
+  sort: 595
   level: 2
   description: 'The "Referer" header field allows the user agent to specify a URI
     reference for the resource from which the target URI was obtained (i.e., the "referrer",

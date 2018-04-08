@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SSL
-  sort: 8
+  sort: 1553
   level: 2
   description: Use of SSL when communicating with virtualized API instances.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Authorization (RFC 7616RFC 5849RFC 7235)
-  sort: 33
+  sort: 401
   level: 2
   description: 'The client is expected to retry the request, passing an Authorization
     header field line with Digest scheme, which is defined according to the framework

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Schema
-  sort: 4
+  sort: 150
   level: 2
   description: A representation of data model, used as part of an API request, or
     response, usually in JSON, but increasingly YAML, and Markdown are also used.

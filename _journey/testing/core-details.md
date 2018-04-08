@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Core Details
-  sort: 2
+  sort: 2070
   level: 2
   description: The core aspects of operating a testing campaign across all services,
     ensuring that they are granularly testing and ensured they are meeting SLAs, with

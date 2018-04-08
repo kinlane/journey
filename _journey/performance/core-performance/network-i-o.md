@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Network I/O
-  sort: 4
+  sort: 2167
   level: 2
   description: Allow for the monitoring of network I/O.
 entities:

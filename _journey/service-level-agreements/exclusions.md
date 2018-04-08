@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Exclusions
-  sort: 9
+  sort: 2616
   level: 1
   description: Outlining any exclusions in place regarding the applying of SLA across
     the platform, and what won't be considered an outage.

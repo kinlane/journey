@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Open Source
-  sort: 9
+  sort: 3307
   level: 2
   description: Providing open source tooling to accompany and support real time technology.
 entities:

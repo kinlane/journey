@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Newsletter
-  sort: 3
+  sort: 3986
   level: 2
   description: Provide a dedicated partner newsletter.
 entities:

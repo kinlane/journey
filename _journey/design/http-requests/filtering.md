@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Filtering
-  sort: 8
+  sort: 241
   level: 2
   description: Consider how filtering will happen across all APIs, and establish a
     single way to filter API resources.

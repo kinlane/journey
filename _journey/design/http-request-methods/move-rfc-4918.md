@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: MOVE (RFC 4918)
-  sort: 20
+  sort: 294
   level: 2
   description: 'The MOVE operation on a non-collection resource is the logical equivalent
     of a copy (COPY), followed by consistency maintenance processing, followed by

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Monetization
-  sort: 57
+  sort: 4496
   level: 1
   description: Plan for the monetization guidance that will be needed to drive a wider
     service governance strategy.

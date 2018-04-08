@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: URL
-  sort: 1
+  sort: 3195
   level: 2
   description: Tooling for managing the URL of a Webhook.
 entities:

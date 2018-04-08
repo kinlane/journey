@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Awareness
-  sort: 6
+  sort: 988
   level: 2
   description: Ensuring there is awareness of all activity occurring at the DNS layer,
     and providing the services and tools needed to establish and maintain this awareness.

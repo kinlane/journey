@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Keys
-  sort: 2
+  sort: 1735
   level: 2
   description: Outlining what the process will look like for issuing, managing, and
     revoking keys that give developers access to all services.

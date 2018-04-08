@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Analytics
-  sort: 3
+  sort: 3033
   level: 2
   description: Providing analytics as part of the embeddable tooling operations.
 entities:

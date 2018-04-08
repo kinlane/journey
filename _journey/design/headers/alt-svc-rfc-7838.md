@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Alt-Svc (RFC 7838)
-  sort: 27
+  sort: 389
   level: 2
   description: 'An HTTP(S) origin server can advertise the availability of alternative
     services to clients by adding an Alt-Svc header field to responses. '

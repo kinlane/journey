@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Data Display Requirements
-  sort: 2
+  sort: 2701
   level: 2
   description: What are the considerations for how data can be displayed. Any restrictions
     or considerations for displaying within web and mobile applications.

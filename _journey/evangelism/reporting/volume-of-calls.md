@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Volume of Calls
-  sort: 3
+  sort: 4204
   level: 2
   description: Historical and weekly accounting of API calls per API.
 entities:

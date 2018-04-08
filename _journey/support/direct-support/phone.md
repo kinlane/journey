@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Phone
-  sort: 3
+  sort: 1897
   level: 2
   description: Providing a phone number that developers can call when they need support.
 entities:

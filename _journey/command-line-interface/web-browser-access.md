@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Web Browser Access
-  sort: 5
+  sort: 2862
   level: 1
   description: Provide command line interface access in the browser, offering a shell
     that can be accessed anywhere and put services to work via the web CLI.

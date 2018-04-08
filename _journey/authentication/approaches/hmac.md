@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HMAC
-  sort: 14
+  sort: 1629
   level: 2
   description: Leveraging cryptography, an HMAC (sometimes disabbreviated as either
     keyed-hash message authentication code or hash-based message authentication code)

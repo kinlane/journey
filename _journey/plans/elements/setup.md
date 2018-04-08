@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Setup
-  sort: 7
+  sort: 3691
   level: 2
   description: What are the costs associated with setting up and configuring an account
     for API access. Whatever time and resources are involved with setting up, or even

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HTTP Live Streaming (HLS)
-  sort: 21
+  sort: 3415
   level: 2
   description: HTTP Live Streaming (also known as HLS) is an HTTP-based media streaming
     communications protocol implemented by Apple Inc. as part of its QuickTime, Safari,

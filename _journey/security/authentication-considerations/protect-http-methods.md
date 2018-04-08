@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Protect HTTP Methods
-  sort: 4
+  sort: 2284
   level: 2
   description: Making sure the incoming HTTP method is valid for the session token/API
     key and associated resource collection, action, and record.

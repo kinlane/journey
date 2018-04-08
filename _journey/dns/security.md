@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Security
-  sort: 4
+  sort: 963
   level: 2
   description: Considering the security implications present at the DNS layer, and
     making sure it is included in the comprehensive API security strategy.

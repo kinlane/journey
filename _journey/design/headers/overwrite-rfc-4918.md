@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Overwrite (RFC 4918)
-  sort: 117
+  sort: 569
   level: 2
   description: 'The Overwrite request header specifies whether the server should overwrite
     a resource mapped to the destination URL during a COPY or MOVE. '

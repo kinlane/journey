@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Geo / Regions
-  sort: 7
+  sort: 948
   level: 2
   description: Manage geographic specific details about domain operation.
 entities:

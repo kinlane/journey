@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Load Balancing
-  sort: 11
+  sort: 3841
   level: 2
   description: Measurement of resource usage, based upon the amount of load balancing
     that occurs.

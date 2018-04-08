@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Methods Whitelist
-  sort: 5
+  sort: 2286
   level: 2
   description: Properly restrict the allowable verbs such that only the allowed verbs
     would work, while all others would return a proper response code (for example,

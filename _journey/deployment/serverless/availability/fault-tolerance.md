@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Fault Tolerance
-  sort: 1
+  sort: 1468
   level: 3
   description: Automatically balancing scripts and functions across many locations,
     providing failover and redundancy by default.

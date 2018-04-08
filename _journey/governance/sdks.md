@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SDKs
-  sort: 38
+  sort: 4458
   level: 1
   description: Plan for the SDK guidance that will be needed to drive a wider service
     governance strategy.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Brand Awareness
-  sort: 3
+  sort: 3580
   level: 2
   description: 'Applying a brand strategy, and using the API to incentivize publishers
     to extend the reach of the brand and ultimately the platform '

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Showcase
-  sort: 62
+  sort: 4506
   level: 1
   description: Plan for the showcase guidance that will be needed to drive a wider
     service governance strategy.

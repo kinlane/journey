@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Storage
-  sort: 3
+  sort: 3620
   level: 2
   description: How much on disk storage am I using to operate an API? Could fluctuate
     from month to month, and exponentially increase for some.

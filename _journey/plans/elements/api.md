@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: API
-  sort: 47
+  sort: 3771
   level: 2
   description: There are APIs available to access all or part of the plans, pricing,
     or limitations around an API platform operations. The API platforms I track on

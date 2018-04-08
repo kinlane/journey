@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Risk Scoring
-  sort: 7
+  sort: 2462
   level: 2
   description: Offer a single scoring approach to be able to score attacks, based
     upon existing understanding of the space, but also historical data, providing

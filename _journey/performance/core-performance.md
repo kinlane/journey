@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Core Performance
-  sort: 2
+  sort: 2158
   level: 2
   description: The core aspects of operating a performance testing campaign across
     all services, ensuring that they are granularly testing and ensured they are meeting

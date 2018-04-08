@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Memento-Datetime (RFC 7089)
-  sort: 106
+  sort: 547
   level: 2
   description: 'The "Memento-Datetime" response header is used by a server to indicate
     that a response reflects a prior state of an Original Resource. Its value expresses

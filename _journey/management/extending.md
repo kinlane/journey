@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Extending
-  sort: 3
+  sort: 1758
   level: 2
   description: Exploring the ways in which API platforms are extending the features
     available at the API management layer, further customizing how APIs operate and

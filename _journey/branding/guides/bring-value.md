@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Bring Value
-  sort: 4
+  sort: 2686
   level: 2
   description: Explaining to API consumers that they should bring value to the platform,
     and not extract more value than they create. Demonstrating that this balance is

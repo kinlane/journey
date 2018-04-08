@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Extensible Messaging and Presence Protocol (XMPP)
-  sort: 10
+  sort: 3393
   level: 2
   description: XMPP is the Extensible Messaging and Presence Protocol, a set of open
     technologies for instant messaging, presence, multi-party chat, voice and video

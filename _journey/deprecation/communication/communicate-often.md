@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Communicate Often
-  sort: 10
+  sort: 4277
   level: 2
   description: Make sure and email, post to blog, tweet, and communicate regularly
     about the deprecation.

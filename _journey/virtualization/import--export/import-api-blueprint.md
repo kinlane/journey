@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Import API Blueprint
-  sort: 2
+  sort: 1569
   level: 2
   description: Allow for the creation of virtualized APIs using existing API Blueprint
     definitions.

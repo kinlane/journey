@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Characters
-  sort: 52
+  sort: 3924
   level: 2
   description: Counting of textual characters as part of the overall API consumption
     tracking process.

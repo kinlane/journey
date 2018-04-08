@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: MAJOR version when you make incompatible API changes,
-  sort: 1
+  sort: 898
   level: 2
   description: ~
 entities:

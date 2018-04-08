@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Twitter
-  sort: 2
+  sort: 2230
   level: 2
   description: An active Twitter account, that is dedicated to platform operations,
     provides a look into the real time exhaust from the regular things that are happening

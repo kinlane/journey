@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Program Details
-  sort: 1
+  sort: 3959
   level: 2
   description: What are the details of the partner program, with all resources, landing
     pages, and breakdown of how the program will work for consumers, setting the stage

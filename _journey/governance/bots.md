@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Bots
-  sort: 43
+  sort: 4468
   level: 1
   description: Plan for the bots and automation guidance that will be needed to drive
     a wider service governance strategy.

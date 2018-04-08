@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Heroku Deploy
-  sort: 2
+  sort: 4358
   level: 2
   description: Will there be Heroku deployment made available for any server or client
     implementations?

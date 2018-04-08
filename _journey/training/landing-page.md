@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Landing Page
-  sort: 1
+  sort: 4365
   level: 1
   description: Providing a landing page for aggregating and delivering all platform
     and service related training programs and materials for easy discovery and engagement.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OpenAPI
-  sort: 2
+  sort: 2723
   level: 2
   description: Providing a complete, machine readable definition using the JSON or
     YAML format from the OpenAPI Initiative.

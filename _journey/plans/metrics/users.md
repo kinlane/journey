@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Users
-  sort: 39
+  sort: 3898
   level: 2
   description: Using the number of users as a metric when it comes to planning, and
     pricing adjustments.

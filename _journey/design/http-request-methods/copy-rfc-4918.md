@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: COPY (RFC 4918)
-  sort: 7
+  sort: 268
   level: 2
   description: 'The COPY method creates a duplicate of the source resource identified
     by the Request-URI, in the destination resource identified by the URI in the Destination

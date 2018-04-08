@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Attribution License (ODC-By)
-  sort: 2
+  sort: 2653
   level: 2
   description: You are free to share, create, and adapt, as long as you attribute
     the data source.

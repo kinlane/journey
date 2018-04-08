@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Partner Showcase
-  sort: 9
+  sort: 4035
   level: 2
   description: Adding in details regarding how partners are showcased, and how other
     consumers, press, and stakeholders can discover and learn from existing partner

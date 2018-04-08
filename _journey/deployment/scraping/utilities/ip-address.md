@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: IP Address
-  sort: 5
+  sort: 1307
   level: 3
   description: Provide the ability to select from different IP address pools, change,
     and optimize IP addresses used in the scraping and crawling process.

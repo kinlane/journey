@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Downtime
-  sort: 2
+  sort: 2602
   level: 1
   description: Details that describe what downtime means, and how it is measured and
     quantified as part of making sure services meet a certain level of availability.

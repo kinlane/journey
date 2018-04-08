@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Resource List
-  sort: 5
+  sort: 1683
   level: 2
   description: A single bulleted list of all the available resources for an API platform.
 entities:

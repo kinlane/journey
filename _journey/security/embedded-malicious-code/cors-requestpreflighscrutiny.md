@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: CORS RequestPreflighScrutiny
-  sort: 6
+  sort: 2345
   level: 2
   description: Opening up the possibility to expose resources to all or restricted
     domain, made by AJAX request for resource on other domain than is source domain.

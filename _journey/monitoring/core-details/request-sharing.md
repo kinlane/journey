@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Sharing
-  sort: 7
+  sort: 1986
   level: 2
   description: Allow the sharing of a specific request designated for monitoring.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Email Newsletter
-  sort: 8
+  sort: 1924
   level: 1
   description: An email newsletter dedicated to cover news across platform operations,
     providing weekly summary of activity in the inbox.

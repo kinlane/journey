@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Revenue
-  sort: 11
+  sort: 3539
   level: 2
   description: What revenue opportunities for the ecosystem around an API and its
     operation, sharing in the money made from platform operations.

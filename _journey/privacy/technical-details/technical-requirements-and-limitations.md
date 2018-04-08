@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Technical Requirements and Limitations
-  sort: 1
+  sort: 2590
   level: 2
   description: What are the technical requirements and limitations that impact the
     privacy of platform owners, consumers, and end-users.

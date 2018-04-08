@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Path Traversal
-  sort: 5
+  sort: 2421
   level: 2
   description: A Path Traversal attack aims to access files and directories that are
     stored outside the web root folder, by browsing the application, the attacker

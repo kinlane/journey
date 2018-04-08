@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Partner
-  sort: 3
+  sort: 4245
   level: 1
   description: Having a strategy for the publishing of a partners showcase directory,
     and a process for shining the spotlight on partners via regularly occurring cycles.

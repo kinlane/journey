@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Batch Requests
-  sort: 2
+  sort: 1002
   level: 2
   description: Allowing for batch request submissions of DNS changes.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Discounts
-  sort: 7
+  sort: 3531
   level: 2
   description: Can we give discounts when you buy credits through specific channels,
     promotions, or other type of planned deal.

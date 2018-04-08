@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Free
-  sort: 3
+  sort: 3683
   level: 2
   description: Is this a free resource, or set of resources, something that may not
     apply to all plans. Free should be considered even if it is part of a trial, demo,

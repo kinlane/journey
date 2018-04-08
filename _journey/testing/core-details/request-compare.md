@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Compare
-  sort: 8
+  sort: 2087
   level: 2
   description: Allow for the comparing of two requests.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Training
-  sort: 64
+  sort: 4510
   level: 1
   description: Plan for the training guidance that will be needed to drive a wider
     service governance strategy.

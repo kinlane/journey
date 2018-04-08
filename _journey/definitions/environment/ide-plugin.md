@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: IDE Plugin
-  sort: 2
+  sort: 182
   level: 2
   description: Providing integration with existing integrated development environments
     (IDE), giving developers API discovery, documentation, and integration tooling

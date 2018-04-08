@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Endpoint List
-  sort: 4
+  sort: 1681
   level: 2
   description: Display a list of all available API endpoints in a single list for
     easy review of what is available within a platform.

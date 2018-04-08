@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Migration Partners
-  sort: 2
+  sort: 4327
   level: 2
   description: Are there any migration partners that can help out during any migrations,
     syncing, configuration, and setup of external solutions.

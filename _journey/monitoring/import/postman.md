@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Postman
-  sort: 1
+  sort: 2003
   level: 2
   description: Allow for importing using Postman Collections.
 entities:

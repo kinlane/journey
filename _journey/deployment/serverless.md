@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Serverless
-  sort: 29
+  sort: 1441
   level: 2
   description: Powering the serverless deployment of services, using scalability scripts
     and functions to drive each service, and individual API paths.

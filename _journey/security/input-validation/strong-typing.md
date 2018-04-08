@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Strong Typing
-  sort: 4
+  sort: 2377
   level: 2
   description: It's difficult to perform most attacks if the only allowed values are
     true or false, or a number, or one of a small number of acceptable values. Strongly

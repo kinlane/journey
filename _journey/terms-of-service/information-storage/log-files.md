@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Log Files
-  sort: 2
+  sort: 2501
   level: 2
   description: Providing some details on how log files are used in platform operations,
     what is logged, and what isn't, and how things are collected, retained and shared.

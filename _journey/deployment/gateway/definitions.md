@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Definitions
-  sort: 2
+  sort: 1123
   level: 2
   description: Allowing for the importing and exporting of API definitions and schema
     to define, evolve, and make the structure of APIs portable.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Training
-  sort: 4
+  sort: 4073
   level: 1
   description: Providing training course, materials, workshops, and other resources
     for helping ensure that developers and applications can understand what is required

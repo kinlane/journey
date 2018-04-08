@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Extending
-  sort: 4
+  sort: 2998
   level: 2
   description: Allowing developers to extend and evolve their development environments
     through plugins, scripts, and other modules that are designed to augment and extend

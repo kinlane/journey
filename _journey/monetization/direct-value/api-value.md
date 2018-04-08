@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: API Value
-  sort: 1
+  sort: 3519
   level: 2
   description: Each API will have its own credit rate set, where some will be one
     credit, while others may be 100 credits to make a single call, it can be defined

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Region Lists
-  sort: 1
+  sort: 3177
   level: 1
   description: Providing lists of regions that are available to operate within across
     many different providers, allowing API developers to understand where they can

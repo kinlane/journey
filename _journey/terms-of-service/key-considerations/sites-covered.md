@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Sites Covered
-  sort: 1
+  sort: 2475
   level: 2
   description: What sites are covered by the terms of use. Even if there is a single,
     provide a basic reference to the domain. If there are multiple domains, make sure

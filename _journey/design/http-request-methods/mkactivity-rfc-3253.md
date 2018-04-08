@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: MKACTIVITY (RFC 3253)
-  sort: 15
+  sort: 284
   level: 2
   description: 'A MKACTIVITY request creates a new activity resource. A server MAY
     restrict activity creation to particular collections, but a client can determine

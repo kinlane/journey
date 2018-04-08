@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Resources
-  sort: 2
+  sort: 3069
   level: 1
   description: Profiling the resources available regarding building and operating
     bots on a platform, involving any particular service.

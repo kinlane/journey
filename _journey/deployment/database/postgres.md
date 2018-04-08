@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: PostGres
-  sort: 6
+  sort: 1030
   level: 2
   description: Providing a connection to PostGres database that allows for quick access
     to tables and fields, making data available through an API from the backend database.

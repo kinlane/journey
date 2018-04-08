@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Transmission Control Protocol (TCP)
-  sort: 16
+  sort: 3405
   level: 2
   description: The Transmission Control Protocol (TCP) is a core protocol of the Internet
     protocol suite. It originated in the initial network implementation in which it

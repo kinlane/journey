@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: public (RFC 7234)
-  sort: 13
+  sort: 884
   level: 2
   description: 'The "public" response directive indicates that any cache MAY store
     the response, even if the response would normally be non-cacheable or cacheable

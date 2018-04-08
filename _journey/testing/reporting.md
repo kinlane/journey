@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reporting
-  sort: 5
+  sort: 2121
   level: 2
   description: Providing what is needed to properly report upon testing that is occurring
     across services, allowing for reporting to all stakeholders regarding how well

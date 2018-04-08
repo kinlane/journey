@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Open Database License (ODC-ODbL)
-  sort: 3
+  sort: 2655
   level: 2
   description: You are free to share, create, and adapt, as long as you attribute
     the data source, share-aloe, and keep open.

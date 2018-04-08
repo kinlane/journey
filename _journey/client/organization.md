@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Organization
-  sort: 4
+  sort: 2795
   level: 2
   description: Enabling the organization of definitions, collections, templates and
     other artifacts that can be used to integrate and put services to use at the client

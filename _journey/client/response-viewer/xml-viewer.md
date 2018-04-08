@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: XML Viewer
-  sort: 2
+  sort: 2833
   level: 2
   description: Provide a viewer for seeing the XML returned, and be able to copy,
     paste, save, and other features.

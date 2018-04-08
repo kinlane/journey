@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: DASL (RFC 5323)
-  sort: 63
+  sort: 461
   level: 2
   description: 'The DASL response header indicates server support for query grammars
     in the OPTIONS method. The value is a list of URIs that indicate the types of

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Session State
-  sort: 2
+  sort: 2280
   level: 2
   description: Many web services are written to be as stateless as possible, usually
     ending up with a state blob being sent as part of the transaction.

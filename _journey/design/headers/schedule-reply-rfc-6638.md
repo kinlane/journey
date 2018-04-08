@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Schedule-Reply (RFC 6638)
-  sort: 136
+  sort: 607
   level: 2
   description: 'The Schedule-Reply request header is used by a client to indicate
     to a server whether or not a scheduling operation ought to occur when an "Attendee"

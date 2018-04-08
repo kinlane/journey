@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Java
-  sort: 6
+  sort: 2892
   level: 2
   description: An SDK available in the Java programming language, with consideration
     specifically tailored for the language.

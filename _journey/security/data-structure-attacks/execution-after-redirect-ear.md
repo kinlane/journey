@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Execution After Redirect (EAR)
-  sort: 6
+  sort: 2324
   level: 2
   description: 'Execution After Redirect (EAR) is an attack where an attacker ignores
     redirects and retrieves sensitive content intended for authenticated users. A

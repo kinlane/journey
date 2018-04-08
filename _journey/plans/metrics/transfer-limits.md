@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Transfer Limits
-  sort: 24
+  sort: 3867
   level: 2
   description: Using the ability to change transfer limits as a metric in API consumption.
 entities:

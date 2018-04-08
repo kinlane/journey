@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: If-None-Match (RFC 7232)
-  sort: 91
+  sort: 517
   level: 2
   description: 'The "If-None-Match" header field makes the request method conditional
     on a recipient cache or origin server either not having any current representation

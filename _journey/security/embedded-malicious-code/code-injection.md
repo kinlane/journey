@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Code Injection
-  sort: 1
+  sort: 2335
   level: 2
   description: Attack types which consist of injecting code that is then interpreted/executed
     by the application, exploiting poor handling of untrusted data, and usually made

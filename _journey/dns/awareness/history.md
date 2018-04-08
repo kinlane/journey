@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: History
-  sort: 3
+  sort: 995
   level: 2
   description: Give access to DNS activity history allowing for the search and browsing
     of all services in the past.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Final Date
-  sort: 9
+  sort: 4320
   level: 2
   description: What is the final date for shutdown, requiring all syncs, migrations,
     exports, and integration to completely cease.

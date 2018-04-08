@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Monetization Development Kit (MDK)
-  sort: 6
+  sort: 2936
   level: 2
   description: Beyond just the technical, what code is available to help API consumers
     monetize their applications, and generate revenue as part of their integration,

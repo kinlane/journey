@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Discounts
-  sort: 1
+  sort: 4047
   level: 2
   description: Provide discounts on direct support for partners.
 entities:

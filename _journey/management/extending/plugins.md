@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Plugins
-  sort: 1
+  sort: 1761
   level: 2
   description: What opportunities are there for extending the API management layer,
     adding functionality, and connecting to external services.?

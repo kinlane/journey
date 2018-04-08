@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Sign Up Email
-  sort: 6
+  sort: 1780
   level: 2
   description: Providing a simple, informative, personal email immediately upon signup,
     letting developers know what they need to onboard.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: URL Metrics
-  sort: 2
+  sort: 1322
   level: 3
   description: Provide metrics on specific URLs, offering detail on its activity.
 entities:

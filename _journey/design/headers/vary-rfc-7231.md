@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Vary (RFC 7231)
-  sort: 175
+  sort: 685
   level: 2
   description: 'The "Vary" header field in a response describes what parts of a request
     message, aside from the method, Host header field, and request target, might influence

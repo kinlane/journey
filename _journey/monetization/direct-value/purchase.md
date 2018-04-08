@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Purchase
-  sort: 5
+  sort: 3527
   level: 2
   description: What does it cost to buy a credit, something that could fluctuate from
     day to day, week to week, or month to month.

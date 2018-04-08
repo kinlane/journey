@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Summarization
-  sort: 2
+  sort: 1152
   level: 3
   description: Providing a summarization of content that is extracted from a URL.
 entities:

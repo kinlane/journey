@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: MKCALENDAR (RFC 4791)
-  sort: 16
+  sort: 286
   level: 2
   description: 'An HTTP request using the MKCALENDAR method creates a new calendar
     collection resource. A server MAY restrict calendar collection creation to particular

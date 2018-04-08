@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Open Graph Protocol
-  sort: 1
+  sort: 3060
   level: 2
   description: The Open Graph protocol enables any web page to become a rich object
     in a social graph, by embedding of simple tags in the pages header that describe

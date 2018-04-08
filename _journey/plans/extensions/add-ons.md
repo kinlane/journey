@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Add-Ons
-  sort: 1
+  sort: 3780
   level: 2
   description: Factoring the availability of add-ons into specific API plans or overall
     API operations.

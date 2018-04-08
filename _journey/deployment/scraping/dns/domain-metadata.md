@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Domain Metadata
-  sort: 2
+  sort: 1220
   level: 3
   description: Providing details about domains that can be used in the scraping and
     crawling process.

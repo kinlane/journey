@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Blog Posts
-  sort: 1
+  sort: 4025
   level: 2
   description: Provide blog posts for partners to take advantage of one time or recurring.
 entities:

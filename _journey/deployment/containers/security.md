@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Security
-  sort: 3
+  sort: 1373
   level: 2
   description: Establish what the security practices are for scanning, auditing, and
     executing after deploying APIs within container, as well as on a regular schedule.

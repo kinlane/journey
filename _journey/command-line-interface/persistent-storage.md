@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Persistent Storage
-  sort: 7
+  sort: 2866
   level: 1
   description: Providing persistent storage that is accessible via the command line
     interface, allowing for storing of commands, and results of executed commands.

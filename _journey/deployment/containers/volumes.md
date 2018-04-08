@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Volumes
-  sort: 6
+  sort: 1379
   level: 2
   description: Establish storage volumes using one of the designated storage services,
     providing isolated, but universally accessible and scalable storage volumes.

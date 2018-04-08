@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Users
-  sort: 22
+  sort: 3561
   level: 2
   description: How is value generated on a per user level? More users is valuable,
     or possible fewer users. Teams, groups, and many other ways to determine how users

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Other Assets
-  sort: 3
+  sort: 2674
   level: 2
   description: What other assets are available at your company that you use to help
     guide internal branding strategies, that maybe you could repurpose, and share

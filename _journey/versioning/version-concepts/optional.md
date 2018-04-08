@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Optional
-  sort: 3
+  sort: 911
   level: 2
   description: 'You MUST NOT make optional things required   '
 entities:

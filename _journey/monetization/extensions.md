@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Extensions
-  sort: 5
+  sort: 3604
   level: 2
   description: How are extensions, add-ons, and introducing ways to extend services
     being monetized allowing for new revenue streams beyond the core features of service

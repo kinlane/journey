@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Data Structure Attacks
-  sort: 5
+  sort: 2311
   level: 2
   description: Focusing in on possible data structure attacks that can occur probing
     and opening up holes in common backend data sources, and approaches to making

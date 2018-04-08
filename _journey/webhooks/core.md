@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Core
-  sort: 1
+  sort: 3192
   level: 2
   description: Focusing in on the core aspects of webhooks and how they operate, providing
     details on the essential features users will need when putting webhooks to work

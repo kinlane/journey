@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Service
-  sort: 4
+  sort: 1140
   level: 2
   description: What 3rd party services are available for delivering search services
     in association with a platform's operation, providing a sanctioned search solution.

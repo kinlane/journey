@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Web Parameter Tampering
-  sort: 15
+  sort: 2364
   level: 2
   description: An attacked based on the manipulation of parameters exchanged between
     client and server in order to modify application data, such as user credentials

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Hourly
-  sort: 3
+  sort: 3937
   level: 2
   description: Managing, guiding, and restricting plan entries in hours. While there
     may be rate limits at the hourly level, this timeframe is more applied to resources

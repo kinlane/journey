@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: API License
-  sort: 4
+  sort: 4288
   level: 2
   description: How will the API definition, and data schema be licensed for reuse?
 entities:

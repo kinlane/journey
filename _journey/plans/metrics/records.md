@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Records
-  sort: 17
+  sort: 3853
   level: 2
   description: Measuring API access based upon the number of records accessed or returned.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Use of Logo
-  sort: 3
+  sort: 3995
   level: 2
   description: Allow partners to use the platform logo, or special partner platform
     logo.

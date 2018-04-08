@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Themes
-  sort: 2
+  sort: 2996
   level: 2
   description: Are there theme options, allowing the environment, workspace, and projects
     to be custom defined by stored themes.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: ETag (RFC 7232)
-  sort: 75
+  sort: 485
   level: 2
   description: 'The "ETag" header field in a response provides the current entity-tag
     for the selected representation, as determined at the conclusion of handling the

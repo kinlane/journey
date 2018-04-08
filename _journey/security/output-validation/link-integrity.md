@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Link Integrity
-  sort: 4
+  sort: 2396
   level: 2
   description: Checks the reputation of web links in real time, providing an invisibly
     secure experience by blocking malicious and unwanted links from being present

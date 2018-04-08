@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Rankings
-  sort: 4
+  sort: 1326
   level: 3
   description: 'Providing rankings that can be applied to domains, URLs, content,
     data, media, and other building blocks of the crawling and scraping activities.     '

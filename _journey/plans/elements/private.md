@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Private
-  sort: 1
+  sort: 3679
   level: 2
   description: Is this plan a private one, available only to a limited audience? While
     the landing page, or overall portal might be publicly available, the API access

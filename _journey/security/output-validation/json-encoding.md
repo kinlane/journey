@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: JSON Encoding
-  sort: 2
+  sort: 2392
   level: 2
   description: Use a proper JSON serializer to encode user-supplied data properly
     to prevent the execution of user-supplied input on the browser.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Logging
-  sort: 3
+  sort: 3222
   level: 2
   description: The logging of all activity generated via webhook activity.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Threats
-  sort: 12
+  sort: 2440
   level: 2
   description: Identifying the ways in which additional threat data and intelligence
     can be obtained and aggregated alongside platform information, providing more

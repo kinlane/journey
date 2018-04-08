@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Authentication
-  sort: 2
+  sort: 3311
   level: 2
   description: Covering the ways in which real time services are authenticated and
     authorized when it comes to making data and content available in streams and dedicated

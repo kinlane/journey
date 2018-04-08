@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Logging
-  sort: 6
+  sort: 1309
   level: 3
   description: Providing logging for scraping and crawling with the ability to search,
     and configure as needed.

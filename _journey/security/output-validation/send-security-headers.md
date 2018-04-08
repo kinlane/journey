@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Send Security Headers
-  sort: 1
+  sort: 2390
   level: 2
   description: The server should always send the Content-Type header with the correct
     Content-Type, and preferably the Content-Type header should include a charset.

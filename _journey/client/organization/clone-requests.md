@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Clone Requests
-  sort: 3
+  sort: 2803
   level: 2
   description: Enable the HTTP client to clone existing requests, and generate new
     collections or requests from existing definitions.

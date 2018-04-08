@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Overview
-  sort: 1
+  sort: 2467
   level: 2
   description: The overview of the terms of service, providing a single place where
     stakeholders can find all legal documents governing the services available via

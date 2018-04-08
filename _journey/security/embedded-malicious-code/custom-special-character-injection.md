@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Custom Special Character Injection
-  sort: 8
+  sort: 2350
   level: 2
   description: Not properly filtering or quoting special characters or reserved words
     that are used in a custom or proprietary language or representation, allowing

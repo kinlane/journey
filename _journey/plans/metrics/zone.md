@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Zone
-  sort: 48
+  sort: 3916
   level: 2
   description: Another form of grouping API access, into zones, allowing consumers
     to access and use resources by zone.

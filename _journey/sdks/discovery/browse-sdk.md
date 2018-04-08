@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Browse SDK
-  sort: 3
+  sort: 2955
   level: 2
   description: Is there a browsable directory of SDKs, that developers can use to
     find the SDK that they need? Potentially giving more information than just a listing.

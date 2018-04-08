@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Cookie (Internet Draft ietf-httpbis-rfc6265bis RFC 6265)
-  sort: 61
+  sort: 457
   level: 2
   description: 'The user agent sends stored cookies to the origin server in the Cookie
     header.The user agent sends stored cookies to the origin server in the Cookie

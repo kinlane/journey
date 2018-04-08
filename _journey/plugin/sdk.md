@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SDK
-  sort: 1
+  sort: 2962
   level: 1
   description: The details of how plugins should be designed, developed, deployment
     and managed, with exit code, documentation other resources to deliver platform

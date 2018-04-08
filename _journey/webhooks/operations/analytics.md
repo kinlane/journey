@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Analytics
-  sort: 1
+  sort: 3218
   level: 2
   description: Providing analytics on webhooks activity, triggers, usage, and other
     aspects of operations.

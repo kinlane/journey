@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: ACL (RFC 3744)
-  sort: 1
+  sort: 256
   level: 2
   description: 'The ACL method modifies the access control list (which can be read
     via the DAV:acl property) of a resource. Specifically, the ACL method only permits

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Validation
-  sort: 6
+  sort: 1754
   level: 2
   description: Details about what type of validation should occur at the management
     layer, ensuring that the path, request, or response elements of a service meet

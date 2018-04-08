@@ -6,7 +6,7 @@ rel:
 properties:
   name: Providing legal guidelines for how developers can monetize around resources
     that are available via an API.
-  sort: 1
+  sort: 2541
   level: 2
   description: ~
 entities:

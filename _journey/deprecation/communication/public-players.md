@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Public Players
-  sort: 2
+  sort: 4261
   level: 2
   description: Once key stakeholders are made aware, what is the plan to go public,
     and make the general community, and industry aware that the API deprecation is

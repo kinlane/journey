@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Search
-  sort: 12
+  sort: 1849
   level: 1
   description: Allowing for each search across all aggregated log files, looking by
     keyword, tags, source, application, and other relevant data points that will matter

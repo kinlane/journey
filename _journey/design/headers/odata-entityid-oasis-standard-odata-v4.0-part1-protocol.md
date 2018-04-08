@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OData-EntityId (OASIS Standard odata-v4.0-part1-protocol)
-  sort: 109
+  sort: 553
   level: 2
   description: 'A response to a create or upsert operation that returns 204 No Content
     MUST include an OData-EntityId response header. The value of the header is the

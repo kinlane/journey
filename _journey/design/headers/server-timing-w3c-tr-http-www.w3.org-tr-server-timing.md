@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Server-Timing (W3C TR http://www.w3.org/TR/server-timing)
-  sort: 146
+  sort: 627
   level: 2
   description: 'The Server-Timing header field is used to communicate one or more
     metrics and descriptions for the given request-response cycle. '

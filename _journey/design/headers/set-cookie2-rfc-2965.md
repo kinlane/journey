@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Set-Cookie2 (RFC 2965)
-  sort: 150
+  sort: 635
   level: 2
   description: 'The origin server initiates a session, if it so desires. To do so,
     it returns an extra response header to the client, Set-Cookie2. '

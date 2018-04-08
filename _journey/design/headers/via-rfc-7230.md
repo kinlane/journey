@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Via (RFC 7230)
-  sort: 176
+  sort: 687
   level: 2
   description: 'The "Via" header field indicates the presence of intermediate protocols
     and recipients between the user agent and the server (on requests) or between

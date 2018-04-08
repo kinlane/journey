@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: JSON
-  sort: 6
+  sort: 3385
   level: 2
   description: JSON (JavaScript Object Notation) is a lightweight data-interchange
     format. It is easy for humans to read and write. It is easy for machines to parse

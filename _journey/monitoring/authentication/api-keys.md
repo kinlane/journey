@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: API Keys
-  sort: 3
+  sort: 1969
   level: 2
   description: Using API keys for authentication.
 entities:

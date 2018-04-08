@@ -6,7 +6,7 @@ rel:
 properties:
   name: "90-Day Breaking Changes \u2014 Changes and deprecations that will take effect
     90 days after the version release date."
-  sort: 7
+  sort: 919
   level: 2
   description: ~
 entities:

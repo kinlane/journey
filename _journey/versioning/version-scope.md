@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Version Scope
-  sort: 1
+  sort: 895
   level: 2
   description: Putting together a plan for how the different scopes of versioning
     will be adopted, applied, and communicated across all layers, and stops along

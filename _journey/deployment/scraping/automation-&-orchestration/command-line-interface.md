@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Command Line Interface
-  sort: 3
+  sort: 1213
   level: 3
   description: Offering a standardize command line interface set of options and commands
     for working with the scraping workflow.

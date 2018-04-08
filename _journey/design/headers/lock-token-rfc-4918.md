@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Lock-Token (RFC 4918)
-  sort: 102
+  sort: 539
   level: 2
   description: 'The Lock-Token request header is used with the UNLOCK method to identify
     the lock to be removed. '

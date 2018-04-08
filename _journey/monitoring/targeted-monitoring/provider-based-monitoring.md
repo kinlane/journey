@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Provider Based Monitoring
-  sort: 1
+  sort: 2039
   level: 2
   description: Being able to monitor an LAPI from a particular provider.
 entities:

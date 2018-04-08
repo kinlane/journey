@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Collections
-  sort: 1
+  sort: 2798
   level: 2
   description: Allow for requests to be saved, and stored into collections that can
     be named,

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OAuth 2.0
-  sort: 5
+  sort: 2771
   level: 2
   description: OAuth 2.0 is supported by an HTTP client for authentication as part
     of ay request being made.

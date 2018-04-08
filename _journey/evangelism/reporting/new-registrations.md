@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: New Registrations
-  sort: 2
+  sort: 4202
   level: 2
   description: Historical and weekly accounting of new developer registrations across
     APIs.

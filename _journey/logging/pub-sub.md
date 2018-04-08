@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Pub/Sub
-  sort: 10
+  sort: 1845
   level: 1
   description: Providing a publish / subscribe platform using Websub that identifying
     logging topics, and establishes channels that relevant users, systems, and applications

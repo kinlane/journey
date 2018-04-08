@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Image Assets
-  sort: 1
+  sort: 2672
   level: 2
   description: What image assets are available to support and encourage branding efforts
     by API consumers? Could be logos, all the way to banners--anything image related

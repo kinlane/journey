@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Automation
-  sort: 10
+  sort: 2091
   level: 2
   description: Allow for the automation of multiple requests.
 entities:

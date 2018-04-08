@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Sec-WebSocket-Key (RFC 6455)
-  sort: 141
+  sort: 617
   level: 2
   description: 'The Sec-WebSocket-Key header field is used in the WebSocket opening
     handshake. It is sent from the client to the server to provide part of the information

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Glossary
-  sort: 9
+  sort: 1723
   level: 2
   description: A glossary of terms that applies to an industry, platform, and the
     business or technical aspects of operations, providing API consumers who may not

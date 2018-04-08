@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Format String Attack
-  sort: 9
+  sort: 2352
   level: 2
   description: Occurring when the submitted data of an input string is evaluated as
     a command, allowing the execution of code, to read the stack, or cause a segmentation

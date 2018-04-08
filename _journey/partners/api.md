@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: API
-  sort: 11
+  sort: 4055
   level: 2
   description: Providing programmatic interfaces for partners to engage with their
     special access to services, and other resources, allowing for seamless integration

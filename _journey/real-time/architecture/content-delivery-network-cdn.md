@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content Delivery Network (CDN)
-  sort: 6
+  sort: 3301
   level: 2
   description: Providing content delivery network (CDN) infrastructure to accompany
     and support real time technology.

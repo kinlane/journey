@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: XPath
-  sort: 5
+  sort: 1187
   level: 3
   description: Allow the application of XPath when processing XML files during the
     web crawling process.

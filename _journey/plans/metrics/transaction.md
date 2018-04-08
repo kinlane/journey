@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Transaction
-  sort: 4
+  sort: 3827
   level: 2
   description: Allow for the concept of transactions to exist which may span multiple
     API calls, moving a single concept forward.

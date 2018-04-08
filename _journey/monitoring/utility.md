@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Utility
-  sort: 8
+  sort: 2045
   level: 2
   description: Some of the other utility considerations for working with the monitoring
     of services, and ensuring a certain quality of service at scale across all services.

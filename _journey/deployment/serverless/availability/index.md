@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Availability
-  sort: 2
+  sort: 1465
   level: 3
   description: Dialing in the performance and availability of each serverless script
     or function allowing them to behave differently depending on the type of service

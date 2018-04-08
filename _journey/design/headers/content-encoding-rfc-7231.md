@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content-Encoding (RFC 7231)
-  sort: 48
+  sort: 431
   level: 2
   description: 'The "Content-Encoding" header field indicates what content codings
     have been applied to the representation, beyond those inherent in the media type,

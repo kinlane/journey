@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: C#
-  sort: 3
+  sort: 1451
   level: 3
   description: Enabling the deployment of scripts written in the C# programming language,
     which can be independently scaled, and used by each service, and its individual

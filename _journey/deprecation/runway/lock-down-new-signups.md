@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Lock-down New Signups
-  sort: 5
+  sort: 4312
   level: 2
   description: When will new signups for the platform be locked down, stopping all
     new user and application registration.

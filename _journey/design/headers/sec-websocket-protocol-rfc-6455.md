@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Sec-WebSocket-Protocol (RFC 6455)
-  sort: 142
+  sort: 619
   level: 2
   description: 'The Sec-WebSocket-Protocol header field is used in the WebSocket opening
     handshake. It is sent from the client to the server and back from the server to

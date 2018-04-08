@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Retry-After (RFC 7231)
-  sort: 132
+  sort: 599
   level: 2
   description: 'Servers send the "Retry-After" header field to indicate how long the
     user agent ought to wait before making a follow-up request. When sent with a 503

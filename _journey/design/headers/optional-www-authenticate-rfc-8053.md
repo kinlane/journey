@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Optional-WWW-Authenticate (RFC 8053)
-  sort: 113
+  sort: 561
   level: 2
   description: 'The Optional-WWW-Authenticate header enables a non-mandatory authentication,
     which is not possible under the current HTTP authentication mechanism. '

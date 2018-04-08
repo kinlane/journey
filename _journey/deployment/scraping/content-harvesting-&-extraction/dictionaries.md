@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Dictionaries
-  sort: 13
+  sort: 1174
   level: 3
   description: Provide the ability to create, access, and manage dictionaries from
     extracted content, and for applying to content that is harvested.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: XML Extraction
-  sort: 6
+  sort: 1294
   level: 3
   description: The extraction of structured data from XML files harvested from URLs.
 entities:

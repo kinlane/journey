@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Scripting
-  sort: 11
+  sort: 2181
   level: 2
   description: Allow for the scripting againsts tests.
 entities:

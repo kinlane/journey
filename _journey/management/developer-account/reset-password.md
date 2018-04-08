@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reset Password
-  sort: 3
+  sort: 1797
   level: 2
   description: Provide the necessary tools for developers to gain access to their
     account if they lose their password.

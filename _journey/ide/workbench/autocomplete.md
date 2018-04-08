@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Autocomplete
-  sort: 4
+  sort: 2982
   level: 2
   description: One of the hallmark features of an IDE, is autocomplete for specific
     languages and frameworks. In this scenario autocomplete is focused on dictionaries

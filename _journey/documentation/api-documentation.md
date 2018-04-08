@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: API Documentation
-  sort: 2
+  sort: 1689
   level: 2
   description: The details of an API's surface area, with all the details needed to
     put to services work, and be able to full integrate with the platform.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: RAW Viewer
-  sort: 4
+  sort: 2837
   level: 2
   description: Provide a viewer for seeing the raw response returned, and be able
     to copy, paste, save, and other features.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Credits to Bill
-  sort: 3
+  sort: 3643
   level: 2
   description: All revenue is paid in credits on account, and user can decide to get
     buy out of credits at any time, or possibly use in other aspects of system operation.

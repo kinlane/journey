@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reseller Discounts
-  sort: 2
+  sort: 4011
   level: 2
   description: Offer reseller discounts from referrals they make.
 entities:

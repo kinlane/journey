@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Children's Online Privacy Protection Act (COPPA)
-  sort: 2
+  sort: 2524
   level: 2
   description: "Congress enacted the Children\u2019s Online Privacy Protection Act
     (COPPA) in 1998. COPPA required the Federal Trade Commission to issue and enforce

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Service
-  sort: 4
+  sort: 4247
   level: 1
   description: Regularly shining a light on specific platform, partner, or 3rd party
     service that will provide value to platform consumers, highlighting interesting

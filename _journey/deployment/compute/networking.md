@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Networking
-  sort: 7
+  sort: 1343
   level: 2
   description: Outlining what is the standard process for network setup, configuration,
     and management for each available service.

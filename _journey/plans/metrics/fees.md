@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Fees
-  sort: 43
+  sort: 3906
   level: 2
   description: Fees that are used as part of API accounts, and consumption, and applied
     as part of API plans.

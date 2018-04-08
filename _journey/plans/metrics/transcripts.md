@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Transcripts
-  sort: 19
+  sort: 3857
   level: 2
   description: Measuring API access based upon the transcripts generated.
 entities:

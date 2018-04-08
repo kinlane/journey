@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Forced Browsing
-  sort: 4
+  sort: 2419
   level: 2
   description: An attack that enumerates and opens up access to resources that are
     not referenced by the API, allowing the discovery unlinked contents in the domain

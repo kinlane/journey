@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content Security Policy
-  sort: 4
+  sort: 2341
   level: 2
   description: Open up the possibility to instruct the client browser from which location
     and/or which type of resources are allowed to be loaded, providing a directive

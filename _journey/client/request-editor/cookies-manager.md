@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Cookies Manager
-  sort: 3
+  sort: 2822
   level: 2
   description: Being able create, edit, and remove cookies that control any session
     of a request being made through the client.

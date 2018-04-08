@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Circuit Breakers
-  sort: 7
+  sort: 1756
   level: 2
   description: Allowing for a circuit breaker model to exist between a service, and
     it's backend dependencies, triggering when a backend service becomes unreliable

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Messaging
-  sort: 3
+  sort: 3325
   level: 2
   description: Approaches to enabling messaging for users from custom formats, to
     SMTP, XMPP chat, and any other way of sending messages back and forth between

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Web Beacons
-  sort: 1
+  sort: 2513
   level: 2
   description: Are web beacons in use? Are they return as part of API operations,
     and possibly required in all web and mobile deployments

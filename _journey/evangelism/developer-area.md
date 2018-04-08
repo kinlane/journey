@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Developer Area
-  sort: 6
+  sort: 4139
   level: 2
   description: Making sure the developer portal(s), and other supporting destinations
     are visited, evaluated, and considered in an ongoing way to make sure they aren't

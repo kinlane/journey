@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Verification
-  sort: 4
+  sort: 984
   level: 2
   description: Ability to verify availability, and health of DNS infrastructure, and
     certifying for other parties.

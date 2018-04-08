@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Max-Forwards (RFC 7231)
-  sort: 105
+  sort: 545
   level: 2
   description: 'The "Max-Forwards" header field provides a mechanism with the TRACE
     and OPTIONS request methods to limit the number of times that the request is forwarded

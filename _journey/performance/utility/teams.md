@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Teams
-  sort: 4
+  sort: 2218
   level: 2
   description: Enable team environments for performance testing.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Cryptanalysis
-  sort: 3
+  sort: 2299
   level: 2
   description: Cryptanalysis is a process of finding weaknesses in cryptographic algorithms
     and using these weaknesses to decipher the ciphertext without knowing the secret

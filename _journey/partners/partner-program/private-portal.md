@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Private Portal
-  sort: 2
+  sort: 3975
   level: 2
   description: A private portal for partners to login to.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reliability
-  sort: 6
+  sort: 3124
   level: 1
   description: What is in place to help ensure reliability across many disparate API
     providers, ensuring a certain quality of service when one breaks or goes away?

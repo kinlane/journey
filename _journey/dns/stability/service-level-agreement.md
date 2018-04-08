@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Service Level Agreement
-  sort: 5
+  sort: 986
   level: 2
   description: Providing a service level agreement for DNS customers.
 entities:

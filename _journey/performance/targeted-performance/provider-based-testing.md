@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Provider Based Testing
-  sort: 2
+  sort: 2207
   level: 2
   description: Allow for performance tests from specific providers.
 entities:

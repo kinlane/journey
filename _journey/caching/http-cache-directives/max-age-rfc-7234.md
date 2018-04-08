@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: max-age (RFC 7234)
-  sort: 3
+  sort: 864
   level: 2
   description: 'The "max-age" request directive indicates that the client is unwilling
     to accept a response whose age is greater than the specified number of seconds.

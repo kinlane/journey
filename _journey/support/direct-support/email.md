@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Email
-  sort: 2
+  sort: 1895
   level: 2
   description: Providing a simple email address that API consumers can use when looking
     to get answers to their questions.

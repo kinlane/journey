@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Spam Score
-  sort: 3
+  sort: 1324
   level: 3
   description: Providing a spam score for domains or URLs included as part of crawling
     and spider process.

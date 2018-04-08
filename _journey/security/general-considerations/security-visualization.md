@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Security Visualization
-  sort: 2
+  sort: 2452
   level: 2
   description: Allowing API owners with reports and charting, allowing them to visualize
     the surface area and security of an API. Providing a single way to see all the

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Video Extraction
-  sort: 2
+  sort: 1269
   level: 3
   description: The extraction of videos from content pulled from URLs.
 entities:

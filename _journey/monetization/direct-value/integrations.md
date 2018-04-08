@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Integrations
-  sort: 26
+  sort: 3569
   level: 2
   description: What external integrations are available? How can these be leveraged
     to enhance the value for consumers? Are some integrations part of base operations,

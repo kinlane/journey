@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Application
-  sort: 2
+  sort: 4069
   level: 1
   description: A program for certifying that applications meet a certain level of
     quality and integrity, and meet or exceed the platforms requirements for integration.

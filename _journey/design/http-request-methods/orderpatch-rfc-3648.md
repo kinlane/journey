@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: ORDERPATCH (RFC 3648)
-  sort: 22
+  sort: 298
   level: 2
   description: 'The ORDERPATCH method is used to change the ordering semantics of
     a collection, to change the order of the collection''s members in the ordering,

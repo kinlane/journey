@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Orchestration
-  sort: 6
+  sort: 4394
   level: 1
   description: Plan for the orchestration details are needed to provide what is needed
     to feed a wider service governance strategy.

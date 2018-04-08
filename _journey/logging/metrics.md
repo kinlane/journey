@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Metrics
-  sort: 15
+  sort: 1855
   level: 1
   description: Establishing and documenting all metrics that are applied across log
     files, understand the data points that will matter the post when it comes to visualizations,

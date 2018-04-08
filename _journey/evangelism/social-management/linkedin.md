@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: LinkedIn
-  sort: 1
+  sort: 4225
   level: 2
   description: Setup of new API specific LinkedIn profile page who will follow developers
     and other relevant users for engagement.  Posting of all API evangelism activities.

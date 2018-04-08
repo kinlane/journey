@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Image Color Extraction
-  sort: 4
+  sort: 1273
   level: 3
   description: Identifying of colors present in images extracted from URLs.
 entities:

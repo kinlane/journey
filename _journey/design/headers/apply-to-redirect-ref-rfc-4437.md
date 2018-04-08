@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Apply-To-Redirect-Ref (RFC 4437)
-  sort: 30
+  sort: 395
   level: 2
   description: 'The optional Apply-To-Redirect-Ref header can be used on any request
     to a redirect reference resource. When it is present and set to "T", the request

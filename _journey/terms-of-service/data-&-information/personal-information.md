@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Personal Information
-  sort: 2
+  sort: 2486
   level: 2
   description: What personal information is collected, stored, shared, and put to
     use? What are the security procedures, and other considerations for dealing with

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Hard to Misuse
-  sort: 6
+  sort: 212
   level: 2
   description: When APIs do one thing, and does it well, you reduce the opportunity
     for misuse, and people putting them to work in unintended ways.

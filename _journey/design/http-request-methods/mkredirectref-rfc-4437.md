@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: MKREDIRECTREF (RFC 4437)
-  sort: 18
+  sort: 290
   level: 2
   description: 'The MKREDIRECTREF method requests the creation of a redirect reference
     resource. '

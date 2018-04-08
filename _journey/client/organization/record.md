@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Record
-  sort: 4
+  sort: 2805
   level: 2
   description: Allow for any saved request to be recorded, for playback later.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Session Fixation
-  sort: 7
+  sort: 2326
   level: 2
   description: An attack that permits an attacker to hijack a valid user session,
     and explore a limitation in the way the web application manages the session ID,

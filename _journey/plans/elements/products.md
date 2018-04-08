@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Products
-  sort: 35
+  sort: 3747
   level: 2
   description: An API primarily exists to support the existence, or drive the sales
     of another product, or product line. I separate out devices from this grouping,

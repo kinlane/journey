@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: JSON Web Token (JWT) (RFC 7519)
-  sort: 1
+  sort: 1640
   level: 2
   description: 'JSON Web Token (JWT) is a compact, URL-safe means of representing
     claims to be transferred between two parties. The claims in a JWT are encoded

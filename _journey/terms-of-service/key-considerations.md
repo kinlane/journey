@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Key Considerations
-  sort: 2
+  sort: 2472
   level: 2
   description: Some of the key considerations when it comes to the terms of service
     that are governing how the services can and cannot be put to use within applications.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Customize
-  sort: 3
+  sort: 3005
   level: 2
   description: Are there options for customizing the IDE, from look and feel, to the
     functionality.

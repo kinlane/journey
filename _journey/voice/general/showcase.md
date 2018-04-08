@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Showcase
-  sort: 3
+  sort: 3436
   level: 2
   description: Is there a place where voice-enablement gets showcased, on the blog,
     via dedicated application directory, or other location highlighting what is possible?

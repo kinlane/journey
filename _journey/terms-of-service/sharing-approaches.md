@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Sharing Approaches
-  sort: 6
+  sort: 2510
   level: 2
   description: Details regarding how data and content is being shared by the platform,
     as well how developers are expected to share or not share valuable resources being

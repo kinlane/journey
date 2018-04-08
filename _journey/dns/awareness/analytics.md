@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Analytics
-  sort: 1
+  sort: 991
   level: 2
   description: Providing analytics about DNS configuration and operations an operation
     through visual interface.

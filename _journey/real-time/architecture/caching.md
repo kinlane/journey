@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Caching
-  sort: 7
+  sort: 3303
   level: 2
   description: Providing caching infrastructure to accompany and support real time
     technology.

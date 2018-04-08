@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Users
-  sort: 2
+  sort: 3652
   level: 2
   description: How much revenue is being brought in on a monthly basis for a specific
     user, for an API and all of its endpoints.

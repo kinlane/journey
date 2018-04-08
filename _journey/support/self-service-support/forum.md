@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Forum
-  sort: 1
+  sort: 1882
   level: 2
   description: A modern, up to date, active, and well monitored forum, providing self-service
     access to information about an APIs operation.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Base URL for API
-  sort: 1
+  sort: 929
   level: 2
   description: Providing a simple base URL for accessing API resources -
 entities:

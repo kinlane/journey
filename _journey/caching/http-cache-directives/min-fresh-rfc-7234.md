@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: min-fresh (RFC 7234)
-  sort: 5
+  sort: 868
   level: 2
   description: 'The "min-fresh" request directive indicates that the client is willing
     to accept a response whose freshness lifetime is no less than its current age

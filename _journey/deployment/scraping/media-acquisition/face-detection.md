@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Face Detection
-  sort: 5
+  sort: 1275
   level: 3
   description: Identifying faces within images and photos extracted from URLs.
 entities:

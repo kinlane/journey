@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Activity By Group
-  sort: 1
+  sort: 4200
   level: 2
   description: Summary and highlights from weekly activity within the each area of
     API evangelism strategy.

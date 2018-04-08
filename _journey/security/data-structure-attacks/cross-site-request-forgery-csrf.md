@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Cross-Site Request Forgery (CSRF)
-  sort: 5
+  sort: 2322
   level: 2
   description: An attack that forces an end user to execute unwanted actions on a
     web application in which they're currently authenticated, targeting state-changing

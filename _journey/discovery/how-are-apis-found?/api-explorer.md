@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: API Explorer
-  sort: 4
+  sort: 2755
   level: 2
   description: Sometimes also called consoles are designed to provide an interactive
     interface for developers to discover, explore, make calls and see responses in

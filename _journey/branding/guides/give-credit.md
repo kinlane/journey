@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Give Credit
-  sort: 3
+  sort: 2684
   level: 2
   description: Explaining to API consumers that they should give credit where appropriate,
     and use common sense when it comes to integrations and giving proper credit to

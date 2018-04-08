@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Partners
-  sort: 59
+  sort: 4500
   level: 1
   description: Plan for the partner guidance that will be needed to drive a wider
     service governance strategy.

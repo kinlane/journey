@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Chat
-  sort: 4
+  sort: 3327
   level: 2
   description: Providing a always on experience when messaging, establishing presence
     awareness of each user that is part of a conversation.

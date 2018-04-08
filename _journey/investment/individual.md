@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Individual
-  sort: 1
+  sort: 3469
   level: 1
   description: What individual investments have been made when it comes to platform
     operations, or are available to make future investments in new services, or applications

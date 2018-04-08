@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Depth (RFC 4918)
-  sort: 69
+  sort: 473
   level: 2
   description: 'The Depth request header is used with methods executed on resources
     that could potentially have internal members to indicate whether the method is

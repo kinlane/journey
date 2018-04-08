@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: PaaS
-  sort: 31
+  sort: 3739
   level: 2
   description: Is the API operations secondary to a strong PaaS focus for a platform.
     How does an API add value to a PaaS offering? Considering the relationship between

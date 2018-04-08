@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reddit
-  sort: 3
+  sort: 4218
   level: 2
   description: Social bookmarking of all relevant API evangelism activities as well
     as relevant industry landscape topics to Reddit, to keep a fair and balanced profile,

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Sec-WebSocket-Accept (RFC 6455)
-  sort: 139
+  sort: 613
   level: 2
   description: 'The Sec-WebSocket-Accept header field is used in the WebSocket opening
     handshake. It is sent from the server to the client to confirm that the server

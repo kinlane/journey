@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Commands
-  sort: 2
+  sort: 2856
   level: 1
   description: Providing a list of the available commands that can be applied to commands
     and put services to work on the platform.

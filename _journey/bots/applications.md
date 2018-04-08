@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Applications
-  sort: 6
+  sort: 3077
   level: 1
   description: Information and directories regarding the registering and sharing of
     bot applications that are operating on a platform using existing services.

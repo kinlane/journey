@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Rate Limiting
-  sort: 4
+  sort: 3357
   level: 2
   description: Provide tools for controlling the rate limits of activities on a platform,
     via a number of different mechanisms.

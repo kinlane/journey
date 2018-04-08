@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Python
-  sort: 2
+  sort: 2884
   level: 2
   description: An SDK available in the Python programming language, with consideration
     specifically tailored for the language.

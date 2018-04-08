@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Attribution-ShareAlike (CC BY-SA)
-  sort: 2
+  sort: 2628
   level: 2
   description: This license lets others remix, tweak, and build upon your work even
     for commercial purposes, as long as they credit you and license their new creations

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Response Header Inspector
-  sort: 2
+  sort: 2075
   level: 2
   description: Ability to inspect a response header.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Bearer (RFC 6750)
-  sort: 3
+  sort: 1607
   level: 2
   description: 'All challenges defined by this specification MUST use the auth-scheme
     value "Bearer". This scheme MUST be followed by one or more auth-param values. '

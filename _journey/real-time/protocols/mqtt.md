@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: MQTT
-  sort: 3
+  sort: 3379
   level: 2
   description: MQTT is a machine-to-machine (M2M)/Internet of Things connectivity
     protocol. It was designed as an extremely lightweight publish/subscribe messaging

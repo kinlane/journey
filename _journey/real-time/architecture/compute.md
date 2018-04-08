@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Compute
-  sort: 2
+  sort: 3293
   level: 2
   description: Providing cloud compute infrastructure to accompany and support real
     time technology.

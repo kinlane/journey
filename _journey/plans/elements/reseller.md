@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reseller
-  sort: 24
+  sort: 3725
   level: 2
   description: There are reseller opportunities in place around resources available
     via the platform, that allow approved API consumers to access resources, as well

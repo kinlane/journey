@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Monitoring
-  sort: 22
+  sort: 4426
   level: 1
   description: Plan for the monitoring guidance that will be needed to drive a wider
     service governance strategy.

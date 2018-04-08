@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Instances
-  sort: 6
+  sort: 3831
   level: 2
   description: Allowing for instances of resources that are available via an API platform,
     and can be used in different ways within existing plans.

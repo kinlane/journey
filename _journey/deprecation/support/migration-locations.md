@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Migration Locations
-  sort: 3
+  sort: 4329
   level: 2
   description: Are there any other existing platforms, including competitors, that
     you can point API consumers to, as an alternative to the API being deprecated.

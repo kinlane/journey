@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: How We Use Your Information
-  sort: 1
+  sort: 2484
   level: 2
   description: Be clear about how information is used. Is it only used as part of
     operations. Provide straightforward explanations of how information is put to

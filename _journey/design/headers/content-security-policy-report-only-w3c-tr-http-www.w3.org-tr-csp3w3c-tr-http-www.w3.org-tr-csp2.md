@@ -6,7 +6,7 @@ rel:
 properties:
   name: Content-Security-Policy-Report-Only (W3C TR http://www.w3.org/TR/CSP3W3C TR
     http://www.w3.org/TR/CSP2)
-  sort: 55
+  sort: 445
   level: 2
   description: 'The Content-Security-Policy-Report-Only HTTP response header field
     allows web developers to experiment with policies by monitoring (but not enforcing)

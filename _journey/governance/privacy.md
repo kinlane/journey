@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Privacy
-  sort: 30
+  sort: 4442
   level: 1
   description: Plan for the privacy guidance that will be needed to drive a wider
     service governance strategy.

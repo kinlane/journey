@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Transfer-Encoding (RFC 7230)
-  sort: 167
+  sort: 669
   level: 2
   description: 'The Transfer-Encoding header field lists the transfer coding names
     corresponding to the sequence of transfer codings that have been (or will be)

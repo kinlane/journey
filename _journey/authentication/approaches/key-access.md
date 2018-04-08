@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Key Access
-  sort: 1
+  sort: 1603
   level: 2
   description: Providing simple tokens, often called API key as a common way to access
     to APIs, issuing one to each developer and per application they register.

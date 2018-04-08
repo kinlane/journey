@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content
-  sort: 4
+  sort: 3988
   level: 2
   description: What are the content opportunities that partners can take advantage
     of, helping stimulate and enforce the partner arrangement and increase the platform

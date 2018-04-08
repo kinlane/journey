@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: GET-Location (Internet Draft reschke-http-get-location)
-  sort: 82
+  sort: 499
   level: 2
   description: 'The GET-Location entity header identifies a substitute resource that
     can be used in subsequent requests for the same information, but using the GET

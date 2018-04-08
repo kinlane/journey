@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Login Button
-  sort: 5
+  sort: 3046
   level: 2
   description: Providing a single click button for logging into system.
 entities:

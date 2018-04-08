@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Information Sharing
-  sort: 3
+  sort: 2517
   level: 2
   description: How is information shared with partners, government, and any potentially
     external partners. Does this occur via the API, and how does this affect terms

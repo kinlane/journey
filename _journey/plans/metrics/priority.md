@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Priority
-  sort: 46
+  sort: 3912
   level: 2
   description: Providing the option of being prioritized in API requests and responses,
     and measured as part of overall planning.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: BASELINE-CONTROL (RFC 3253)
-  sort: 2
+  sort: 258
   level: 2
   description: 'A collection can be placed under baseline control with a BASELINE-CONTROL
     request. When a collection is placed under baseline control, the DAV:version-controlled-configuration

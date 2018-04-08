@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: s-maxage (RFC 7234)
-  sort: 14
+  sort: 886
   level: 2
   description: 'The "s-maxage" response directive indicates that, in shared caches,
     the maximum age specified by this directive overrides the maximum age specified

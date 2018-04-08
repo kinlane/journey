@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OpenID
-  sort: 13
+  sort: 1627
   level: 2
   description: Providing simple identity layer on top of the OAuth 2.0 protocol, which
     allows computing clients to verify the identity of an end-user based on the authentication

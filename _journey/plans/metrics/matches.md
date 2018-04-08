@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Matches
-  sort: 7
+  sort: 3833
   level: 2
   description: Allowing for the measurement of API access in terms of when pre-defined
     matches are returned, rather than all of the results.

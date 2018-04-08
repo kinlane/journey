@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content Display Requirements
-  sort: 1
+  sort: 2699
   level: 2
   description: What are the considerations for how content can be displayed. Any restrictions
     or considerations for displaying within web and mobile applications.

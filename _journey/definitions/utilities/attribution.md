@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Attribution
-  sort: 1
+  sort: 190
   level: 2
   description: Where did the API definition originate? Is there a source where all
     or part of the API design came from? Providing design, or operational attribution,

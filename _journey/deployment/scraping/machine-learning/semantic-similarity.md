@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Semantic Similarity
-  sort: 2
+  sort: 1258
   level: 3
   description: Look for the similarities that exist after relating syntactic structures
     in content to the level of the writing as a whole, to their language-independent

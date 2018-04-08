@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Sec-COWL (W3C TR http://www.w3.org/TR/COWL)
-  sort: 138
+  sort: 611
   level: 2
   description: 'The Sec-COWL HTTP request and response headers are used by user agents
     and servers to convey label metadata to servers and user agents, respectively. '

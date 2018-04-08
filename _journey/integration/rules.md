@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Rules
-  sort: 12
+  sort: 3153
   level: 1
   description: Establishing a set of rules of what is acceptable when it comes to
     integrating 3rd party services with a platform, establishing a reasonable expectation

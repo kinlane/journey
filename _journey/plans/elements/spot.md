@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Spot
-  sort: 11
+  sort: 3699
   level: 2
   description: There is an opportunity to big on resources in a localized or distributed
     marketplace driven environment. Maybe the demand for a resource changes from week,

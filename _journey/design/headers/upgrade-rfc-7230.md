@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Upgrade (RFC 7230)
-  sort: 170
+  sort: 675
   level: 2
   description: 'The "Upgrade" header field is intended to provide a simple mechanism
     for transitioning from HTTP/1.1 to some other protocol on the same connection.

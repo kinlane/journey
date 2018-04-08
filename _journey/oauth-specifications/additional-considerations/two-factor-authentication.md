@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Two Factor Authentication
-  sort: 3
+  sort: 1650
   level: 2
   description: 'Allowing API consumers to turn on and employ two factor authentication,
     requiring an additional component to making changes to account security, either

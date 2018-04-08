@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Use of Personally Identifiable Information
-  sort: 1
+  sort: 2559
   level: 2
   description: Linking to the same area in terms of service, how is privacy considered
     when personally identifiable information is put to use. Lay out what is considered

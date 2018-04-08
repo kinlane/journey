@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Access To Information
-  sort: 5
+  sort: 2492
   level: 2
   description: What levels of access are there. Is everything available via APIs or
     downloads, or are there restrictions around what you can get access to.

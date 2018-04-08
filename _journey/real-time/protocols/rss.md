@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: RSS
-  sort: 4
+  sort: 3381
   level: 2
   description: 'RSS (Rich Site Summary; originally RDF Site Summary; often called
     Really Simple Syndication) uses a family of standard web feed formats to publish

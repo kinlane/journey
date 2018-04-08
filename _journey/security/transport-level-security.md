@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Transport Level Security
-  sort: 9
+  sort: 2398
   level: 2
   description: Diving deeper into transport level security and understand the security
     concerns as services are being delivered, and thinking about how information could

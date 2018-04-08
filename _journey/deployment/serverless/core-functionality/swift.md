@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Swift
-  sort: 8
+  sort: 1461
   level: 3
   description: Enabling the deployment of scripts written in the Swift programming
     language, which can be independently scaled, and used by each service, and its

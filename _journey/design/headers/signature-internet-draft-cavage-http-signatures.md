@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Signature (Internet Draft cavage-http-signatures)
-  sort: 151
+  sort: 637
   level: 2
   description: 'The "signature" HTTP Header is based on the model that the sender
     must authenticate itself with a digital signature produced by either a private

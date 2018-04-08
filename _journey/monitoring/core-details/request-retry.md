@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Retry
-  sort: 6
+  sort: 1984
   level: 2
   description: Being able to retry a specific request that has been made at previous
     time frame.

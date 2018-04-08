@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Docker Image
-  sort: 3
+  sort: 4360
   level: 2
   description: Will there be Docker images made available for any server or client
     implementations?

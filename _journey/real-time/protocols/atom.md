@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Atom
-  sort: 5
+  sort: 3383
   level: 2
   description: The name Atom applies to a pair of related Web standards. The Atom
     Syndication Format is an XML language used for web feeds, while the Atom Publishing

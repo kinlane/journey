@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Upload Size
-  sort: 15
+  sort: 3849
   level: 2
   description: Restricting and measuring API access based upon file upload size.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Search
-  sort: 4
+  sort: 1204
   level: 3
   description: Providing search tools for access content that is scraped from URLs.
 entities:

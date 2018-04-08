@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Containers
-  sort: 24
+  sort: 1366
   level: 2
   description: Providing standard practices for defining, deploying, and managing
     the deployment of services using common containerization services and tooling,

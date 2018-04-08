@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Authentication
-  sort: 1
+  sort: 1134
   level: 2
   description: Information about authenticating at disk, and existing APIs, content
     sources, and services, accommodating the majority of common ways to authenticate.

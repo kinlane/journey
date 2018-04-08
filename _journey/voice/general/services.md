@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Services
-  sort: 1
+  sort: 3432
   level: 2
   description: What services are in operation to serve voice enablement, providing
     a more conversational friendly set of resources to enable this particular clients?

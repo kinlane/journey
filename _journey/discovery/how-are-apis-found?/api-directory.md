@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: API Directory
-  sort: 1
+  sort: 2749
   level: 2
   description: API directories allow for the submissions and curation of APIs, then
     enable users to search and browse by keywords and tags, in many areas.

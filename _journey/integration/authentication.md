@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Authentication
-  sort: 1
+  sort: 3131
   level: 1
   description: Providing the mechanisms for the most common approaches to API authentication,
     including basic auth, digest auth, session based, oAuth.

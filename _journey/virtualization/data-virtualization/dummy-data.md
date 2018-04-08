@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Dummy Data
-  sort: 2
+  sort: 1560
   level: 2
   description: Dummy data sets that can be imported individually or as collections
     into virtualized APIs.

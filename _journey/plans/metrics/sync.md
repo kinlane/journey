@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Sync
-  sort: 25
+  sort: 3869
   level: 2
   description: Measurement for API consumption based upon the number of syncs that
     are expected.

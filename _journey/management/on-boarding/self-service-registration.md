@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Self-Service Registration
-  sort: 2
+  sort: 1772
   level: 2
   description: Providing a self-service registration for a developer portal, allowing
     developers to signup and get access to an API, 24 hours a day, 7 days a week.

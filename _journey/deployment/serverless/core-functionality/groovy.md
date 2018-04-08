@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Groovy
-  sort: 5
+  sort: 1455
   level: 3
   description: Enabling the deployment of scripts written in the Groovy programming
     language, which can be independently scaled, and used by each service, and its

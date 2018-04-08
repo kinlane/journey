@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: From (RFC 7231)
-  sort: 81
+  sort: 497
   level: 2
   description: 'The "From" header field contains an Internet email address for a human
     user who controls the requesting user agent. '

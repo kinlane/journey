@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Registration
-  sort: 4
+  sort: 942
   level: 2
   description: Being able to register new domains, purchase, and manage ownership
     and registrar.

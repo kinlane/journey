@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Postman
-  sort: 1
+  sort: 2194
   level: 2
   description: Allow for tests to be imported using Postman.
 entities:

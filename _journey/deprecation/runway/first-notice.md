@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: First Notice
-  sort: 4
+  sort: 4310
   level: 2
   description: What is the time to the first external notice, either privately to
     partners, or also publicly to the general community.

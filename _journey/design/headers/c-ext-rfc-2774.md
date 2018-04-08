@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: C-Ext (RFC 2774)
-  sort: 34
+  sort: 403
   level: 2
   description: 'The C-Ext response header field is used to indicate that all hop-by-hop
     mandatory extension declarations in the request were fulfilled. '

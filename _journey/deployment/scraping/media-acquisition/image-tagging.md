@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Image Tagging
-  sort: 3
+  sort: 1271
   level: 3
   description: Tagging of images with specific topics when extracted from URLs.
 entities:

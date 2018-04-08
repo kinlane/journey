@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: REBIND (RFC 5842)
-  sort: 29
+  sort: 312
   level: 2
   description: 'The REBIND method removes a binding to a resource from a collection,
     and adds a binding to that resource into the collection identified by the Request-URI.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Merger
-  sort: 8
+  sort: 173
   level: 2
   description: Tooling or other APIs that provide for the merging of common API definition
     formats, allowing the granularity of what elements get merged, or do not get merged.

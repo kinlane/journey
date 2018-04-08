@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Virtualization
-  sort: 3
+  sort: 2216
   level: 2
   description: Allow performance tests to be conducted against virtualized instances.
 entities:

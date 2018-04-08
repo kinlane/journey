@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Region Based Testing
-  sort: 2
+  sort: 2133
   level: 2
   description: Begin able to monitor from a specific geographical region.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: What's New
-  sort: 6
+  sort: 1685
   level: 2
   description: A simple, up to date list of what has changed recently across all documentation.
 entities:

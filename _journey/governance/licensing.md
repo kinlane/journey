@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Licensing
-  sort: 32
+  sort: 4446
   level: 1
   description: Plan for the licensing guidance that will be needed to drive a wider
     service governance strategy.

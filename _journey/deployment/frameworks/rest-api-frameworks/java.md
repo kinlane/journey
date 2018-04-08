@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Java
-  sort: 6
+  sort: 1403
   level: 3
   description: A REST API framework for easily deploying APIs, and handles all the
     most common elements of deploying an API, using the Java language.

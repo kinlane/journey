@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Statistics
-  sort: 6
+  sort: 3361
   level: 2
   description: Providing statistical information about how API resources are being
     consumed in a client.

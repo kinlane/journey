@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Double Encoding
-  sort: 3
+  sort: 2417
   level: 2
   description: Encoding user request parameters twice in hexadecimal format in order
     to bypass security controls or cause unexpected behavior from the application.

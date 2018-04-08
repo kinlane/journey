@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: International
-  sort: 8
+  sort: 1246
   level: 3
   description: Making the scraping process as flexible as possible when it comes to
     identifying languages, and adjusting to different geographic regions being targeted.

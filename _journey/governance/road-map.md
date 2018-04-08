@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Road Map
-  sort: 19
+  sort: 4420
   level: 1
   description: Plan for the road map guidance that will be needed to drive a wider
     service governance strategy.

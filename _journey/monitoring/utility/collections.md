@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Collections
-  sort: 1
+  sort: 2048
   level: 2
   description: Being able to organize requests into collections.
 entities:

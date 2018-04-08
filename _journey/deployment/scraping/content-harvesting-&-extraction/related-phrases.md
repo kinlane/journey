@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Related Phrases
-  sort: 11
+  sort: 1170
   level: 3
   description: Identifying related phrases with content extracted from website URL.
 entities:

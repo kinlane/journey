@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Validation
-  sort: 2
+  sort: 3485
   level: 2
   description: All acquisition of data will require some sort of validation to ensure
     the quality of information.

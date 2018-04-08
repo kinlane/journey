@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Technical Details
-  sort: 4
+  sort: 2587
   level: 2
   description: Speaking to the technical details, limitations, and implications on
     privacy, and how those are addressed, communicated, and shared.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Memory
-  sort: 49
+  sort: 3918
   level: 2
   description: Allowing for the measurement of resource access to be determined by
     the amount of memory available or consumed.

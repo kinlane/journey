@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Latency Testing
-  sort: 14
+  sort: 2187
   level: 2
   description: Provide latency testing tools.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Sorting
-  sort: 10
+  sort: 245
   level: 2
   description: Establish a single approach to how API responses can be sorted, and
     use across all API resources.

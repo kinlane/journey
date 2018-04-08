@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Policies
-  sort: 4
+  sort: 1375
   level: 2
   description: Defining policies that can be applied at the container level, guiding
     how they are used to power different types of services.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HTTP Requests
-  sort: 2
+  sort: 224
   level: 2
   description: Defining common patterns that can be used across the request structure
     of all services, helping ensure consistent interfaces for putting platform services.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: StumbleUpon
-  sort: 2
+  sort: 4216
   level: 2
   description: Social bookmarking of all relevant API evangelism activities as well
     as relevant industry landscape topics to StumbleUpon, to keep a fair and balanced

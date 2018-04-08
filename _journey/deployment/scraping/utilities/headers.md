@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Headers
-  sort: 3
+  sort: 1303
   level: 3
   description: Giving control over what headers are sent as part of the scraping and
     crawling process.

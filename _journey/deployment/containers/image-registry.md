@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Image Registry
-  sort: 1
+  sort: 1369
   level: 2
   description: Establishing a container image registry with available container images,
     and instructions for how images are meant to be deployed in support of services.

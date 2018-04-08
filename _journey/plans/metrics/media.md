@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Media
-  sort: 40
+  sort: 3900
   level: 2
   description: Measuring specifically media related considerations as part of API
     consumption tracking.

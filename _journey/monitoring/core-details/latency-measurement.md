@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Latency Measurement
-  sort: 2
+  sort: 1976
   level: 2
   description: Measuring the latency associated with a specific request.
 entities:

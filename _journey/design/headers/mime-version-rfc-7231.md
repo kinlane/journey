@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: MIME-Version (RFC 7231)
-  sort: 103
+  sort: 541
   level: 2
   description: 'HTTP is not a MIME-compliant protocol. However, messages can include
     a single MIME-Version header field to indicate what version of the MIME protocol

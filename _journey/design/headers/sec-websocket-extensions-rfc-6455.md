@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Sec-WebSocket-Extensions (RFC 6455)
-  sort: 140
+  sort: 615
   level: 2
   description: 'The Sec-WebSocket-Extensions header field is used in the WebSocket
     opening handshake. It is initially sent from the client to the server, and then

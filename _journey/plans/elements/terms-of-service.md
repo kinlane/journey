@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Terms of Service
-  sort: 42
+  sort: 3761
   level: 2
   description: API resources allow for the dynamic configuration of available terms
     of service that cover access and usage of resources. Terms of service will play

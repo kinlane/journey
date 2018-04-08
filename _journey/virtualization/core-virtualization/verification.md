@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Verification
-  sort: 6
+  sort: 1549
   level: 2
   description: Verification that a virtualization environment exists and matches existing
     definition.

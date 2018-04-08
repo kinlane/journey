@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Data & Information
-  sort: 3
+  sort: 2481
   level: 2
   description: Looking at how the terms of service covers aspects of accessing and
     ownership of data, governing how platform information can be put to use within

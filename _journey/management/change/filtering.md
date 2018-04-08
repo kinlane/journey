@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Filtering
-  sort: 5
+  sort: 1752
   level: 2
   description: Outlining what filters are available or being applied at the management
     layer, preventing certain features, data, and other elements from passing through

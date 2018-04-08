@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Negotiate (RFC 4559)
-  sort: 7
+  sort: 1615
   level: 2
   description: 'Use of Kerberos is wrapped in an HTTP auth-scheme of "Negotiate". '
 entities:

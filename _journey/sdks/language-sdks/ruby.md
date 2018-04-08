@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Ruby
-  sort: 3
+  sort: 2886
   level: 2
   description: An SDK available in the Ruby programming language, with consideration
     specifically tailored for the language.

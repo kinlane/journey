@@ -6,7 +6,7 @@ rel:
 properties:
   name: Providing mobile focused SDKs for developers to build Android mobile applications
     on top of an API.
-  sort: 3
+  sort: 2905
   level: 2
   description: ~
 entities:

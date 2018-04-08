@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Partner Search
-  sort: 3
+  sort: 4042
   level: 2
   description: A keyword search for discovering partners.
 entities:

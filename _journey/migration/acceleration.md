@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Acceleration
-  sort: 7
+  sort: 3252
   level: 1
   description: Identifying solutions and processes for accelerating the server, container,
     database, data, or storage migration.

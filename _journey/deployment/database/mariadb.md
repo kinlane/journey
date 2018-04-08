@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: MariaDB
-  sort: 11
+  sort: 1040
   level: 2
   description: Providing a connection to MariaDB database that allows for quick access
     to tables and fields, making data available through an API from the backend database.

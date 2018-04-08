@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Devices
-  sort: 34
+  sort: 3745
   level: 2
   description: Situations where APIs are available in support of devices. You can
     see examples of this with Fitbit or Nest, where they API is just value-add to

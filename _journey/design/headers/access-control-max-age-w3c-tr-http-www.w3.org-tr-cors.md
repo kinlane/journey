@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Access-Control-Max-Age (W3C TR http://www.w3.org/TR/cors)
-  sort: 22
+  sort: 379
   level: 2
   description: 'The Access-Control-Max-Age header indicates how long the results of
     a preflight request can be cached in a preflight result cache. '

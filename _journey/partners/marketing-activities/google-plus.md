@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Google Plus
-  sort: 5
+  sort: 4033
   level: 2
   description: Post updates to the platforms Google Plus account.
 entities:

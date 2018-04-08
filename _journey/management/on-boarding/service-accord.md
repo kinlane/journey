@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Service Accord
-  sort: 5
+  sort: 1778
   level: 2
   description: Service level agreements (SLA) provide a legal framework managing the
     relationships between API consumers, and service accords provide a plain english

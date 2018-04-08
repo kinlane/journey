@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: PROPPATCH (RFC 4918)
-  sort: 27
+  sort: 308
   level: 2
   description: 'The PROPPATCH method processes instructions specified in the request
     body to set and/or remove properties defined on the resource identified by the

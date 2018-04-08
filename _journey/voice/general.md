@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: General
-  sort: 1
+  sort: 3429
   level: 2
   description: What are common building blocks of providing voice-enablement solutions
     on top of existing services, keeping consumers aware of what is available, and

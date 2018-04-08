@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Google Authentication
-  sort: 7
+  sort: 1782
   level: 2
   description: Allowing developers to create their API account using their Google
     account, and allowing the to login in the future using their Google oAuth.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Grant
-  sort: 2
+  sort: 3502
   level: 2
   description: Was the development of this API rolled up in a grant, or specifically
     a grant for its development. Covering costs involved.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Discussion Extraction
-  sort: 7
+  sort: 1162
   level: 3
   description: Extraction of structured and threaded conversations such as forums,
     and comments from extracted content.

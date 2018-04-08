@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Volume
-  sort: 10
+  sort: 3697
   level: 2
   description: Volume pricing levels are available, with plans based entirely on volume
     level access to resources. Some platforms operate entirely on volume levels of

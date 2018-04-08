@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Individual API Endpoints
-  sort: 1
+  sort: 4345
   level: 2
   description: Looking to have a plan for the deprecation of individual APIs, or sets
     of APIs.

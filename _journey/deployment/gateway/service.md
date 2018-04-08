@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Service
-  sort: 4
+  sort: 1127
   level: 2
   description: What 3rd party services are available for delivering gateway services
     in association with a platform's operation, providing a sanctioned commercial

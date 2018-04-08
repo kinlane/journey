@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Document Processing
-  sort: 6
+  sort: 1222
   level: 3
   description: Enabling the process of common types of documents for storing content
     and data, allowing the scripting to process contained documentations and make

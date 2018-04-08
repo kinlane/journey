@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Parameters
-  sort: 5
+  sort: 235
   level: 2
   description: Standardize how parameters are crafted as part of API operations, using
     intuitive and consistent approaches.

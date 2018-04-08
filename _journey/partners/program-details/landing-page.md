@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Landing Page
-  sort: 1
+  sort: 3962
   level: 2
   description: An official landing page for the partner program.
 entities:

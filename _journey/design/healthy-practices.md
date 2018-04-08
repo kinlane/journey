@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Healthy Practices
-  sort: 1
+  sort: 199
   level: 2
   description: Good API design always begins with a set of healthy practices that
     transcend the technical, and help us deliver more meaningful solutions and services

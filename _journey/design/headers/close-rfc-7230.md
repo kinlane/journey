@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Close (RFC 7230)
-  sort: 43
+  sort: 421
   level: 2
   description: 'The header field-name "Close" has been registered as "reserved", since
     using that name as an HTTP header field might conflict with the "close" connection

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Validate Response Types
-  sort: 5
+  sort: 2379
   level: 2
   description: Do NOT simply copy the Accept header to the Content-type header of
     the response, and reject the request if the Accept header does not specifically

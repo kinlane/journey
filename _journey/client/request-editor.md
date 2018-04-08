@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Editor
-  sort: 5
+  sort: 2815
   level: 2
   description: Allowing for the easy editing and working with client request made,
     providing an environment where integration can safely occur without actually writing

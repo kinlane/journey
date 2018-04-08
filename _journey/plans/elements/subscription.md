@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Subscription
-  sort: 15
+  sort: 3707
   level: 2
   description: There is a regular, recurring element to accessing a resource, as part
     of a larger subscription part of, or separated from plans. In addition to the

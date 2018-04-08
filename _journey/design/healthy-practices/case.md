@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Case
-  sort: 10
+  sort: 220
   level: 2
   description: Which case (lowercase, camelCase, ...) to use and when, while being
     as consistent as you can.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: JavaScript
-  sort: 3
+  sort: 3370
   level: 2
   description: Providing a JavaScript SDK for mobile developers to put to use.
 entities:

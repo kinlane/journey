@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Internal
-  sort: 22
+  sort: 3721
   level: 2
   description: A set of resources are tailored specifically for internal consumption
     rather than for public or partner level access. Internal APIs, like public ones

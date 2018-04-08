@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Revenue Share
-  sort: 2
+  sort: 3641
   level: 2
   description: What portion API revenue is paid out to potential re-sellers who drive
     API usage. Revenue is percentage of overall credit purchases / usage.

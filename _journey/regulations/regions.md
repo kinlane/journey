@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Regions
-  sort: 4
+  sort: 2714
   level: 1
   description: What regions are available and required to use as part of regulatory
     constraints, or part of customer requirements that are driven by regulations.

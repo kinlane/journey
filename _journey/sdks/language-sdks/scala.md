@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Scala
-  sort: 8
+  sort: 2896
   level: 2
   description: An SDK available in the Scala programming language, with consideration
     specifically tailored for the language.

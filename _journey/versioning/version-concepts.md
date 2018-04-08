@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Version Concepts
-  sort: 2
+  sort: 904
   level: 2
   description: Effectively communicating the different concepts at play when it comes
     to versioning effectively, and making sure the versioning cycles have minimal

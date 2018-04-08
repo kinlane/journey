@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: only-if-cached (RFC 7234)
-  sort: 10
+  sort: 878
   level: 2
   description: 'The "only-if-cached" request directive indicates that the client only
     wishes to obtain a stored response. If it receives this directive, a cache SHOULD

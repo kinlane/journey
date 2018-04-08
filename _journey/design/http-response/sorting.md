@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Sorting
-  sort: 5
+  sort: 712
   level: 2
   description: How to sort a collection of resources, allowing for the response details
     to be delivered in a specific order.

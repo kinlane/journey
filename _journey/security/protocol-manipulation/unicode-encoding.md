@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Unicode Encoding
-  sort: 9
+  sort: 2429
   level: 2
   description: Opening up of flaws in the decoding mechanism implemented by decoding
     Unicode data format, allowing for encoding of certain characters in the URL to

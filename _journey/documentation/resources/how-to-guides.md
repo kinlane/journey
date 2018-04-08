@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: How-to Guides
-  sort: 2
+  sort: 1709
   level: 2
   description: Providing how-to guides that walk consumers through common aspects
     of API integration, giving them self-service resources they can use.

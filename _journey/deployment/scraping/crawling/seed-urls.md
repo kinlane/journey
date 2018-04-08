@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Seed URLs
-  sort: 1
+  sort: 1179
   level: 3
   description: Allowing users to provide URLs that seed the web crawling process.
 entities:

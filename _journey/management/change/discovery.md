@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Discovery
-  sort: 2
+  sort: 1746
   level: 2
   description: Providing options for discovery existing services that are available
     on the backend, allowing the management layer to pick up, and be the bridge for

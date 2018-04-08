@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Teams
-  sort: 4
+  sort: 2054
   level: 2
   description: Enable the ability for teams to work together and share monitoring.
 entities:

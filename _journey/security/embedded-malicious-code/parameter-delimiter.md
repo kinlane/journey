@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Parameter Delimiter
-  sort: 11
+  sort: 2356
   level: 2
   description: An attack based on the manipulation of parameter delimiters used by
     web application input vectors in order to cause unexpected behaviors like access

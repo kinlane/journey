@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: CONNECT (RFC 7231)
-  sort: 6
+  sort: 266
   level: 2
   description: 'The CONNECT method requests that the recipient establish a tunnel
     to the destination origin server identified by the request-target and, if successful,

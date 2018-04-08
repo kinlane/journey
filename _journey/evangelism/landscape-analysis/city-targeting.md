@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: City Targeting
-  sort: 5
+  sort: 4106
   level: 2
   description: Target specific markets in cities that make sense to an overall API
     evangelism strategy.

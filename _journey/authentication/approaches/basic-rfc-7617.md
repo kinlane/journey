@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Basic (RFC 7617)
-  sort: 2
+  sort: 1605
   level: 2
   description: 'The Basic authentication scheme is based on the model that the client
     needs to authenticate itself with a user-id and a password for each protection

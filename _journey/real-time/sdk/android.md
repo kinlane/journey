@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Android
-  sort: 1
+  sort: 3366
   level: 2
   description: Providing an Android SDK for mobile developers to put to use.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Resources
-  sort: 1
+  sort: 3010
   level: 2
   description: What API focused resources are available within an IDE environment.
     How do developers find documentation, and other resources that support them in

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Scripting
-  sort: 11
+  sort: 1994
   level: 2
   description: The ability to script against a specific request.
 entities:

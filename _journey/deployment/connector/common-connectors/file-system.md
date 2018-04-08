@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: File System
-  sort: 10
+  sort: 1070
   level: 3
   description: Providing a connector that helps abstract away a file system store,
     and offer up as a web API, making it easier to provide access to the local or

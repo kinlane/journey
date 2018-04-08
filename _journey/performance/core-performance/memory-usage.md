@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Memory Usage
-  sort: 2
+  sort: 2163
   level: 2
   description: Allow for the monitoring of memory usage.
 entities:

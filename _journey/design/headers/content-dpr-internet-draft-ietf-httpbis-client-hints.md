@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content-DPR (Internet Draft ietf-httpbis-client-hints)
-  sort: 46
+  sort: 427
   level: 2
   description: 'The "Content-DPR" header field is a number that indicates the ratio
     between physical pixels over CSS px of the selected image response. '

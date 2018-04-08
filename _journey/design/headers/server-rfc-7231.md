@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Server (RFC 7231)
-  sort: 145
+  sort: 625
   level: 2
   description: 'The "Server" header field contains information about the software
     used by the origin server to handle the request, which is often used by clients

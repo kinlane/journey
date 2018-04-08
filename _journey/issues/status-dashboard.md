@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Status Dashboard
-  sort: 3
+  sort: 1950
   level: 1
   description: A single location, at dedicated subdomain, providing status update(s)
     for all API resources, giving developers a place to go when looking to see if

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Browsers
-  sort: 41
+  sort: 4464
   level: 1
   description: Plan for the browser guidance that will be needed to drive a wider
     service governance strategy.

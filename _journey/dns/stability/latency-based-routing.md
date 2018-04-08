@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Latency Based Routing
-  sort: 3
+  sort: 982
   level: 2
   description: Being able to route DNS traffic to different locations based upon latency
     of networks.

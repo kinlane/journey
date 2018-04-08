@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Additional Considerations
-  sort: 2
+  sort: 1643
   level: 2
   description: Some of the other considerations involved with authentication around
     services being offered via the platform.

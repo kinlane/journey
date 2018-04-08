@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Command Line Interface
-  sort: 7
+  sort: 1012
   level: 2
   description: Providing a command line interface for managing DNS services.
 entities:

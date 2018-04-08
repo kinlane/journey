@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Codegen
-  sort: 2
+  sort: 2846
   level: 2
   description: Enable the generation of client code samples from API definitions within
     the HTTP client.

@@ -6,7 +6,7 @@ rel:
 properties:
   name: Being able to establish whitelists and blacklists of domains, IP addresses,
     and other criteria for DNS level defense.
-  sort: 3
+  sort: 2446
   level: 2
   description: ~
 entities:

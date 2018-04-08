@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Events
-  sort: 34
+  sort: 3888
   level: 2
   description: Measuring of API consumption based upon the number of events that occur
     or are triggered.

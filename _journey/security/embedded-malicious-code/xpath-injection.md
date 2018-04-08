@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: XPATH Injection
-  sort: 16
+  sort: 2366
   level: 2
   description: An attack occurring when a web site uses user-supplied information
     to construct an XPath query for XML data, sending malformed information to an

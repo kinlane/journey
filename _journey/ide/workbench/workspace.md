@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Workspace
-  sort: 1
+  sort: 2976
   level: 2
   description: Workspace definition tooling and services, allowing APIs to be an integrated
     part of the IDE workspaces, either by default or custom addition.

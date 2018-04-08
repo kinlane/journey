@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HAR
-  sort: 3
+  sort: 2198
   level: 2
   description: Allow for tests to be imported using HAR files.
 entities:

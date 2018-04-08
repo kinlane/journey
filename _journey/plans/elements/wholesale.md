@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Wholesale
-  sort: 20
+  sort: 3717
   level: 2
   description: There are wholesale options around deploying and accessing resources
     that are available via a platform. With cloud computing providers like AWS, Heroku,

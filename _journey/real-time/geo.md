@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Geo
-  sort: 4
+  sort: 3339
   level: 2
   description: Understanding the geographic limitations or features associated with
     the delivery of real time APIs, allowing for more precise filtering and subscription

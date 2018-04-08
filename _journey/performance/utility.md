@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Utility
-  sort: 5
+  sort: 2209
   level: 2
   description: Some of the other utility considerations for working with the performance
     testing of services, and ensuring a certain quality of service at scale across

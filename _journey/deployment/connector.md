@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Connector
-  sort: 2
+  sort: 1046
   level: 2
   description: Providing ready to go connectors that allow developers to easily deploy
     web APIs from existing resources without coding, or with as light of a touch as

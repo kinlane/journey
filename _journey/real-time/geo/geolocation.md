@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: GeoLocation
-  sort: 2
+  sort: 3344
   level: 2
   description: Geolocation is the identification of the real-world geographic location
     of an object, such as a radar source, mobile phone or Internet-connected computer

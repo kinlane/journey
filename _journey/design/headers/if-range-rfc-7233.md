@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: If-Range (RFC 7233)
-  sort: 92
+  sort: 519
   level: 2
   description: 'If a client has a partial copy of a representation and wishes to have
     an up-to-date copy of the entire representation, it could use the Range header

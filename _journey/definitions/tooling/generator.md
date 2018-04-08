@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Generator
-  sort: 1
+  sort: 159
   level: 2
   description: Generating an API definition format from an existing system or platform,
     outputting the portable machine readable format.

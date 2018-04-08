@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: White Papers
-  sort: 3
+  sort: 1711
   level: 2
   description: Offer white papers that educate consumers around topics that are relevant
     to the platform, consumers, and the industry that is being operated in.

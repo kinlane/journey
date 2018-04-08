@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Anti-Farming
-  sort: 3
+  sort: 2282
   level: 2
   description: APIs are regularly farmed for the data they contain, and while there's
     no technical method of preventing this use, having a clear business model, and

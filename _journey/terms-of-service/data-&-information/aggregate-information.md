@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Aggregate Information
-  sort: 4
+  sort: 2490
   level: 2
   description: What information is aggregated, and what are the considerations when
     it comes to the platform terms of service.

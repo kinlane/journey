@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Uploads
-  sort: 14
+  sort: 3847
   level: 2
   description: Restricting and measuring API access based upon the number of file
     uploads.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: TCN (RFC 2295)
-  sort: 160
+  sort: 655
   level: 2
   description: 'The TCN response header is used by a server to signal that the resource
     is transparently negotiated. '

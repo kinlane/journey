@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Used Regions
-  sort: 3
+  sort: 3181
   level: 1
   description: A real time, working list of regions that are in use as part of platform
     operations, showing where services are deployed permanently or temporarily.

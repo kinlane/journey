@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Service Tier Management
-  sort: 10
+  sort: 1811
   level: 2
   description: Allow developers to change the service tier they operate with in via
     their developer dashboard, without having to request changes from platform support.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Notifications
-  sort: 14
+  sort: 1516
   level: 2
   description: Providing a notification layer around all the events that can occur
     throughout the modeling, and pipeline build process, keeping everyone involved

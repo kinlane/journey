@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Triggers
-  sort: 2
+  sort: 3133
   level: 1
   description: Provide the framework to use verbs and nouns, with help text, and webhook
     infrastructure to trigger anything users will desire.

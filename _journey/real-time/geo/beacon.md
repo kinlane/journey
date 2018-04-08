@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Beacon
-  sort: 3
+  sort: 3346
   level: 2
   description: A beacon is an intentionally conspicuous device designed to attract
     attention to a specific location. Beacons can also be combined with semaphoric

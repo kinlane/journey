@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Interoperability
-  sort: 5
+  sort: 1362
   level: 2
   description: Enabling the interoperability of storage across storage API providers,
     allowing for single service access to objects stored across multiple providers.

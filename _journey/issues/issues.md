@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Issues
-  sort: 1
+  sort: 1946
   level: 1
   description: Showcasing what the open issues are, letting people know they are outstanding,
     saving the need to report.

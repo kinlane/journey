@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Partner Resources
-  sort: 2
+  sort: 2515
   level: 2
   description: Are there any members-only and partner specific opportunities, and
     how do these different levels of access impact terms of service.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Blog
-  sort: 5
+  sort: 4249
   level: 1
   description: Making sure to use the platform blog to showcase developers, applications,
     partners, and services on a regular basis, providing a regular stream of content

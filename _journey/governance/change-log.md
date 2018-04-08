@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Change Log
-  sort: 21
+  sort: 4424
   level: 1
   description: Plan for the change log guidance that will be needed to drive a wider
     service governance strategy.

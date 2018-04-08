@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Portal
-  sort: 15
+  sort: 4412
   level: 1
   description: Plan for the portal guidance that will be needed to drive a wider service
     governance strategy.

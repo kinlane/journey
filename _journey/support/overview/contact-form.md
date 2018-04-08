@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Contact Form
-  sort: 2
+  sort: 1877
   level: 2
   description: A contact form available in the central API portal, that developers
     can use to ask questions.

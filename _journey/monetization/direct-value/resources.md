@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Resources
-  sort: 15
+  sort: 3547
   level: 2
   description: The best part of API design, is you can dial in your value generate
     to the smallest unit of compute, the single API resource. How are APIs value generation

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Operating System
-  sort: 12
+  sort: 3843
   level: 2
   description: Measurement of resources, based upon the operating system for compute
     resources.

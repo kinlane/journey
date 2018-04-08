@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: MongoDB
-  sort: 12
+  sort: 1042
   level: 2
   description: Providing a connection to MongoDB database that allows for quick access
     to tables and fields, making data available through an API from the backend database.

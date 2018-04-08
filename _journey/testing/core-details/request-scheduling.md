@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Scheduling
-  sort: 7
+  sort: 2085
   level: 2
   description: Allow for the scheduling of requests at a specific time.
 entities:

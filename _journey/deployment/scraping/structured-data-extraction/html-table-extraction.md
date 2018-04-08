@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HTML Table Extraction
-  sort: 1
+  sort: 1284
   level: 3
   description: Pulling of HTML tables from content extracted via URLs.
 entities:

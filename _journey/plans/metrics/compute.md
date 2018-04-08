@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Compute
-  sort: 10
+  sort: 3839
   level: 2
   description: Providing API resource access based upon various levels of compute
     power.

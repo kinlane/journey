@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Traffic Flood
-  sort: 4
+  sort: 2408
   level: 2
   description: A type of DoS attack that explores the way that the TCP connection
     is managed, with the generation of a lot of well-crafted TCP requisitions, with

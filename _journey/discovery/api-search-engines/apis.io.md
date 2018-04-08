@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: APIs.io
-  sort: 1
+  sort: 2737
   level: 2
   description: APIs.io is an open source search, driven using the APIs.json discovery
     format, allowing API providers to manage the discovery index of their own APIs,

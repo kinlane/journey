@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Facebook Post
-  sort: 3
+  sort: 4029
   level: 2
   description: Post updates to the platforms Facebook account.
 entities:

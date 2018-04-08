@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: React.js
-  sort: 8
+  sort: 2934
   level: 2
   description: Providing developers with React.js framework integration, allowing
     them to build single page applications using API resources.

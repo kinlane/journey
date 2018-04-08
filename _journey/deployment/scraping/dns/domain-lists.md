@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Domain Lists
-  sort: 1
+  sort: 1218
   level: 3
   description: Providing lists of domains, and subdomains to seed scraping and harvesting
     activities.

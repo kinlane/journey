@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Templates
-  sort: 2
+  sort: 2801
   level: 2
   description: Provide starter templates of common public APIs, allowing HTTP client
     to be immediately put to use from common definitions.

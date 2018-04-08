@@ -6,7 +6,7 @@ rel:
 properties:
   name: How may changes to the platform, APIs, and how data is collected and stored
     that may impact privacy.
-  sort: 2
+  sort: 2578
   level: 2
   description: ~
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Teams
-  sort: 8
+  sort: 2813
   level: 2
   description: Provide team environments, allowing users to collaborate, share and
     work across API requests, and collections.

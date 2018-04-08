@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Range (RFC 7233)
-  sort: 128
+  sort: 591
   level: 2
   description: 'The "Range" header field on a GET request modifies the method semantics
     to request transfer of only one or more subranges of the selected representation

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Health
-  sort: 50
+  sort: 3920
   level: 2
   description: Factoring in health checks in API consumption, and charging specifically
     on health checks, or changing plans based upon health results.

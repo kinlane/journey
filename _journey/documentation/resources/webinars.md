@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Webinars
-  sort: 4
+  sort: 1713
   level: 2
   description: Provide online webinars on a regular basis that API consumers can attend
     to learn about various aspects of platform operations.

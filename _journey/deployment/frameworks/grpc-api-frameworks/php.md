@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: PHP
-  sort: 1
+  sort: 1427
   level: 3
   description: A gRPC API framework for easily deploying APIs, and handles all the
     most common elements of deploying an API, in the PHP language.

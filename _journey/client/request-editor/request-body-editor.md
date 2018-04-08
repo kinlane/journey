@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Body Editor
-  sort: 5
+  sort: 2826
   level: 2
   description: The ability to add, edit, or remove the entire body of a request being
     made through the client.

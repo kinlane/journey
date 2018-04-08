@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Authentication-Info (RFC 7615)
-  sort: 32
+  sort: 399
   level: 2
   description: 'HTTP authentication schemes can use the Authentication-Info response
     header field to communicate information after the client''s authentication credentials

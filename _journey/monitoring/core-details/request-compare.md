@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Compare
-  sort: 10
+  sort: 1992
   level: 2
   description: Being able to compare to requests against each other.
 entities:

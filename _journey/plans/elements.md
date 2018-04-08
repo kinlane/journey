@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Elements
-  sort: 2
+  sort: 3676
   level: 2
   description: What are the individual elements of a plan that dictate the value to
     consumers, and will be quantified and measured as part of wider monetization and

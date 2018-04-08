@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: EDIINT-Features (RFC 6017)
-  sort: 73
+  sort: 481
   level: 2
   description: 'The EDIINT-Features header field indicates the originating user agent
     is capable of supporting the features listed. '

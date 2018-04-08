@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Trainings
-  sort: 35
+  sort: 3890
   level: 2
   description: Measurement based upon the number of trainings that occur around API
     access.

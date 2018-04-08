@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Forum RSS
-  sort: 2
+  sort: 1884
   level: 2
   description: Going beyond just a forum, and providing an RSS feed for all forum
     activity.

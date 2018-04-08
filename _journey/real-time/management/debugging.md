@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Debugging
-  sort: 5
+  sort: 3359
   level: 2
   description: Offering debugging tools to assist developers when they are building
     applications using real time technology.

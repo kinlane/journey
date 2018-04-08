@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Retention
-  sort: 5
+  sort: 3269
   level: 1
   description: Determine the constraints, and process for determining and managing
     retention of backups across all services, properly defining how long anything

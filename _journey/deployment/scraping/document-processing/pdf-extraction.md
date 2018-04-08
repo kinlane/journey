@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: PDF Extraction
-  sort: 2
+  sort: 1227
   level: 3
   description: The extraction of content from PDF documents harvested from URLs.
 entities:

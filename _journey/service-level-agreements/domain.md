@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Domain
-  sort: 6
+  sort: 2610
   level: 1
   description: Details regarding how service level agreements are broken down by domain,
     separating availability and concerns by domain.

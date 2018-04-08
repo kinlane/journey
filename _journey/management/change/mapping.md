@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Mapping
-  sort: 3
+  sort: 1748
   level: 2
   description: Options for mapping each service to an existing backend service, binding
     some or all of the paths, schema, and other elements offered by an existing services.

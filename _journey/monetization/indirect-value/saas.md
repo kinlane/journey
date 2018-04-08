@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SaaS
-  sort: 5
+  sort: 3584
   level: 2
   description: Value generated is focused on SaaS services, and API value generation
     is about augmenting these services, secondary to the core SaaS business model.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Twitter Post
-  sort: 4
+  sort: 4031
   level: 2
   description: Post updates to the platforms Twitter account.
 entities:

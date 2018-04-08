@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accept-Datetime (RFC 7089)
-  sort: 8
+  sort: 351
   level: 2
   description: 'The "Accept-Datetime" request header is transmitted by a user agent
     to indicate it wants to access a past state of an Original Resource. To that end,

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Alerts
-  sort: 9
+  sort: 1843
   level: 1
   description: Allow for notifications and alerts to be triggered for all activity
     and events that will be occurring via the platform, and allow relevant users to

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Youtube
-  sort: 11
+  sort: 1930
   level: 1
   description: Using Youtube as a regular content and communication channel to help
     users learn about platform operations.

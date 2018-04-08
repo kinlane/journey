@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Scripting
-  sort: 9
+  sort: 2089
   level: 2
   description: Provide the ability to script against requests.
 entities:

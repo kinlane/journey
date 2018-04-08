@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Targeted Monitoring
-  sort: 7
+  sort: 2036
   level: 2
   description: Allowing for the targeting of services from a variety of regions, demonstrating
     what service availability will look like across targeted regions, and around the

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Access-Control-Expose-Headers (W3C TR http://www.w3.org/TR/cors)
-  sort: 21
+  sort: 377
   level: 2
   description: 'The Access-Control-Expose-Headers header indicates which headers are
     safe to expose to the API of a CORS API specification. '

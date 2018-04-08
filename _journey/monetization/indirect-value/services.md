@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Services
-  sort: 9
+  sort: 3592
   level: 2
   description: As with products, an API may exist to augment an existing in-person,
     or possibly a digital service being offered by a company. The API value is centered

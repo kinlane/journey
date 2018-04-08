@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Trial
-  sort: 4
+  sort: 3685
   level: 2
   description: Is there a trial period that is limited by number of days, which may
     not apply to all plans. Not all audiences will respond to trial levels of access,

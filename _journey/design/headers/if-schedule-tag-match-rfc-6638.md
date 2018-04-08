@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: If-Schedule-Tag-Match (RFC 6638)
-  sort: 93
+  sort: 521
   level: 2
   description: 'The If-Schedule-Tag-Match request header field is used with a method
     to make it conditional. Clients can set this header to the value returned in the

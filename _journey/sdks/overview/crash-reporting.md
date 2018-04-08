@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Crash Reporting
-  sort: 3
+  sort: 2877
   level: 2
   description: Provide tooling and services to assist with crash reporting within
     language, mobile, or platform SDKs.

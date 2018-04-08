@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Region Maps
-  sort: 2
+  sort: 3179
   level: 1
   description: Publishing a single, or multiple maps that show all the regions that
     are available as part of platform operations, providing a visual representation

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Warranty Disclaimer
-  sort: 7
+  sort: 2572
   level: 2
   description: A disclaimer is a defensive measure, used generally with the purpose
     of protection from unwanted claims or liability. A platform may disclaim responsibility

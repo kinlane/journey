@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Hobareg (RFC 7486)
-  sort: 85
+  sort: 505
   level: 2
   description: 'The server MUST add a header field to the response message when the
     registration has succeeded in order to indicate the new state. The header to be

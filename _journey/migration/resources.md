@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Resources
-  sort: 9
+  sort: 3256
   level: 1
   description: Identifying what sources are available to learn from and better plan
     and prepare for the migration of legacy systems to their new locations.

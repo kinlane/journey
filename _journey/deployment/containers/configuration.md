@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Configuration
-  sort: 9
+  sort: 1385
   level: 2
   description: Define what the configuration options are for each container, allowing
     each one to be customized, and adjusted to meet the needs of each service.

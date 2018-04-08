@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Branding
-  sort: 33
+  sort: 4448
   level: 1
   description: Plan for the branding guidance that will be needed to drive a wider
     service governance strategy.

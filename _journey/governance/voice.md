@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Voice
-  sort: 54
+  sort: 4490
   level: 1
   description: Plan for the voice enablement guidance that will be needed to drive
     a wider service governance strategy.

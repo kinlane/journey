@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Additional APIs
-  sort: 2
+  sort: 4060
   level: 2
   description: Provide access to APIs that are only accessible to their partner tiers.
 entities:

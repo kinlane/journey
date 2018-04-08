@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Sentiment Analysis
-  sort: 3
+  sort: 1260
   level: 3
   description: Identify and categorize opinions expressed in content to interpret
     it's attitude towards a particular topic, product, etc., is positive, negative,

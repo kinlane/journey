@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Setting Manipulation
-  sort: 8
+  sort: 2427
   level: 2
   description: The modification of settings in order to cause misleading data or advantages
     on the attacker's behalf, manipulating values in the system and manage specific

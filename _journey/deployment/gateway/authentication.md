@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Authentication
-  sort: 1
+  sort: 1121
   level: 2
   description: Details regarding what authentication flows are available within the
     gateway, allowing for integration with as many common approaches to API authentication.

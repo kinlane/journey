@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Terms of Service
-  sort: 29
+  sort: 4440
   level: 1
   description: Plan for the TOS guidance that will be needed to drive a wider service
     governance strategy.

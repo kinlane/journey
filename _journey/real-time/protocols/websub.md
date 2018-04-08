@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Websub
-  sort: 12
+  sort: 3397
   level: 2
   description: Websub is an open protocol for distributed publish/subscribe communication
     on the Internet. Initially designed to extend the Atom (and RSS) protocols for

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Links to Non-Operators Web Sites
-  sort: 1
+  sort: 2529
   level: 2
   description: What are the levels of responsibility and liability when it comes to
     external links made available through platform operations.

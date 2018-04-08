@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Privacy Policy
-  sort: 2
+  sort: 4018
   level: 2
   description: What is the privacy policy for the partner program.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Data
-  sort: 3
+  sort: 2648
   level: 2
   description: Looking at licensing at the data layer, and understanding how data
     is licensed and made available via APIs, and the services they are powering.

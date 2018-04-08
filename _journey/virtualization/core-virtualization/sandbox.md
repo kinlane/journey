@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Sandbox
-  sort: 2
+  sort: 1541
   level: 2
   description: Generation of a sandbox environment that matches a specific API definition.
 entities:

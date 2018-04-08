@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Virtual Instances
-  sort: 6
+  sort: 2864
   level: 1
   description: Offer the ability to scale up, and increase the scope of virtual instance
     that is powering any single command line service connection and command being

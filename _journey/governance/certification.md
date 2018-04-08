@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Certification
-  sort: 60
+  sort: 4502
   level: 1
   description: Plan for the certification guidance that will be needed to drive a
     wider service governance strategy.

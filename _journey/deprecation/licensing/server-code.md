@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Server Code
-  sort: 2
+  sort: 4284
   level: 2
   description: What server code will be made available as open source license?
 entities:

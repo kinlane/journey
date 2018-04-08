@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Initial Expectation Set
-  sort: 1
+  sort: 4304
   level: 2
   description: What expectations are, or have been set early on in the API design,
     and deployment parts of the life cycle when it comes to API deprecation.

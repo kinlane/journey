@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: DAV (RFC 4918)
-  sort: 64
+  sort: 463
   level: 2
   description: 'This general-header appearing in the response indicates that the resource
     supports the DAV schema and protocol as specified. As a request header, this header

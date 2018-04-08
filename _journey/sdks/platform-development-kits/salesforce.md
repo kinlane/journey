@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SalesForce
-  sort: 4
+  sort: 2925
   level: 2
   description: Providing ready to go SalesForce integration, allowing developers,
     and sometimes even non-developers to immediately put an API to use through their

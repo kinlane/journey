@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Cal-Managed-ID (Internet Draft ietf-calext-caldav-attachments)
-  sort: 41
+  sort: 417
   level: 2
   description: 'The Cal-Managed-ID response header field provides the value of the
     MANAGED-ID parameter corresponding to a newly added ATTACH property. It MUST be

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: GitHub Management
-  sort: 9
+  sort: 4168
   level: 2
   description: What activity is occurring via the social coding platform Github, pushing
     forward conversations around code, definitions, and other projects, focusing on

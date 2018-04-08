@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content-Security-Policy (W3C TR http://www.w3.org/TR/CSP3W3C TR http://www.w3.org/TR/CSP2)
-  sort: 53
+  sort: 441
   level: 2
   description: 'The Content-Security-Policy HTTP response header field is the preferred
     mechanism for delivering a policy from a server to a client.The Content-Security-Policy

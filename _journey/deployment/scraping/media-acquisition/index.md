@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Media Acquisition
-  sort: 10
+  sort: 1264
   level: 3
   description: Enabling scraping operations to be able to target and work with a variety
     of media objects, allowing them to be able to work with a variety of content sources,

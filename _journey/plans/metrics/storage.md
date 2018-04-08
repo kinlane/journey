@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Storage
-  sort: 13
+  sort: 3845
   level: 2
   description: Measuring API resources based upon the size on the disk.
 entities:

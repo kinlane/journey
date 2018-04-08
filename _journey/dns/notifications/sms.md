@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SMS
-  sort: 3
+  sort: 961
   level: 2
   description: Provide notifications about DNS layer via SMS.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Drupal
-  sort: 3
+  sort: 2923
   level: 2
   description: Providing ready to go Drupal integration, allowing developers, and
     sometimes even non-developers to immediately put an API to use through their Drupal

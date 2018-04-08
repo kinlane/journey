@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Difference
-  sort: 9
+  sort: 175
   level: 2
   description: Providing side by side comparison of two API definitions, programmatically
     and visually helping identify between two API definitions. This allows for API

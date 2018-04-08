@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Forum Conversations
-  sort: 1
+  sort: 4162
   level: 2
   description: Responding to forum activity in a timely and engaging way, and conducting
     general janitorial work around the community.

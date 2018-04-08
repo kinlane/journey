@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Testimonials
-  sort: 2
+  sort: 3993
   level: 2
   description: Have partners provide testimonials that get published to relevant sites.
 entities:

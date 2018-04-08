@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: TRACE (RFC 7231)
-  sort: 32
+  sort: 318
   level: 2
   description: 'The TRACE method requests a remote, application-level loop-back of
     the request message. The final recipient of the request SHOULD reflect the message

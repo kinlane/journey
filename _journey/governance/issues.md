@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Issues
-  sort: 20
+  sort: 4422
   level: 1
   description: Plan for the issue guidance that will be needed to drive a wider service
     governance strategy.

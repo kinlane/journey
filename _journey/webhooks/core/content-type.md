@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content Type
-  sort: 4
+  sort: 3201
   level: 2
   description: Selecting the content type for a Webhooks being submitted.
 entities:

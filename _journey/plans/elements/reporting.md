@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reporting
-  sort: 39
+  sort: 3755
   level: 2
   description: A set of API resources exist to gather, refine, and organize data for
     the purpose of driving reporting efforts. Analytics is the intelligence, and reports

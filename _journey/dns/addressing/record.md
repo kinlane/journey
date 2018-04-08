@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Record
-  sort: 2
+  sort: 938
   level: 2
   description: Management of all types of records for a single domain.
 entities:

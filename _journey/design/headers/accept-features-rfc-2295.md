@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accept-Features (RFC 2295)
-  sort: 10
+  sort: 355
   level: 2
   description: 'The Accept-Features request header can be used by a user agent to
     give information about the presence or absence of certain features in the feature

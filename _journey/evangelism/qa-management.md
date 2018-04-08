@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: QA Management
-  sort: 11
+  sort: 4186
   level: 2
   description: What activity is occurring across existing QA sites on the web, and
     being used by consumers and other stakeholders as part of their regular activity,

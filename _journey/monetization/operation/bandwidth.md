@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Bandwidth
-  sort: 4
+  sort: 3622
   level: 2
   description: How much bandwidth in / out is an API using to get the job done.
 entities:

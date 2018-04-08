@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SQL Injection
-  sort: 14
+  sort: 2362
   level: 2
   description: The insertion of a SQL query via the input data allowing the reading
     sensitive data from the database, modify database data, execute administrative

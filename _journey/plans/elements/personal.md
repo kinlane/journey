@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Personal
-  sort: 16
+  sort: 3709
   level: 2
   description: There is a personal element to a set of resources, meant for the casual
     user, and probably not developing an application or custom integration. These

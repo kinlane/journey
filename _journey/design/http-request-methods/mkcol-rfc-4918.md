@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: MKCOL (RFC 4918)
-  sort: 17
+  sort: 288
   level: 2
   description: 'MKCOL creates a new collection resource at the location specified
     by the Request-URI. If the Request-URI is already mapped to a resource, then the

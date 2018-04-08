@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: IOS
-  sort: 2
+  sort: 3368
   level: 2
   description: Providing an IOS SDK for mobile developers to put to use.
 entities:

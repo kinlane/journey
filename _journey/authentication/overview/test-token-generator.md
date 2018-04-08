@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Test Token Generator
-  sort: 5
+  sort: 1598
   level: 2
   description: Providing the ability to generate test tokens for use in authenticating
     with the API.

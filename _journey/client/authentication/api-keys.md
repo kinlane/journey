@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: API Keys
-  sort: 2
+  sort: 2765
   level: 2
   description: API keys is supported by an HTTP client for authentication as part
     of ay request being made.

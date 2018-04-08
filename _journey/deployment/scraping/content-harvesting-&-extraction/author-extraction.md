@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Author Extraction
-  sort: 9
+  sort: 1166
   level: 3
   description: Pulling of author names from an article, blog post, and content published
     by a specific individual.

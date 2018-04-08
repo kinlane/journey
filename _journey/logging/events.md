@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Events
-  sort: 8
+  sort: 1841
   level: 1
   description: Define the types of events that occur across logging activity allowing
     for granular definition of common or obscure events that occur around service

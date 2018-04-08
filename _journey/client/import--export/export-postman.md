@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Export Postman
-  sort: 4
+  sort: 2789
   level: 2
   description: Allow for the exporting of API requests using the Postman API definition
     format.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Slideshare
-  sort: 6
+  sort: 1717
   level: 2
   description: Publish a list of slide decks available on a Slideshare account, providing
     developers with access to past talks the API program has done.

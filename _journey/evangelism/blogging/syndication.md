@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Syndication
-  sort: 3
+  sort: 4137
   level: 2
   description: Syndication to Tumblr, Blogger and other relevant blogging sites available
     online.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Resources
-  sort: 2
+  sort: 3434
   level: 2
   description: Listing of resources available to support voice-enablement, and help
     API consumers better use voice as part of their efforts.

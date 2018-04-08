@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Marketing
-  sort: 28
+  sort: 3733
   level: 2
   description: Is a big part of API operations about driving marketing efforts for
     other aspects of business operations. Direct API access is not always the primary

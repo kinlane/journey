@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Approaches
-  sort: 2
+  sort: 1600
   level: 2
   description: Details about the supported approaches to authentication in place,
     or supported by different services, leverage the most common patterns, and building

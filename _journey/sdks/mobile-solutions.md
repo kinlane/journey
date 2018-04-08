@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Mobile Solutions
-  sort: 3
+  sort: 2898
   level: 2
   description: What SDKs are available that enable mobile application development,
     providing the code needed to quickly deliver mobile applications on top of available

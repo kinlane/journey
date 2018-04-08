@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Endpoint Tagging
-  sort: 5
+  sort: 2458
   level: 2
   description: Allow for the tagging and organizing of APIs into specific groups for
     scanning, monitoring, and reviewing of APIs. Giving providers an easy way to organize

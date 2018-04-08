@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Getting Started
-  sort: 1
+  sort: 1770
   level: 2
   description: Laying out simple, clear steps for developers on how to register, authenticate,
     access documentation and code samples, and get support and any other details that

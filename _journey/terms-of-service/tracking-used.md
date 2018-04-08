@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Tracking Used
-  sort: 5
+  sort: 2503
   level: 2
   description: Legal details about what tracking is used, providing observability
     into what data points are tracked for users, and governing how developers can

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Downlink (Internet Draft ietf-httpbis-client-hints)
-  sort: 72
+  sort: 479
   level: 2
   description: 'The "Downlink" header field is a number that, in requests, indicates
     the client''s maximum downlink speed in megabits per second (Mbps), as defined

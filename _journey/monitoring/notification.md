@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Notification
-  sort: 5
+  sort: 2018
   level: 2
   description: Enabling the ability to send notifications in response to monitoring
     activity and events as they occur using common channels that key stakeholders

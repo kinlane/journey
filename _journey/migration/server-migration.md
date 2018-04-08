@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Server Migration
-  sort: 2
+  sort: 3242
   level: 1
   description: Provide the ability to migrate virtual machines between service providers,
     and on-premise systems.

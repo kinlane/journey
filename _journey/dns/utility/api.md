@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: API
-  sort: 6
+  sort: 1010
   level: 2
   description: A set of API resources available for managing all aspects of DNS operations,
     so that DNS for API operations can be automated.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: inv-maxage (Internet Draft nottingham-linked-cache-inv)
-  sort: 2
+  sort: 862
   level: 2
   description: 'When present, the ''inv-maxage'' cache-control extension indicates
     the number of seconds that caches who implement Linked Cache invalidation can

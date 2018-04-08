@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Donations
-  sort: 19
+  sort: 3555
   level: 2
   description: Does API operations depend on donations, either one time, or possibly
     soliciting ongoing donations to make sure an API operations. An actual API may

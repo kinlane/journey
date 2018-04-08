@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Historical Index
-  sort: 2
+  sort: 1200
   level: 3
   description: Allowing access to historical content that has been retrieved crawling
     and scraping URLs.

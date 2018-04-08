@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Connectors
-  sort: 2
+  sort: 3782
   level: 2
   description: Factoring the availability of 3rd party or internal platform connections
     into specific API plans or overall API operations.

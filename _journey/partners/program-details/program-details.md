@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Program Details
-  sort: 2
+  sort: 3964
   level: 2
   description: Short, concise information about the program.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Security
-  sort: 14
+  sort: 3602
   level: 2
   description: How is security used as a lens for measuring, quantifying, and delivering
     value via the platform. Does the existence of security only available at higher

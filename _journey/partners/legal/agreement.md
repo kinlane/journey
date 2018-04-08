@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Agreement
-  sort: 1
+  sort: 4016
   level: 2
   description: The legaleze for the partner program agreement.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reporting
-  sort: 1
+  sort: 1320
   level: 3
   description: Providing reporting on crawling and scraping activities.
 entities:

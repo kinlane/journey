@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Office Hours
-  sort: 5
+  sort: 1901
   level: 2
   description: Dedicated a specific time each week or monthly where support staff
     will be available via live chat to answer questions.

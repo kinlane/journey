@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Warning (RFC 7234)
-  sort: 180
+  sort: 695
   level: 2
   description: 'The "Warning" header field is used to carry additional information
     about the status or transformation of a message that might not be reflected in

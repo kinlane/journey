@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Instagram
-  sort: 9
+  sort: 1926
   level: 1
   description: Using Instagram as a way to communicate with platform users, and let
     users know there is someone home.

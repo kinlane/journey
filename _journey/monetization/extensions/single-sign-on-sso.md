@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Single Sign On (SSO)
-  sort: 3
+  sort: 3611
   level: 2
   description: How can Single Sign On be leveraged as part of API monetization? Are
     there some opportunities that can be available for free, or are there other higher

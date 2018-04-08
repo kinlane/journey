@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Short Code Usage
-  sort: 2
+  sort: 2585
   level: 2
   description: Details about proxying with short codes, and how this information is
     tracked, and shared across service operations.

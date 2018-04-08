@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Cash Overflow
-  sort: 1
+  sort: 2434
   level: 2
   description: An attack specifically aimed at exceeding hosting costs, either essentially
     bankrupting the service owner or exceeding the cost limits, leading the cloud

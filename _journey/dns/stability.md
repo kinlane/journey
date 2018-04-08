@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Stability
-  sort: 5
+  sort: 974
   level: 2
   description: Consider what it will take to ensure the DNS layer of delivering services
     is reliable, redundant, and can be included as part of the wider SLA being put

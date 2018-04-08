@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: LinkedIn Authentication
-  sort: 10
+  sort: 1788
   level: 2
   description: Allowing developers to create their API account using their LinkedIn
     account, and allowing the to login in the future using their LinkedIn credentials.

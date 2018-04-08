@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Simple Mail Transfer Protocol (SMTP)
-  sort: 19
+  sort: 3411
   level: 2
   description: "Simple Mail Transfer Protocol (SMTP) is an Internet standard for electronic
     mail (email) transmission. First defined by RFC 821 in 1982, it was last updated

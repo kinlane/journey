@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Taxonomy & Classification
-  sort: 4
+  sort: 1156
   level: 3
   description: Identifying potential categories, and classifications present in extracted
     content.

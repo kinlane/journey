@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Simulator
-  sort: 12
+  sort: 2095
   level: 2
   description: Provide tools for simulating requests.
 entities:

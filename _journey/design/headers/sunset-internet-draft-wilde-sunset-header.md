@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Sunset (Internet Draft wilde-sunset-header)
-  sort: 157
+  sort: 649
   level: 2
   description: 'The Sunset HTTP response header field allows a server to communicate
     the fact that a resource is expected to become unresponsive at a specific point

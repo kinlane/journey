@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Feed Detection
-  sort: 1
+  sort: 1225
   level: 3
   description: Identifying the types of different documents and feeds available via
     URLs.

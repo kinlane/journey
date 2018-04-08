@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Forwarding
-  sort: 8
+  sort: 950
   level: 2
   description: Enabling the ability to forward domains.
 entities:

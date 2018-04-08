@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HOBA (RFC 7486)
-  sort: 5
+  sort: 1611
   level: 2
   description: 'An HTTP server that supports HOBA authentication includes the "HOBA"
     auth-scheme value in a WWW-Authenticate header field when it wants the client

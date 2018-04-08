@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Webhook
-  sort: 4
+  sort: 2119
   level: 2
   description: Allow notifications to be received by webhook.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Diagnostic
-  sort: 1
+  sort: 1000
   level: 2
   description: Providing diagnostic tools for DNS setup.
 entities:

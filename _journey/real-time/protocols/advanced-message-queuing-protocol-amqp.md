@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Advanced Message Queuing Protocol (AMQP)
-  sort: 2
+  sort: 3377
   level: 2
   description: The Advanced Message Queuing Protocol (AMQP) is an open standard for
     passing business messages between applications or organizations. It connects systems,

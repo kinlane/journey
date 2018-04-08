@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Virtual Machine
-  sort: 1
+  sort: 3261
   level: 1
   description: Providing services and tooling for backing up virtual machines and
     containers, allowing for easy storage and restore of all compute resources.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Urgency (RFC 8030)
-  sort: 171
+  sort: 677
   level: 2
   description: 'An application server MAY include an Urgency header field in its request
     for push message delivery. This header field indicates the message urgency. The

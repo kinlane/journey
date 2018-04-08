@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Conferences
-  sort: 3
+  sort: 4155
   level: 2
   description: What are the top conferences occurring that we can participate in or
     attend--pay attention to call for papers of relevant industry events.

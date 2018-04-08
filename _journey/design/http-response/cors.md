@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: CORS
-  sort: 2
+  sort: 706
   level: 2
   description: Considering the need and presence of mechanisms to enable client-side
     cross-origin requests, which might limit responses made from alternate domains.

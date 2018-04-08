@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: "Deprecations \u2014 Existing products or services that are being removed."
-  sort: 6
+  sort: 917
   level: 2
   description: ~
 entities:

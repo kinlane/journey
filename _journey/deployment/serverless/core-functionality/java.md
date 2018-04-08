@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Java
-  sort: 1
+  sort: 1447
   level: 3
   description: Enabling the deployment of scripts written in the Java programming
     language, which can be independently scaled, and used by each service, and its

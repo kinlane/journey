@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Offline
-  sort: 9
+  sort: 3337
   level: 2
   description: Provide graceful degradation of services when their is no network connection,
     allowing for seamless on and offline transitions.

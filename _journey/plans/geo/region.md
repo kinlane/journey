@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Region
-  sort: 3
+  sort: 3791
   level: 2
   description: Providing API access or replication within specific regions.
 entities:

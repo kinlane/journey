@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HEAD (RFC 7231)
-  sort: 10
+  sort: 274
   level: 2
   description: 'The HEAD method is identical to GET except that the server MUST NOT
     send a message body in the response (i.e., the response terminates at the end

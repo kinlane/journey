@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Port Forwarding
-  sort: 7
+  sort: 1551
   level: 2
   description: Forward of specific ports to a specific virtualized API instance.
 entities:

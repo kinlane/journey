@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: LABEL (RFC 3253)
-  sort: 11
+  sort: 276
   level: 2
   description: 'A LABEL request can be applied to a version to modify the labels that
     select that version. The case of a label name MUST be preserved when it is stored

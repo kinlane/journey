@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Community Contributions
-  sort: 7
+  sort: 1667
   level: 1
   description: Open up the possibility of allowing the community to make suggestions,
     or possibly submit pull requests to contribute to the portal helping drive an

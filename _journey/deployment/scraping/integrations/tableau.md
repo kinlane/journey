@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Tableau
-  sort: 6
+  sort: 1244
   level: 3
   description: Integration of crawling and scraping activities into Tableau.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Position (RFC 3648)
-  sort: 123
+  sort: 581
   level: 2
   description: 'When a new member is added to a collection with a client-maintained
     ordering (for example, with PUT, COPY, or MKCOL), its position in the ordering

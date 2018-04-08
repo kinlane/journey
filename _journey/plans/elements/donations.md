@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Donations
-  sort: 44
+  sort: 3765
   level: 2
   description: API resources allow for, or depend on donations as part of platform
     operations. Not all APIs will be operating for profit, and will require donations

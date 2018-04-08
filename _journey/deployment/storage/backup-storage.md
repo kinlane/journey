@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Backup Storage
-  sort: 3
+  sort: 1358
   level: 2
   description: Ensuring there is a lower cost storage options for data that won't
     be accessed very often, but should remain available and usable, but at a lower

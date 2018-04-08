@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HTTP Long Polling
-  sort: 22
+  sort: 3417
   level: 2
   description: HTTP long polling, where the client polls the server requesting new
     information. The server holds the request open until new data is available. Once

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Bandwidth
-  sort: 6
+  sort: 3168
   level: 1
   description: What bandwidth restrictions, costs, and other allowances are in place
     which should be considered, measured, and understood as part of operating services?

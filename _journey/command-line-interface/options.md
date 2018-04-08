@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Options
-  sort: 1
+  sort: 2854
   level: 1
   description: Providing a list of the available command line interface options that
     can be applied to commands and put services to work on the platform.

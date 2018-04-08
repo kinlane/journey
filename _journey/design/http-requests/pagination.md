@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Pagination
-  sort: 7
+  sort: 239
   level: 2
   description: Learn about common ways to paginate, and establish a single way to
     handle across API operations.

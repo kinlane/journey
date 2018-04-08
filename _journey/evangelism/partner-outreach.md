@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Partner Outreach
-  sort: 4
+  sort: 4123
   level: 2
   description: Overlapping with partner efforts, how does evangelism and outreach
     occur regularly to partners, and keep them engaged with what is happening via

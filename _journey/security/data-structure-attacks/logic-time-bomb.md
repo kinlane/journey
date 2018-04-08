@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Logic/time Bomb
-  sort: 2
+  sort: 2316
   level: 2
   description: A logic bomb is a piece of malicious code that executes when specific
     trigger conditions are met, such as a date or time, or possible a specific database

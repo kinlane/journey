@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Pseudo-URLs
-  sort: 2
+  sort: 1181
   level: 3
   description: Allow for the ability to provide URL patterns that will applied during
     the crawling process

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Venture
-  sort: 25
+  sort: 3727
   level: 2
   description: There are venture opportunities around a platform and the resources
     available, allow for investments to be made, or possibly received. API portals

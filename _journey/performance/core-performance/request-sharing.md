@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Sharing
-  sort: 7
+  sort: 2173
   level: 2
   description: Enable the sharing of performance tests.
 entities:

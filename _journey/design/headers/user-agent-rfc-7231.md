@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: User-Agent (RFC 7231)
-  sort: 172
+  sort: 679
   level: 2
   description: 'The "User-Agent" header field contains information about the user
     agent originating the request, which is often used by servers to help identify

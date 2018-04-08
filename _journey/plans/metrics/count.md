@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Count
-  sort: 5
+  sort: 3829
   level: 2
   description: Tracking by the count of something, could be API calls, files, or any
     other county of objects that are part of API operations.

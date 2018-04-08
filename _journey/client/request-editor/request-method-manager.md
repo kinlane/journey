@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Method Manager
-  sort: 4
+  sort: 2824
   level: 2
   description: Allowing for the use of all HTTP verbs, identify each method that is
     being made as part of a request through the client.

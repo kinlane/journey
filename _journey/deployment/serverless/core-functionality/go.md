@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Go
-  sort: 4
+  sort: 1453
   level: 3
   description: Enabling the deployment of scripts written in the Go programming language,
     which can be independently scaled, and used by each service, and its individual

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Worker
-  sort: 1
+  sort: 2987
   level: 2
   description: Are there options for creating specific works, that allow specific
     API integrations to be established, and run in isolation as specific workers or

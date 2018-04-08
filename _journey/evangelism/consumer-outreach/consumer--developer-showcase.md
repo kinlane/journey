@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Consumer / Developer Showcase
-  sort: 1
+  sort: 4113
   level: 2
   description: Providing a showcase of the spotlight is put on developers / consumers
     who are doing interesting things on the platform.

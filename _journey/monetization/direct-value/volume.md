@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Volume
-  sort: 8
+  sort: 3533
   level: 2
   description: Are there volume discounts for buying of credits, allowing consumers
     to purchase credits in bulk, when they need to and apply when they desire.

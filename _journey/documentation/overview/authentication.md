@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Authentication
-  sort: 2
+  sort: 1677
   level: 2
   description: Provide a summary, with link to more API authentication information.
 entities:

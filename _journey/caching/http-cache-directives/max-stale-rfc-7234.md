@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: max-stale (RFC 7234)
-  sort: 4
+  sort: 866
   level: 2
   description: 'The "max-stale" request directive indicates that the client is willing
     to accept a response that has exceeded its freshness lifetime. If max-stale is

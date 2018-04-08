@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accept-CH (Internet Draft ietf-httpbis-client-hints)
-  sort: 5
+  sort: 345
   level: 2
   description: 'Servers can advertise support for Client Hints using the Accept-CH
     header field or an equivalent HTML meta element with http-equiv attribute. '

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Excel Data
-  sort: 3
+  sort: 1562
   level: 2
   description: Import of data from Microsoft Excel spreadsheets or Google sheets into
     virtualized APIs.

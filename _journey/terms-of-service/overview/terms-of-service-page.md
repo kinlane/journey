@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Terms of Service Page
-  sort: 1
+  sort: 2470
   level: 2
   description: Providing a single page dedicated to providing a listing of elements
     that impact terms of service for developers and end-users.

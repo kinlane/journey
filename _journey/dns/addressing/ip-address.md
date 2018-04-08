@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: IP Address
-  sort: 6
+  sort: 946
   level: 2
   description: Ability to manage IP address information, and perform lookups.
 entities:

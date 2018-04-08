@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Formal Studies
-  sort: 6
+  sort: 4108
   level: 2
   description: Conduct formal studies in the sector you are targeting, and potentially
     new business sectors--share internally or possibly with partners and the public

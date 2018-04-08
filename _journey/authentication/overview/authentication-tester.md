@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Authentication Tester
-  sort: 3
+  sort: 1594
   level: 2
   description: Providing a testing tool for authentication, that allows developers
     to test key and Basic Auth to oAuth, to help them understand how authentication

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Simulator
-  sort: 3
+  sort: 1543
   level: 2
   description: Creation of simulation environments from existing definitions.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Stack Overflow
-  sort: 3
+  sort: 1886
   level: 2
   description: Using the public QA site Stack Overflow as part of support operations
     for an API.

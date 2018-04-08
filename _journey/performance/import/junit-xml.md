@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: JUnit XML
-  sort: 4
+  sort: 2200
   level: 2
   description: Allow for tests to be imported using JUnit XML.
 entities:

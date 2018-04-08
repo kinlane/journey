@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Templates
-  sort: 3
+  sort: 1004
   level: 2
   description: Providing the ability to create and use templates when configuring
     DNS.

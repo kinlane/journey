@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Region Based Monitoring
-  sort: 2
+  sort: 2041
   level: 2
   description: Begin able to monitor from a specific geographical region.
 entities:

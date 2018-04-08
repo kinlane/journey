@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Features
-  sort: 27
+  sort: 3731
   level: 2
   description: Additional features, usually key / value pairs that can be used to
     describe addition elements of API access and consumption. The purpose of this

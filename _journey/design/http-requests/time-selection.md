@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Time Selection
-  sort: 9
+  sort: 243
   level: 2
   description: Consider how time selection and series will be handled, and establish
     a single way for working with time in API operations.

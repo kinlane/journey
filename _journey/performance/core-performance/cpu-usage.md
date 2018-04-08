@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: CPU Usage
-  sort: 1
+  sort: 2161
   level: 2
   description: Allow for the monitoring of CPU usage.
 entities:

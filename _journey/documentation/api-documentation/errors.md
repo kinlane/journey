@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Errors
-  sort: 4
+  sort: 1698
   level: 2
   description: Provide details about errors returned across APIs, beyond the HTTP
     status code, with details codes, messages, and other elements.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Hacker News
-  sort: 1
+  sort: 4214
   level: 2
   description: Social bookmarking of all relevant API evangelism activities as well
     as relevant industry landscape topics to Hacker News, to keep a fair and balanced

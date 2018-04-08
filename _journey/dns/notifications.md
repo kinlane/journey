@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Notifications
-  sort: 3
+  sort: 954
   level: 2
   description: Providing a notification and messaging layer for the DNS involved with
     delivering services efficiently and reliably to users, making sure platform operators

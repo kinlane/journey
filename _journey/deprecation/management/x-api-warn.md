@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: X-API-Warn
-  sort: 4
+  sort: 4299
   level: 2
   description: Using the X-API-Warn header for all requests made to any deprecated
     APIs.

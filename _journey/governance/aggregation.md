@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Aggregation
-  sort: 46
+  sort: 4474
   level: 1
   description: Plan for the aggregation guidance that will be needed to drive a wider
     service governance strategy.

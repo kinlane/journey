@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: DNS
-  sort: 4
+  sort: 4390
   level: 1
   description: Plan for the DNS guidance that is needed to provide what is needed
     to feed a wider service governance strategy.

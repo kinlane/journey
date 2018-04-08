@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Pipeline
-  sort: 2
+  sort: 1492
   level: 2
   description: Allowing for the modeling and defining the API deployment or integration
     context, establishing something that is repeatable, and reliable.

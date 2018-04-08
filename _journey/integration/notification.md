@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Notification
-  sort: 6
+  sort: 3141
   level: 1
   description: Using notifications throughout the process to keep the platform, developers,
     and end-users informed about anything that is relevant.

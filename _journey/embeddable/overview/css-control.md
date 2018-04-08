@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: CSS Control
-  sort: 2
+  sort: 3031
   level: 2
   description: Providing support over CSS elements for embeddable elements.
 entities:

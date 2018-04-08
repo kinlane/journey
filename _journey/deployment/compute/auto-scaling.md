@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Auto Scaling
-  sort: 5
+  sort: 1339
   level: 2
   description: Setting the stage for auto scaling of compute resources will occur,
     allowing the autoscaling of underlying compute for all services.

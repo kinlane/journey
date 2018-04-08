@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Deprecation Policy
-  sort: 2
+  sort: 2536
   level: 2
   description: Provide a API deprecation policy setting expectations with API consumers
     about when and how API resources will be deprecated and shut down.

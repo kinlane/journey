@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Settings Migration
-  sort: 2
+  sort: 4336
   level: 2
   description: Will there be the opportunity to export settings, and other configurations,
     so that they can be applied into other external systems, either automatically,

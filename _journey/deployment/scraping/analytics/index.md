@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Analytics
-  sort: 13
+  sort: 1317
   level: 3
   description: Providing a set of analytics for the scraping and harvesting process,
     allowing for domains, and other aspects of the process, ensuring the effectiveness

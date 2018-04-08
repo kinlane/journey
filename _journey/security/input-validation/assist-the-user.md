@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Assist the User
-  sort: 2
+  sort: 2373
   level: 2
   description: Assisting in the input of high quality data into APIs, by validating
     what is submitted, and rejecting anything that does not pass validation.

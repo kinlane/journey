@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Workbench
-  sort: 1
+  sort: 2973
   level: 2
   description: Providing a common workbench within an IDE that helps developers build
     their projects, bring in the services they need, and effectively work on the integrations

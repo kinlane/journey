@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Product Hunt
-  sort: 4
+  sort: 4220
   level: 2
   description: Listing of new API offerings via the Product Hunt social product and
     service platform, showcasing any new resources as they are made available.

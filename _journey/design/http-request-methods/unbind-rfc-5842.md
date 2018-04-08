@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: UNBIND (RFC 5842)
-  sort: 33
+  sort: 320
   level: 2
   description: 'The UNBIND method modifies the collection identified by the Request-URI
     by removing the binding identified by the segment specified in the UNBIND body. '

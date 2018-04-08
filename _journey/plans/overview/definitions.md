@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Definitions
-  sort: 2
+  sort: 3674
   level: 2
   description: Providing machine readable definitions of the plans, as well as their
     pricing and details contained within each plan, making API plans more machine

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Static
-  sort: 1
+  sort: 1692
   level: 2
   description: Providing static API documentation that details the surface area of
     the API, including requests, response, and schema details.

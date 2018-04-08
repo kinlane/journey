@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: immutable (RFC 8246)
-  sort: 1
+  sort: 860
   level: 2
   description: 'When present in an HTTP response, the immutable Cache-Control extension
     indicates that the origin server MUST NOT update the representation of that resource

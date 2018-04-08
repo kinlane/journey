@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: IMAP
-  sort: 7
+  sort: 1064
   level: 3
   description: Providing a ready to go connector for IMAP, allowing email services
     to be securely accessed and served up via a new web API.

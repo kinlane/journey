@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: API
-  sort: 5
+  sort: 2220
   level: 2
   description: Provide an API for integrating with all testing.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Codecademy
-  sort: 7
+  sort: 1719
   level: 2
   description: Creating courses on Codecademy, then publishing them within an API
     developer area, providing lessons for developers on how an API operates.

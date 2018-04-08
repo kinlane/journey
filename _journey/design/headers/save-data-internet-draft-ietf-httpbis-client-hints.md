@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Save-Data (Internet Draft ietf-httpbis-client-hints)
-  sort: 135
+  sort: 605
   level: 2
   description: 'The "Save-Data" header field is a token that, in requests, indicates
     client''s preference for reduced data usage, due to high transfer costs, slow

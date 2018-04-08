@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Repudiation Attack
-  sort: 7
+  sort: 2425
   level: 2
   description: A repudiation attack happens when an application or system does not
     adopt controls to properly track and log users' actions, thus permitting malicious

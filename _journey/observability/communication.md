@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Communication
-  sort: 1
+  sort: 2225
   level: 2
   description: Ensuring there are appropriate communication channels open that demonstrate
     the desire to make operations behind services more observable and accessible to

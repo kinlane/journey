@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: WWW-Authenticate (RFC 7616 RFC 7235)
-  sort: 178
+  sort: 691
   level: 2
   description: 'If a server receives a request for an access-protected object, and
     an acceptable Authorization header is not sent, the server responds with a "401

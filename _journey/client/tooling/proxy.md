@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Proxy
-  sort: 3
+  sort: 2848
   level: 2
   description: Provide a proxy that can be used when making requests via the HTTP
     client.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Intrusion Correlation
-  sort: 6
+  sort: 2460
   level: 2
   description: Providing the ability to connect the dots between various security
     attacks and intrusions, providing insight into patterns used by attackers, locations

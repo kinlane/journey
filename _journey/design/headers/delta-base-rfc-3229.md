@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Delta-Base (RFC 3229)
-  sort: 68
+  sort: 471
   level: 2
   description: 'The Delta-Base entity-header field is used in a delta-encoded response
     to specify the entity tag of the base instance. A Delta-Base header field MUST

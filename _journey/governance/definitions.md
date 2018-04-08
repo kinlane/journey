@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Definitions
-  sort: 1
+  sort: 4384
   level: 1
   description: Plan for which definitions are required to provide what is needed to
     feed a wider service governance strategy.

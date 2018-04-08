@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Command Line Interface
-  sort: 12
+  sort: 1512
   level: 2
   description: Define programmatic control over the orchestration lifecycle using
     a command line interface (CLI) solution, allowing for easy command line execution

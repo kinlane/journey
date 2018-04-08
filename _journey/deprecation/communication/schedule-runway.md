@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Schedule (Runway)
-  sort: 3
+  sort: 4263
   level: 2
   description: What does the entire runway look like, with as complete schedule from
     first decision, to final date -

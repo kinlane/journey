@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Concur
-  sort: 8
+  sort: 1089
   level: 3
   description: Providing a ready to go connector for working with the Concur API,
     allowing an existing 3rd party service in use to be made available via a web API.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Amazon S3
-  sort: 2
+  sort: 1236
   level: 3
   description: Integration of crawling and scraping activities into Amazon S3.
 entities:

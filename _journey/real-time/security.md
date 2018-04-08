@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Security
-  sort: 8
+  sort: 3419
   level: 2
   description: Taking a look at the security layer involved with delivering real time
     streams of data and content, making sure things are properly secured when it comes

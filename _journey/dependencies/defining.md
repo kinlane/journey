@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Defining
-  sort: 2
+  sort: 1525
   level: 1
   description: Establishing the ability to define service dependencies in a machine
     readable format that can be included as part of the wider life cycle artifacts.

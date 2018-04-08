@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: GET (RFC 7231)
-  sort: 9
+  sort: 272
   level: 2
   description: 'The GET method requests transfer of a current selected representation
     for the target resource. GET is the primary mechanism of information retrieval

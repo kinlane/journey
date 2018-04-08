@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Security
-  sort: 28
+  sort: 4438
   level: 1
   description: Plan for the security guidance that will be needed to drive a wider
     service governance strategy.

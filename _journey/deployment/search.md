@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Search
-  sort: 7
+  sort: 1131
   level: 2
   description: Leveraging search services and tooling to index and make existing resources
     accessible, allowing for documents, structured, and unstructured data to be deployed

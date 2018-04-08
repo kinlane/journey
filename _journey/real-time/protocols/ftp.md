@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: FTP
-  sort: 18
+  sort: 3409
   level: 2
   description: The File Transfer Protocol (FTP) is a standard network protocol used
     to transfer computer files between a client and server on a computer network.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Crawling
-  sort: 2
+  sort: 1176
   level: 3
   description: Establishing common practices for crawling of websites for discovery
     and targeting of content for consumption via scraping processes.

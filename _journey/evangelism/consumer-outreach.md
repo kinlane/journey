@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Consumer Outreach
-  sort: 3
+  sort: 4110
   level: 2
   description: Defining what customer outreach looks like, and how it occurs in a
     consistent, strategy, and even tactical way, keeping the platform in sync with

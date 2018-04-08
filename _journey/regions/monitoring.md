@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Monitoring
-  sort: 4
+  sort: 3183
   level: 1
   description: Details on how regions can be used to monitor different services, sharing
     healthy practices for how regions can be used for platform availability.

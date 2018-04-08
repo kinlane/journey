@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Server-Side Includes (SSI) Injection
-  sort: 13
+  sort: 2360
   level: 2
   description: An attack that allows the exploitation of a web application by injecting
     scripts in HTML pages or executing arbitrary codes remotely, exploiting through

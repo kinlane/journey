@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Events
-  sort: 7
+  sort: 4148
   level: 2
   description: Where will we be found when it comes to a physical presence across
     target industries, and making sure there is a physical presence to the platform,

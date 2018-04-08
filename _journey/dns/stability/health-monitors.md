@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Health Monitors
-  sort: 1
+  sort: 977
   level: 2
   description: The ability to monitor domain health and availability, and receive
     notifications, or take actions based upon.

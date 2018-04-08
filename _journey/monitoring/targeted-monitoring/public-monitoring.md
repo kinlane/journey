@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Public Monitoring
-  sort: 3
+  sort: 2043
   level: 2
   description: Monitoring of public APIs, and providing the information for others
     to use.

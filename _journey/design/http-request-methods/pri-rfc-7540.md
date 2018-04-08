@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: PRI (RFC 7540)
-  sort: 25
+  sort: 304
   level: 2
   description: 'This method is never used by an actual client. This method will appear
     to be used when an HTTP/1.1 server or intermediary attempts to parse an HTTP/2

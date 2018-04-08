@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Buffer Overflow Attack
-  sort: 1
+  sort: 2305
   level: 2
   description: Avoid overwriting of memory fragments of the process, values of the
     IP (Instruction Pointer), BP (Base Pointer) and other registers which can cause

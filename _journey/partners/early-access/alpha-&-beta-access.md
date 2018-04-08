@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Alpha & Beta Access
-  sort: 3
+  sort: 4004
   level: 2
   description: Allow for beta access to new platform products.
 entities:

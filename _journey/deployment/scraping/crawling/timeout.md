@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Timeout
-  sort: 8
+  sort: 1193
   level: 3
   description: Giving users control over defining timeout limitations to be applied
     during the crawling cycle.

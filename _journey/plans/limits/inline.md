@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Inline
-  sort: 3
+  sort: 3804
   level: 2
   description: Providing information about rate limits inline, either within documentation
     or available within API response details.

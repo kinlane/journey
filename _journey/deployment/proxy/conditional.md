@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Conditional
-  sort: 8
+  sort: 1108
   level: 2
   description: Providing solutions for applying conditional logic to what flows through
     the proxy, allowing anyone to set conditions of its operation.

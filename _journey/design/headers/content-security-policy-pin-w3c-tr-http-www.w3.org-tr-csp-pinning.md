@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content-Security-Policy-Pin (W3C TR http://www.w3.org/TR/csp-pinning)
-  sort: 54
+  sort: 443
   level: 2
   description: 'The Content-Security-Policy-Pin header field is the mechanism for
     delivering a pinned policy that the user agent MUST enforce for any resource which

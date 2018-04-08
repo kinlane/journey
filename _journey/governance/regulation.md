@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Regulation
-  sort: 34
+  sort: 4450
   level: 1
   description: Plan for the regulation guidance that will be needed to drive a wider
     service governance strategy.

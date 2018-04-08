@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Contact Person
-  sort: 1
+  sort: 4325
   level: 2
   description: Who is the person (name, email, Twitter, and Github) who is the point
     of contact for the API deprecation process.

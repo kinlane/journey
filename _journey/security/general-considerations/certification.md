@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Certification
-  sort: 1
+  sort: 2451
   level: 2
   description: Providing a system for validating and certifying an APIs security,
     scanning the surface area and providing guarantees that the endpoint(s) are secure.

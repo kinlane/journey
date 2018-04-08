@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: CSV Files
-  sort: 3
+  sort: 1288
   level: 3
   description: Identification and processing of CSV files extracted from URLs.
 entities:

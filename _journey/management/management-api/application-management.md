@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Application Management
-  sort: 3
+  sort: 1820
   level: 2
   description: An application management API, allowing users to manage their registered
     applications, and get information about their consumption.

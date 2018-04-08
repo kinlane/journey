@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Competition Monitoring
-  sort: 1
+  sort: 4098
   level: 2
   description: Evaluation of the regular activity of competitors, cultivating an ever
     growing list of who they are and what they are up to.

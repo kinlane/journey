@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Pagination Extraction
-  sort: 12
+  sort: 1172
   level: 3
   description: Identifying the breadcrumbs, and pagination for URLs where content
     is being extracted and providing necessary details to navigate and harvest as

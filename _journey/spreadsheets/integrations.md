@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Integrations
-  sort: 5
+  sort: 3464
   level: 1
   description: What other types of spreadsheet platform enablement is available, allowing
     services to drive external, spreadsheet-driven functionality and features.

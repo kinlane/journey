@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: GPU Instances
-  sort: 2
+  sort: 1333
   level: 2
   description: In addition to a standard set of instance sizes, there are GPU instance
     for media, machine learning, and other more intensive compute situations.

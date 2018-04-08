@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Metrics
-  sort: 6
+  sort: 3818
   level: 2
   description: What data points are measure on a per second, per minute, daily, weekly,
     monthly or other basis to help quantity the consumption of users at all access

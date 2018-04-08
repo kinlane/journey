@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Emails
-  sort: 2
+  sort: 3220
   level: 2
   description: Trigger the sending of emails when webhooks are triggered, received,
     or other aspects of operations.

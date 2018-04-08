@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: ALPN (RFC 7639)
-  sort: 2
+  sort: 339
   level: 2
   description: 'Clients include the ALPN header field in an HTTP CONNECT request to
     indicate the application-layer protocol that a client intends to use within the

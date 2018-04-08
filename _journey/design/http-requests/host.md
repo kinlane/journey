@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Host
-  sort: 2
+  sort: 229
   level: 2
   description: Put sufficient thought into what the baseURL will be for making API
     calls. Increasingly this element can also be dynamic, like other aspects of API

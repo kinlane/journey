@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Basic Auth
-  sort: 1
+  sort: 2763
   level: 2
   description: Basic Auth is supported by an HTTP client for authentication as part
     of ay request being made.

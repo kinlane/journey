@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Service Level Agreements
-  sort: 31
+  sort: 4444
   level: 1
   description: Plan for the SLA guidance that will be needed to drive a wider service
     governance strategy.

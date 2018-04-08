@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Service Level Agreement
-  sort: 1
+  sort: 2534
   level: 2
   description: "Provide a service level agreements (SLA) describing what service(s)
     are offered by an API provider, with details about the quality of service, and

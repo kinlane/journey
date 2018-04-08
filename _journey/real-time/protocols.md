@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Protocols
-  sort: 7
+  sort: 3372
   level: 2
   description: What are the protocols being used to deliver real time APIs, and being
     used by existing sources, or are being considered as part of the road map in response

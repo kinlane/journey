@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Session Hijacking Attack
-  sort: 8
+  sort: 2328
   level: 2
   description: An attack that consists of the exploitation of the web session control
     mechanism, which is normally managed for a session token, exploiting http communication

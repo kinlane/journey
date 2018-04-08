@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Apache
-  sort: 1
+  sort: 2660
   level: 2
   description: 'The Apache License is a free software license written by the Apache
     Software Foundation (ASF). The Apache License requires preservation of the copyright

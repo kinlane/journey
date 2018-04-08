@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Migration
-  sort: 6
+  sort: 1364
   level: 2
   description: Powering the migration of data from other locations, allowing for large
     volumes of data to be migrated from an existing location on recurring or one time

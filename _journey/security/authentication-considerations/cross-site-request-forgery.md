@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Cross-Site Request Forgery
-  sort: 6
+  sort: 2288
   level: 2
   description: Make sure any PUT, POST, and DELETE request is protected from Cross
     Site Request Forgery, typically done using a token-based approach.

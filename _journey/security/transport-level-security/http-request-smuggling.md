@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HTTP Request Smuggling
-  sort: 2
+  sort: 2404
   level: 2
   description: The HTTP Request Smuggling attack explores an incomplete parsing of
     the submitted data done by an intermediary HTTP system working as a proxy.

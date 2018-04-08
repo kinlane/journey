@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content Spoofing
-  sort: 5
+  sort: 2343
   level: 2
   description: An attack made possible by an injection vulnerability, where an API
     does not properly handle user supplied data, and an attacker can supply content,

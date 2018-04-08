@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Load Testing
-  sort: 1
+  sort: 2073
   level: 2
   description: Offer loading testing services for HTTP endpoints.
 entities:

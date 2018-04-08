@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Authentication
-  sort: 1
+  sort: 1962
   level: 2
   description: Providing a standardized approach to authentication across monitoring
     services, allowing monitoring services to have the access they need to properly

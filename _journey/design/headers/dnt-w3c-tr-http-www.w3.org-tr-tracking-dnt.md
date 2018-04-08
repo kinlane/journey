@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: DNT (W3C TR http://www.w3.org/TR/tracking-dnt)
-  sort: 65
+  sort: 465
   level: 2
   description: 'The DNT header field is defined as the means for expressing a user''s
     tracking preference via HTTP. '

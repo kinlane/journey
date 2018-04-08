@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Partner
-  sort: 23
+  sort: 3723
   level: 2
   description: There is a focus on partner access to resources, resulting in separate
     access layers, and features dedicated to partner level consumption. While anyone

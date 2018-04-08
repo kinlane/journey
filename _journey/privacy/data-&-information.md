@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Data & Information
-  sort: 1
+  sort: 2556
   level: 2
   description: Understanding how privacy needs to be respected as data and information
     flow through, and is gathered as part of each service, covering the legal aspects

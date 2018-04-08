@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Cookies
-  sort: 2
+  sort: 2508
   level: 2
   description: What are the cookie policies? How are cookies crafted, stored, and
     deprecated. Cover the cookie policies for a platform, and any connection to the

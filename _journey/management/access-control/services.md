@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Services
-  sort: 4
+  sort: 1739
   level: 2
   description: Possessing a complete list of services, their variations, and what
     the limitations and groups involved with their operations.

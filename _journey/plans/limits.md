@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Limits
-  sort: 5
+  sort: 3797
   level: 2
   description: What are the limits and constraints in place for each plan and access
     tier, outlining exactly what is available, and where the limits of the plans become

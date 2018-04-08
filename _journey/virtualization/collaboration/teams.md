@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Teams
-  sort: 3
+  sort: 1582
   level: 2
   description: "Provide team tooling, allowing multiple individuals to work together
     when monitoring API virtualization.\t\t"

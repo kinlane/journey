@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content-Translation-Type (RFC 8255)
-  sort: 58
+  sort: 451
   level: 2
   description: 'The Content-Translation-Type field can be used in the individual language
     message parts to identify the type of translation. Based on the value of this

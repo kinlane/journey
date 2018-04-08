@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Performance
-  sort: 38
+  sort: 3896
   level: 2
   description: Using performance as a consideration when measuring API consumption.
 entities:

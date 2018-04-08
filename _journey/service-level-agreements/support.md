@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Support
-  sort: 10
+  sort: 2618
   level: 1
   description: Details regarding how the service level agreement is communicated to
     new users, as well as with existing users, as changes are made, or incidents occur.

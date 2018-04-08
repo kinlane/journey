@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SQL Server
-  sort: 4
+  sort: 1026
   level: 2
   description: Providing a connection to SQL Server database that allows for quick
     access to tables and fields, making data available through an API from the backend

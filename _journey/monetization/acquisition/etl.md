@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: ETL
-  sort: 3
+  sort: 3487
   level: 2
   description: The extracting, transforming and loading of data into the system.
 entities:

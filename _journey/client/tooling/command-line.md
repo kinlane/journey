@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Command Line
-  sort: 1
+  sort: 2844
   level: 2
   description: Provide a command line interface for developers to use along with an
     HTTP client.

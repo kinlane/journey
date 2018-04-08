@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Github Repository
-  sort: 1
+  sort: 4171
   level: 2
   description: Managing of code sample Gists, official code libraries and any samples,
     starter kits or other code samples generated through projects.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Transfers
-  sort: 23
+  sort: 3865
   level: 2
   description: Measuring API access based upon the number of transfers that are executed.
 entities:

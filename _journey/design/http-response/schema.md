@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Schema
-  sort: 4
+  sort: 710
   level: 2
   description: The JSON Schema, MSON, or other machine readable approach to defining
     the underlying data model of the API response.

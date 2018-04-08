@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Badges
-  sort: 3
+  sort: 3042
   level: 2
   description: Badges are common for displaying content and resources delivered via
     an API and allow these assets to be embedded on any website or application.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Visualizations
-  sort: 17
+  sort: 1859
   level: 1
   description: Integrating the aggregate logging APIs with the wider visualization
     strategy enabling the ability to see across all log activity, and events that

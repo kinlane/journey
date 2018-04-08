@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Client Code
-  sort: 2
+  sort: 2632
   level: 2
   description: What does the licensing look like when it comes to the client side
     code that is provided on top of APIs, and shared with consumers for integrating

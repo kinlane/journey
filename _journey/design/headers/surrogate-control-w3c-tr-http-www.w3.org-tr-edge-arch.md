@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Surrogate-Control (W3C TR http://www.w3.org/TR/edge-arch)
-  sort: 159
+  sort: 653
   level: 2
   description: 'The Surrogate-Control response header allows origin servers to dictate
     how surrogates should handle response entities, with control directives. Currently

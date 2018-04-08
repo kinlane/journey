@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Real Time Streaming Protocol (RTSP)
-  sort: 14
+  sort: 3401
   level: 2
   description: The Real Time Streaming Protocol (RTSP) is a network control protocol
     designed for use in entertainment and communications systems to control streaming

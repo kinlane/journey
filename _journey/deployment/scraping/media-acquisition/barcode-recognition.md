@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Barcode Recognition
-  sort: 6
+  sort: 1277
   level: 3
   description: Identifying barcodes that are present in images extracted from URLs.
 entities:

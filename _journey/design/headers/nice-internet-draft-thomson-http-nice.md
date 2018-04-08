@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Nice (Internet Draft thomson-http-nice)
-  sort: 108
+  sort: 551
   level: 2
   description: 'The "Nice" header field indicates that a request is less important
     than a request that doesn''t bear this header. '

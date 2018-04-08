@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Storage Migration
-  sort: 6
+  sort: 3250
   level: 1
   description: Provide the ability to migrate stored objects and documents between
     service providers, and on-premise legacy systems.

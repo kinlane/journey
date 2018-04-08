@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Endpoints
-  sort: 1
+  sort: 3952
   level: 2
   description: Providing access constraints based specifically on API endpoints allowing
     granular controls over each available resource.

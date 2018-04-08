@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Entity Extraction
-  sort: 3
+  sort: 1154
   level: 3
   description: Locate and classify named entities, such as the names of persons, organizations,
     locations from extracted content.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Management Monitoring
-  sort: 4
+  sort: 2009
   level: 2
   description: Solutions for monitoring more than just the surface area of an API,
     and be able to also monitor the management and business aspects of services, ensuring

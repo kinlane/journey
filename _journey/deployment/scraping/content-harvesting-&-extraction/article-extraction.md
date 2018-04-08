@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Article Extraction
-  sort: 6
+  sort: 1160
   level: 3
   description: Extraction of news and blog article from the content retrieved from
     a URL.

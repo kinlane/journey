@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Response Body Validation
-  sort: 4
+  sort: 1980
   level: 2
   description: Being able to validate the content of the body for a request.
 entities:

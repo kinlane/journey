@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content-Language (RFC 7231)
-  sort: 49
+  sort: 433
   level: 2
   description: 'The "Content-Language" header field describes the natural language(s)
     of the intended audience for the representation. Note that this might not be equivalent

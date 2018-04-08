@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Historical
-  sort: 6
+  sort: 3105
   level: 1
   description: Are there services available that provide historical analysis opportunities,
     allowing consumers to look back over history, as well as get the most recent information.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: By Force
-  sort: 3
+  sort: 2292
   level: 2
   description: Looking at the most common brute force approaches to breaching platform
     security, and ensuring they cannot be exploited to gain access to systems that

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Variant-Vary (RFC 2295)
-  sort: 173
+  sort: 681
   level: 2
   description: 'The Variant-Vary response header can be used in a choice response
     to record any vary information which applies to the variant data (the entity body

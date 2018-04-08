@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Definitions
-  sort: 2
+  sort: 2710
   level: 1
   description: Are there schema or API definitions in place that need to be used as
     part of the development process, which are part of regulatory compliance.

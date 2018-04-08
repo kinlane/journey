@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Management
-  sort: 5
+  sort: 3348
   level: 2
   description: Providing information regarding the management tooling involved with
     and provided to help manage the consumption of real time streams, channels, and

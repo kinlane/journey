@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Embeddable Tools
-  sort: 2
+  sort: 3035
   level: 2
   description: Publishing a list of all the embeddable tools available for deployment
     on top of existing services by developers or non-developers looking to embed features

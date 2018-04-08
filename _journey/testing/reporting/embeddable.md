@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Embeddable
-  sort: 2
+  sort: 2126
   level: 2
   description: Providing embeddable tools for API monitoring.
 entities:

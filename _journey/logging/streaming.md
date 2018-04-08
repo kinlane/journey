@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Streaming
-  sort: 11
+  sort: 1847
   level: 1
   description: Offering a streaming option for subscribing to logging activities,
     events, and channels, providing real time one-way streaming APIs across logging

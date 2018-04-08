@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Error handling
-  sort: 7
+  sort: 845
   level: 2
   description: Going beyond the HTTP status code and making sure there is a plan for
     handling of error codes, and providing consistent behavior when it comes to things

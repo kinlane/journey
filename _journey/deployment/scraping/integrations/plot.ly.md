@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Plot.ly
-  sort: 4
+  sort: 1240
   level: 3
   description: Integration of crawling and scraping activities into Plot.ly.
 entities:

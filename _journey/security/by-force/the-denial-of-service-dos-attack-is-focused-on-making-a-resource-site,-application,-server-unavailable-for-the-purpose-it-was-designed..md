@@ -6,7 +6,7 @@ rel:
 properties:
   name: The Denial of Service (DoS) attack is focused on making a resource (site,
     application, server) unavailable for the purpose it was designed.
-  sort: 4
+  sort: 2300
   level: 2
   description: ~
 entities:

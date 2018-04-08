@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Application Only
-  sort: 1
+  sort: 1646
   level: 2
   description: Provides authenticated requests on behalf of the application only,
     and not targeting any particular user account.

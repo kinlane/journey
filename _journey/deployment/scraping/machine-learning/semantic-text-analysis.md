@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Semantic Text Analysis
-  sort: 1
+  sort: 1256
   level: 3
   description: Relating syntactic structures, from text to the level of the writing
     as a whole, to their language-independent meanings.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: iOS SDK
-  sort: 2
+  sort: 2903
   level: 2
   description: Providing mobile-focused SDKs for developers to build IOS mobile applications
     on top of an API.

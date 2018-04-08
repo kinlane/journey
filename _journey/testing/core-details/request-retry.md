@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Retry
-  sort: 4
+  sort: 2079
   level: 2
   description: Ability to retry a specific request.
 entities:

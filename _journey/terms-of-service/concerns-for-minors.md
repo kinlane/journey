@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Concerns For Minors
-  sort: 7
+  sort: 2519
   level: 2
   description: The legal details regarding how platform operations can be used to
     serve minor children, providing a set of guidance regarding how this will impact

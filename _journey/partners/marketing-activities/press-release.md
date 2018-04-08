@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Press Release
-  sort: 2
+  sort: 4027
   level: 2
   description: Provide press releases for new partners, and possibly recurring for
     other milestones.

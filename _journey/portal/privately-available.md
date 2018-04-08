@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Privately Available
-  sort: 4
+  sort: 1661
   level: 1
   description: Will the API portal be only available within the corporate firewall,
     or may locked down for viewing by just a handful of partners.

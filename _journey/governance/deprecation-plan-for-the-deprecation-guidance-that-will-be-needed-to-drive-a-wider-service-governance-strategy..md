@@ -6,7 +6,7 @@ rel:
 properties:
   name: Deprecation -Plan for the deprecation guidance that will be needed to drive
     a wider service governance strategy.
-  sort: 63
+  sort: 4508
   level: 1
   description: ~
 entities:

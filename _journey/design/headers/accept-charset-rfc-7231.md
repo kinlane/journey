@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accept-Charset (RFC 7231)
-  sort: 7
+  sort: 349
   level: 2
   description: 'The "Accept-Charset" header field can be sent by a user agent to indicate
     what charsets are acceptable in textual response content. This field allows user

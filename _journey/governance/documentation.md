@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Documentation
-  sort: 16
+  sort: 4414
   level: 1
   description: Plan for the documentation guidance that will be needed to drive a
     wider service governance strategy.

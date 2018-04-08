@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Resource Depletion
-  sort: 11
+  sort: 2431
   level: 2
   description: Evaluating how resources can be depleted, making sure security efforts
     aren't overlooking smaller, low-level, more precise attacks that might easily

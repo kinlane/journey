@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Archives
-  sort: 31
+  sort: 3882
   level: 2
   description: Measurement of API accessed based upon the number of archives that
     are created.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Migration
-  sort: 51
+  sort: 4484
   level: 1
   description: Plan for the migration guidance that will be needed to drive a wider
     service governance strategy.

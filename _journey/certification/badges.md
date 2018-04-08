@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Badges
-  sort: 5
+  sort: 4075
   level: 1
   description: Offering badges that can be published, shared, syndicated, and displayed
     to represent that an application or developer has been certified.

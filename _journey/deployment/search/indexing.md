@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Indexing
-  sort: 3
+  sort: 1138
   level: 2
   description: Allowing for indexing of structured and unstructured data for inclusion
     in search indexes which can then be leverage by a variety API driven services.

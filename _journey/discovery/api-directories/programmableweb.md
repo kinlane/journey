@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: ProgrammableWeb
-  sort: 1
+  sort: 2728
   level: 2
   description: The original API directory created by John Musser in 2005, to provide
     a single, searchable directory of common public APIs.

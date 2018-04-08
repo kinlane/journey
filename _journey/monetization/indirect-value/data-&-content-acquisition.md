@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Data & Content Acquisition
-  sort: 4
+  sort: 3582
   level: 2
   description: Using the API, and the applications built on top as part of a larger
     data and content acquisition strategy--can we quantify this?

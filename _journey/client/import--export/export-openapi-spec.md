@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Export OpenAPI Spec
-  sort: 5
+  sort: 2791
   level: 2
   description: Allow for the exporting of API requests using the OpenAPI Spec.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Rating
-  sort: 4
+  sort: 2957
   level: 2
   description: Are SDKs rated, allowing for various quality considerations around
     their value and usage in other API integrations, allowing developers to find the

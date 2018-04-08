@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Email
-  sort: 2
+  sort: 959
   level: 2
   description: Provide notifications about DNS layer via emails.
 entities:

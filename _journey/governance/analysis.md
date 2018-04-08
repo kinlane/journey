@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Analysis
-  sort: 45
+  sort: 4472
   level: 1
   description: Plan for the analysis guidance that will be needed to drive a wider
     service governance strategy.

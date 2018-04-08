@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Office Hours
-  sort: 2
+  sort: 4049
   level: 2
   description: Provide virtual open office hours just for partners.
 entities:

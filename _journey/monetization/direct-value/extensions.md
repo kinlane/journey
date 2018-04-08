@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Extensions
-  sort: 16
+  sort: 3549
   level: 2
   description: Are there extensions available that will impact the developers, or
     end-users experience. Can extensions be used for a default experience, or added

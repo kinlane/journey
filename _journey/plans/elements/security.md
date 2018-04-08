@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Security
-  sort: 41
+  sort: 3759
   level: 2
   description: Access to API resources provide a security benefit, or are in support
     of other related security products and services. There should always be a base

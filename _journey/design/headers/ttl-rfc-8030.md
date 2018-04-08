@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: TTL (RFC 8030)
-  sort: 162
+  sort: 659
   level: 2
   description: 'An application server MUST include the TTL (Time-To-Live) header field
     in its request for push message delivery. The TTL header field contains a value

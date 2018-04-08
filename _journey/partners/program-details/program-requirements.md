@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Program Requirements
-  sort: 3
+  sort: 3966
   level: 2
   description: Information about what the details of the program are.
 entities:

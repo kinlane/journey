@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SOAPAction (W3C TR http://www.w3.org/TR/SOAP)
-  sort: 133
+  sort: 601
   level: 2
   description: 'The SOAPAction HTTP request header field can be used to indicate the
     intent of the SOAP HTTP request. The value is a URI identifying the intent. SOAP

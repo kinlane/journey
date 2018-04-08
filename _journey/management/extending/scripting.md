@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Scripting
-  sort: 3
+  sort: 1765
   level: 2
   description: Identify the opportunities for writing scripts and executing as part
     of the API management layer, allowing for custom code to be injected into the

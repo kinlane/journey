@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: License
-  sort: 4
+  sort: 2566
   level: 2
   description: What licensing considerations are there that could potentially impact
     the privacy of platform owners, consumers, and end-users.

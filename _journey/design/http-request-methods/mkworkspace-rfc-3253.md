@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: MKWORKSPACE (RFC 3253)
-  sort: 19
+  sort: 292
   level: 2
   description: 'A MKWORKSPACE request creates a new workspace resource. A server MAY
     restrict workspace creation to particular collections, but a client can determine

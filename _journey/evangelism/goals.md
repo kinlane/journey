@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Goals
-  sort: 1
+  sort: 4080
   level: 2
   description: Establishing a core set of goals behind why we are doing APIs, understanding
     clearly why services are being deployed, and what constitutes success when it

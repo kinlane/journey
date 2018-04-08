@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: AngelList
-  sort: 2
+  sort: 2744
   level: 2
   description: Like Crunchbase, AngelList is a directory of companies, but also provides
     a way to showcase companies who have APIs.

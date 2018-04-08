@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: More Applications
-  sort: 4
+  sort: 4089
   level: 2
   description: Increase the number of applications being developed on top of APIs.
 entities:

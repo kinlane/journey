@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Social
-  sort: 1
+  sort: 1893
   level: 2
   description: Providing direct support using existing social channels used by the
     platform, or parent organization.

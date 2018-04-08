@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Clear-Site-Data (W3C TR http://www.w3.org/TR/clear-site-data)
-  sort: 42
+  sort: 419
   level: 2
   description: 'The Clear-Site-Data HTTP response header field sends a signal to the
     user agent that it ought to remove all data of a certain set of types. '

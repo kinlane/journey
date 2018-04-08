@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Destination (RFC 4918)
-  sort: 70
+  sort: 475
   level: 2
   description: 'The Destination request header specifies the URI that identifies a
     destination resource for methods such as COPY and MOVE, which take two URIs as

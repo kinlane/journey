@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Usage of Service
-  sort: 5
+  sort: 2592
   level: 2
   description: Thinking about the tradeoffs between the terms of service and privacy,
     linking sensible usage of the platform, respecting privacy, and being able to

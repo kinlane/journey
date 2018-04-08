@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accuracy of Information
-  sort: 6
+  sort: 2494
   level: 2
   description: What are the expectations for accuracy of information available via
     the platform. What is the bar, and how is this level determined and enforced.

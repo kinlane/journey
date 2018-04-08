@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Orchestration Artifacts
-  sort: 6
+  sort: 154
   level: 2
   description: Being organized regarding how Jenkins, and other CI/CD configuration
     files are stored, configured, audited, and used across the lifecycle.

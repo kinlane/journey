@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Data Migration
-  sort: 5
+  sort: 3248
   level: 1
   description: Provide the ability to migrate database between service providers,
     and on-premise legacy systems.

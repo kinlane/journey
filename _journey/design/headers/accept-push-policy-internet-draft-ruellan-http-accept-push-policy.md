@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accept-Push-Policy (Internet Draft ruellan-http-accept-push-policy)
-  sort: 15
+  sort: 365
   level: 2
   description: 'A client can express the desired push policy for a request by sending
     an "Accept-Push-Policy" header field in the request. The header field value contains

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Scaling
-  sort: 2
+  sort: 1470
   level: 3
   description: Automatically scaling each script and function independently, allowing
     for usage spikes to occur without any disruption or performance loss.

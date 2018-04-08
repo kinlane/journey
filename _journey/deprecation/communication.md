@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Communication
-  sort: 1
+  sort: 4256
   level: 2
   description: How is deprecation communicated out across stakeholders, providing
     a structured approach to managing not just change, but the inevitable shuttering

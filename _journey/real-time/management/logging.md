@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Logging
-  sort: 3
+  sort: 3355
   level: 2
   description: Allow the logging of all activity that occurs, and access by end users
     and developers.

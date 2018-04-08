@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Talent
-  sort: 40
+  sort: 3757
   level: 2
   description: API resources are focused on driving talent acquisition, or even placement
     with ecosystem related companies or as part of wider services. This could be in

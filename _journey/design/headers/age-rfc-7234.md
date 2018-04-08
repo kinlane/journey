@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Age (RFC 7234)
-  sort: 25
+  sort: 385
   level: 2
   description: 'The "Age" header field conveys the sender''s estimate of the amount
     of time since the response was generated or successfully validated at the origin

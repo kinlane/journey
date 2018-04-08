@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Migrations
-  sort: 30
+  sort: 3880
   level: 2
   description: Measurement of API accessed based upon the number of migrations that
     occur.

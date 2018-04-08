@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: C Sharp
-  sort: 5
+  sort: 2890
   level: 2
   description: An SDK available in the C Sharp / C# programming language, with consideration
     specifically tailored for the language.

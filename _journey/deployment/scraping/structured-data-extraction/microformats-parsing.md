@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Microformats Parsing
-  sort: 5
+  sort: 1292
   level: 3
   description: The parsing of common microformats from content extracted from URLs.
 entities:

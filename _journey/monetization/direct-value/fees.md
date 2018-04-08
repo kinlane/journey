@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Fees
-  sort: 18
+  sort: 3553
   level: 2
   description: How are fees leveraged as part of value generation, where like usage,
     fees driving that value generation, or possibly the lack of fees is where the

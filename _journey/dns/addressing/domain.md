@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Domain
-  sort: 1
+  sort: 936
   level: 2
   description: Management of a single domain, and its administrative information.
 entities:

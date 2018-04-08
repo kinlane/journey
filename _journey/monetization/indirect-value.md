@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Indirect Value
-  sort: 4
+  sort: 3573
   level: 2
   description: Stepping back and looking at the indirect benefits of a service, and
     other ways in which it will generate value for an organization beyond the direct

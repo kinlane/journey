@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Liability
-  sort: 6
+  sort: 2570
   level: 2
   description: What is the liability assumed by the platform, or possibly consumers,
     and end-users when it comes to platform operations, in the area of privacy.

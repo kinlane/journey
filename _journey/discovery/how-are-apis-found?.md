@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: How Are APIs Found?
-  sort: 5
+  sort: 2746
   level: 2
   description: Thinking about how APIs are found within an organization or industry,
     and helping make sure that APIs can be organized and found by internal, partner,

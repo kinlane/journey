@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Be Transparent
-  sort: 7
+  sort: 4271
   level: 2
   description: Try to be as transparent as you possibly can, throughout the process.
 entities:

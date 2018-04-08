@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Demo
-  sort: 5
+  sort: 3687
   level: 2
   description: This resource or set of resources has a demonstration associated with
     it, which might apply to multiple plans. Consider the possibilities of offer live,

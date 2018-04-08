@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Policies
-  sort: 5
+  sort: 3166
   level: 1
   description: What network policies are in place, and should be considered as part
     of service operations, making sure behavior is known and sanctioned as part of

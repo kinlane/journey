@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Access-Control-Allow-Methods (W3C TR http://www.w3.org/TR/cors)
-  sort: 19
+  sort: 373
   level: 2
   description: 'The Access-Control-Allow-Methods header indicates, as part of the
     response to a preflight request, which methods can be used during the actual request. '

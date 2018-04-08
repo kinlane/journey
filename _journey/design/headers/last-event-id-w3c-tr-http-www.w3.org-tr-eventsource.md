@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Last-Event-ID (W3C TR http://www.w3.org/TR/eventsource)
-  sort: 97
+  sort: 529
   level: 2
   description: 'The Last-Event-ID HTTP header specifies the value of the event source''s
     last event ID string, encoded as UTF-8. '

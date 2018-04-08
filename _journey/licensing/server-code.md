@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Server Code
-  sort: 4
+  sort: 2657
   level: 2
   description: Considering how server-side code is licensed, and made available beyond
     just driving the API, and looking at how it can make APIs deployable and federated

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Support
-  sort: 16
+  sort: 4231
   level: 2
   description: How are support efforts integrated with evangelism, ensuring that existing
     conversations are actively being used to generate new content, and amplify what

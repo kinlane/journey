@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Acquisition
-  sort: 1
+  sort: 3480
   level: 2
   description: What is involved with actually bring a service to life, and obtain
     all the data, content, and other things that will be needed for development, and

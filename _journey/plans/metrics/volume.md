@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Volume
-  sort: 9
+  sort: 3837
   level: 2
   description: Volume is used as a basic measurement of how consumers can access API,
     providing a standard set of pricing, as well as volume pricing.

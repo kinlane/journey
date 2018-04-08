@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Overview
-  sort: 1
+  sort: 1675
   level: 2
   description: Simple title, and single paragraph describing what an API platform
     delivers.

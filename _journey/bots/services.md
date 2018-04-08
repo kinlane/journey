@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Services
-  sort: 1
+  sort: 3067
   level: 1
   description: Are there specific services that are designed to support bot and other
     approaches to automation.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Link (RFC 8288)
-  sort: 99
+  sort: 533
   level: 2
   description: 'The Link header field provides a means for serialising one or more
     links into HTTP headers. '

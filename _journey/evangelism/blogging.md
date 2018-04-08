@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Blogging
-  sort: 5
+  sort: 4130
   level: 2
   description: What does storytelling look like, and what is the strategy for publishing
     and syndicating meaningful, helpful, and far reaching content as part of the wider

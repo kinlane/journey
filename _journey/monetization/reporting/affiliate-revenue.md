@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Affiliate Revenue
-  sort: 5
+  sort: 3658
   level: 2
   description: What was generated from affiliate links made available via APIs, minus
     what percentage was paid out to API consumers.

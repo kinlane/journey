@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Monitoring
-  sort: 2
+  sort: 2239
   level: 2
   description: Actively monitoring and publishing the uptime and availability status
     demonstrates the maturity of platform and makes it more observable.

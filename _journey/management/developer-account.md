@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Developer Account
-  sort: 5
+  sort: 1790
   level: 2
   description: What resources are available to a developer to help them manage their
     engagement with a platform, reflecting the overall management services that are

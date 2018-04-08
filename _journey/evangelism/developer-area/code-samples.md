@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Code Samples
-  sort: 3
+  sort: 4146
   level: 2
   description: Establish new code samples that can be used within API documentation
     pages, maintain them as API evolves.

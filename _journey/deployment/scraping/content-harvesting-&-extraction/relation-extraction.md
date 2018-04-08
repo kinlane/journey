@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Relation Extraction
-  sort: 5
+  sort: 1158
   level: 3
   description: Detection and classification of semantic relationship identified within
     extracted text from URL.

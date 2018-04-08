@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Specification
-  sort: 3
+  sort: 148
   level: 2
   description: The root specification for the API definition format, providing a base
     set of rules for all services and tools that employ the spec.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: First Decision
-  sort: 3
+  sort: 4308
   level: 2
   description: Establishing that an API or platform will need to be deprecated. Recording
     the date, time, and other key details on what this decision was reached.

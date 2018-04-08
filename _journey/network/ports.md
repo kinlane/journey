@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Ports
-  sort: 3
+  sort: 3162
   level: 1
   description: What ports are in use as part of operating services, including any
     standard and non-standard uses, covering all stages, and environments used as

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Session Management
-  sort: 1
+  sort: 2278
   level: 2
   description: API should pass session-based authentication, either by session token
     via a POST or by API key as a POST body argument or as a cookie, avoiding usernames,

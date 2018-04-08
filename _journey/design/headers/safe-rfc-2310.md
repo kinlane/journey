@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Safe (RFC 2310)
-  sort: 134
+  sort: 603
   level: 2
   description: 'The Safe response header field is used by origin servers to indicate
     whether repeating the received HTTP request is safe in the sense of Section 9.1.1

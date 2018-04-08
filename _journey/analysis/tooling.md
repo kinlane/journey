@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Tooling
-  sort: 3
+  sort: 3099
   level: 1
   description: Providing details regarding any open source tooling that can be used
     to help analyze the data, content, and algorithmic output from any platform services.

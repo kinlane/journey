@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Parameters
-  sort: 3
+  sort: 2858
   level: 1
   description: Providing a list of the available command line interface parameters
     that can be applied to commands and put services to work on the platform.

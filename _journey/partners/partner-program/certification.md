@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Certification
-  sort: 3
+  sort: 3977
   level: 2
   description: Official certification showing that a partner is officially approved
     and vetted.

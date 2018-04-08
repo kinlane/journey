@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Stack Exchange
-  sort: 2
+  sort: 4191
   level: 2
   description: Regular trolling of Stack Exchange / Stack Overflow and responding
     to relevant [Client Name] or industry related questions.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Design
-  sort: 2
+  sort: 4386
   level: 1
   description: Plan for the API design guidance that is needed to provide what is
     needed to feed a wider service governance strategy.

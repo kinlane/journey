@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Variants (Internet Draft draft-nottingham-variants)
-  sort: 174
+  sort: 683
   level: 2
   description: 'The Variants HTTP response header field is used to indicate what other
     representations are available for a given resource at the time that the response

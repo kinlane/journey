@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Commenting
-  sort: 13
+  sort: 2185
   level: 2
   description: Enable testers to comment on tests.
 entities:

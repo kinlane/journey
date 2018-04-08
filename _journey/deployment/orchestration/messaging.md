@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Messaging
-  sort: 15
+  sort: 1518
   level: 2
   description: Opening up channels for messaging to occur around models, pipelines,
     and the builds that make up the continuous integration and deployment cycles.

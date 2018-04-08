@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Message
-  sort: 8
+  sort: 3835
   level: 2
   description: Charging per message rather than each API call that is required to
     prepare, send, or access messages.

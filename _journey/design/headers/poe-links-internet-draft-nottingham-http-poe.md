@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: POE-Links (Internet Draft nottingham-http-poe)
-  sort: 122
+  sort: 579
   level: 2
   description: 'The POE-Links HTTP header is an entity-header field whose field-value
     is a comma-separated list of quoted URI-references (without fragment identifiers)

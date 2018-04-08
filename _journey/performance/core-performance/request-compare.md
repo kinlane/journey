@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Compare
-  sort: 10
+  sort: 2179
   level: 2
   description: Allow for the comparison of performance tests.
 entities:

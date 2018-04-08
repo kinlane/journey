@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Monthly
-  sort: 6
+  sort: 3943
   level: 2
   description: Managing, guiding, and restricting plan entries in months. Like weekly,
     this timeframe is more used to organizing billing and support cycles, organizing

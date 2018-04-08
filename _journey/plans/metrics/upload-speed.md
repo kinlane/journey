@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Upload Speed
-  sort: 16
+  sort: 3851
   level: 2
   description: Restricting and measuring API access based upon file upload speed.
 entities:

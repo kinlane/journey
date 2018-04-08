@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Enter Platform Safe Mode
-  sort: 4
+  sort: 4351
   level: 2
   description: What is the plan for just putting the platform into safe mode, and
     still operating.

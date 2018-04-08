@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Want-Digest (RFC 3230)
-  sort: 179
+  sort: 693
   level: 2
   description: 'The Want-Digest message header field indicates the sender''s desire
     to receive an instance digest on messages associated with the Request-URI. '

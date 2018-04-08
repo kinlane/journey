@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: GPL
-  sort: 2
+  sort: 2637
   level: 2
   description: 'The GNU General Public License (GNU GPL or GPL) is the most widely
     used[6] free software license, which guarantees end users (individuals, organizations,

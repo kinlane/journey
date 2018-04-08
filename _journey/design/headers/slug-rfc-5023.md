@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Slug (RFC 5023)
-  sort: 152
+  sort: 639
   level: 2
   description: 'Slug is an HTTP entity-header whose presence in a POST to a Collection
     constitutes a request by the client to use the header''s value as part of any

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Hybrid
-  sort: 7
+  sort: 3273
   level: 1
   description: Allowing for hybrid on-premise and cloud backups to occur, ensuring
     that backups of all resources are available in at least one or two additional

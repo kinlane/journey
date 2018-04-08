@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: JSON Viewer
-  sort: 3
+  sort: 2835
   level: 2
   description: Provide a viewer for seeing the JSON returned, and be able to copy,
     paste, save, and other features.

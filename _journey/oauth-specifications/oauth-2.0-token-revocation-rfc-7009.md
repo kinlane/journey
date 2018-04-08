@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OAuth 2.0 Token Revocation (RFC 7009)
-  sort: 4
+  sort: 1636
   level: 1
   description: 'This document proposes an additional endpoint for OAuth authorization
     servers, which allows clients to notify the authorization server that a previously

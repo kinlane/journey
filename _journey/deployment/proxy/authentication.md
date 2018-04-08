@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Authentication
-  sort: 3
+  sort: 1098
   level: 2
   description: Details regarding what authentication flows are available within the
     proxy, allowing for integration with as many common approaches to API authentication.

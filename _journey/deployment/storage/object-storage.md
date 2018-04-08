@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Object Storage
-  sort: 1
+  sort: 1354
   level: 2
   description: Allowing for the storage of any size objects in the cloud, and allocating
     a portion of it for centralized storage across services, but determining relative

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Investment
-  sort: 56
+  sort: 4494
   level: 1
   description: Plan for the investment guidance that will be needed to drive a wider
     service governance strategy.

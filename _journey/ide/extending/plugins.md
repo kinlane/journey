@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Plugins
-  sort: 2
+  sort: 3003
   level: 2
   description: Does the IDE environment allow for plugins, and extending the environment?
     Plugins allow for the introduction of 3rd party tools and services into the IDE

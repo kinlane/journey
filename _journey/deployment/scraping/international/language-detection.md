@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Language Detection
-  sort: 1
+  sort: 1249
   level: 3
   description: Providing language detection resources for applying against content
     and data that is extracted from URLs.

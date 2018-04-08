@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Surrogate-Capability (W3C TR http://www.w3.org/TR/edge-arch)
-  sort: 158
+  sort: 651
   level: 2
   description: 'The Surrogate-Capabilities request header allows surrogates to advertise
     their capabilities with capability tokens. Capability tokens indicate sets of

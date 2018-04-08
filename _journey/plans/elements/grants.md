@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Grants
-  sort: 45
+  sort: 3767
   level: 2
   description: API resources exist because of grant related resources, which pay for
     their design, deployment or operations. Similar to donations, grants could be

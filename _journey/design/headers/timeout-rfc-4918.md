@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Timeout (RFC 4918)
-  sort: 163
+  sort: 661
   level: 2
   description: 'Clients MAY include Timeout request headers in their LOCK requests.
     However, the server is not required to honor or even consider these requests. '

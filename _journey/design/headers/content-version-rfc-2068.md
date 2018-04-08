@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content-Version (RFC 2068)
-  sort: 60
+  sort: 455
   level: 2
   description: 'The Content-Version entity-header field defines the version tag associated
     with a rendition of an evolving entity. Together with the Derived-From field,

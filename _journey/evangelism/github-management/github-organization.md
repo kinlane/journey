@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Github Organization
-  sort: 3
+  sort: 4175
   level: 2
   description: Are there Github organizations in place in support of outreach? Is
     there a single one, or multiple ones for different projects, groups, etc?

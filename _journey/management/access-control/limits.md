@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Limits
-  sort: 3
+  sort: 1737
   level: 2
   description: Documenting what rate limitations will be in place for different groups
     when it comes to working with all services.

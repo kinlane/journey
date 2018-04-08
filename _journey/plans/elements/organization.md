@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Organization
-  sort: 48
+  sort: 3773
   level: 2
   description: There are organizational elements around API access and usage for API
     consumers to take advantage of. Are API plans organized by organization, or possibly

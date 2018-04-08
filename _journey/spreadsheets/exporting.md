@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Exporting
-  sort: 4
+  sort: 3462
   level: 1
   description: Are there solutions for allowing the exporting of spreadsheets or CSV
     using platform services, enabling data portability using a common set of services.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Aurora
-  sort: 7
+  sort: 1032
   level: 2
   description: Providing a connection to Aurora database that allows for quick access
     to tables and fields, making data available through an API from the backend database.

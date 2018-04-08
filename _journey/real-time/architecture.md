@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Architecture
-  sort: 1
+  sort: 3288
   level: 2
   description: Looking at the architecture involved with delivering real time services,
     and making sure that API consumers have what they need to adequately put real

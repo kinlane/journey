@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Timeframes
-  sort: 12
+  sort: 3541
   level: 2
   description: What timeframes can be leverage to generate direct value? Timeframes
     should be used in conjunction with plans to dial in the value generated.

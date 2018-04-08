@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Bucket Stores
-  sort: 4
+  sort: 1360
   level: 2
   description: Allowing for buckets to be created for storing of different types of
     information, and isolating service storage to individually defined buckets.

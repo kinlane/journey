@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Gateway
-  sort: 6
+  sort: 1118
   level: 2
   description: A heavier duty implementation that provides a doorway to new or existing
     services, providing more robust solutions for accessing backend services via web

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Ext (RFC 2774)
-  sort: 79
+  sort: 493
   level: 2
   description: 'The Ext header field is used to indicate that all end-to-end mandatory
     extension declarations in the request were fulfilled. '

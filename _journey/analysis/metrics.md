@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Metrics
-  sort: 1
+  sort: 3095
   level: 1
   description: Details regarding which metrics are used as part of analysis features
     involving platform services, and how results are obtained by having clear metrics

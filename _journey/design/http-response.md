@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HTTP Response
-  sort: 5
+  sort: 701
   level: 2
   description: Planning for what each API response will provide, embracing common
     messages, schema, and thinking constantly about what services should be delivering.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Proxies
-  sort: 1
+  sort: 1299
   level: 3
   description: Allowing for the deployment, configuration, and operation of proxies
     that get applied as part of scraping and crawling.

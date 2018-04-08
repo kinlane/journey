@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Advertising
-  sort: 46
+  sort: 3769
   level: 2
   description: API resources exist in support of advertising related elements of platform
     operations, driving advertising, or possibly alleviating the need for advertising

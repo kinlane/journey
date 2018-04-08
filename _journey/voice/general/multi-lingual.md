@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Multi-Lingual
-  sort: 4
+  sort: 3438
   level: 2
   description: What are the multilingual strategies for voice-enablement, even if
     they are just part of the road map, and something that will eventually happen.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Marketing Activities
-  sort: 8
+  sort: 4022
   level: 2
   description: Providing a list of the marketing activities available to partners
     who engage with the platform, offering them more exposure and attention to their

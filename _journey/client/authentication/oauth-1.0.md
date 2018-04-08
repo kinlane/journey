@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OAuth 1.0
-  sort: 4
+  sort: 2769
   level: 2
   description: OAuth 1.0a is supported by an HTTP client for authentication as part
     of ay request being made.

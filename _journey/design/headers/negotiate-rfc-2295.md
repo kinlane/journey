@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Negotiate (RFC 2295)
-  sort: 107
+  sort: 549
   level: 2
   description: 'The Negotiate request header can contain directives for any content
     negotiation process initiated by the request. '

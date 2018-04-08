@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Product Extraction
-  sort: 10
+  sort: 1168
   level: 3
   description: The extraction of specific product related information like title,
     description, pricing, and images from content extracted from web pages.

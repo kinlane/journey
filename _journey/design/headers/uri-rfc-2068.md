@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: URI (RFC 2068)
-  sort: 169
+  sort: 673
   level: 2
   description: 'The URI header field has, in past versions of this specification,
     been used as a combination of the existing Location, Content-Location, and Vary

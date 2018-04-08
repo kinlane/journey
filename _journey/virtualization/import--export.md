@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Import / Export
-  sort: 3
+  sort: 1564
   level: 2
   description: Allowing for the importing and exporting of API definitions to be used
     to generate virtualized instances of services that can be used in testing and

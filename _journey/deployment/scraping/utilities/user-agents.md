@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: User Agents
-  sort: 4
+  sort: 1305
   level: 3
   description: Allow for the customization of the user agent that identifies scraping
     and crawling tooling.

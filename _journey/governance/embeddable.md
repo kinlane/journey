@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Embeddable
-  sort: 42
+  sort: 4466
   level: 1
   description: Plan for the embeddable guidance that will be needed to drive a wider
     service governance strategy.

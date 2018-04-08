@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Individual API Tooling
-  sort: 2
+  sort: 4347
   level: 2
   description: An approach to how you deprecate one of the client solutions available
     on API platform.

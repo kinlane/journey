@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Playback
-  sort: 8
+  sort: 2175
   level: 2
   description: Enable the playback of any performance test.
 entities:

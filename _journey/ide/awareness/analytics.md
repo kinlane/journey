@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Analytics
-  sort: 2
+  sort: 3012
   level: 2
   description: What analytics are available to support API integrations, during development?
     Is the ability to track and measure API related integrations during design and

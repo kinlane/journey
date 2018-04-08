@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Plugin
-  sort: 39
+  sort: 4460
   level: 1
   description: Plan for the plugin guidance that will be needed to drive a wider service
     governance strategy.

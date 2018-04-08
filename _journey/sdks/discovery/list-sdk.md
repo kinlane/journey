@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: List SDK
-  sort: 1
+  sort: 2951
   level: 2
   description: Are SDKs listed in an easy to find location, where developers can browse
     them easily? A simple list goes a long way in making them found.

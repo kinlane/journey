@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Features
-  sort: 3
+  sort: 3318
   level: 2
   description: Covering the common features involved with consuming real time feeds
     and streams, helping consumers understand why they might want to putting these

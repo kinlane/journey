@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Database
-  sort: 4
+  sort: 2261
   level: 1
   description: Background on how all databases involved are being encrypted, and what
     the process looks like for ensuring all data is being encrypted by default.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: EPR (W3C TR http://www.w3.org/TR/epr)
-  sort: 74
+  sort: 483
   level: 2
   description: 'Servers may request the protections outlined by Entry Point Regulation
     (EPR) by sending an EPR HTTP response header field along with a response. '

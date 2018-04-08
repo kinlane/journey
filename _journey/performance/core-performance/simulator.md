@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Simulator
-  sort: 15
+  sort: 2189
   level: 2
   description: Provide a performance test simulator.
 entities:

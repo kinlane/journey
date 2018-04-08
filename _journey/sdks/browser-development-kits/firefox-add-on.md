@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Firefox Add-On
-  sort: 2
+  sort: 2914
   level: 2
   description: Providing ready to go Mozilla Firefox browser integration, allowing
     developers, and sometimes even non-developers to immediately put an API to use

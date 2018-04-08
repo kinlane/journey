@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Types
-  sort: 7
+  sort: 4342
   level: 2
   description: Clearly articulating what type of deprecation is occurring, with a
     full awareness of the scope and how it will impact the platform, partners, and

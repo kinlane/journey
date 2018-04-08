@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Websub
-  sort: 6
+  sort: 1478
   level: 3
   description: Enabling the orchestration of serverless scripts using Websub, a publish
     subscribe standard for enabling a real-time, event-driven, topical layer on top

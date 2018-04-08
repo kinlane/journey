@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Automation
-  sort: 12
+  sort: 2183
   level: 2
   description: Allow for the automation of performance tests.
 entities:

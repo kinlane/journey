@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Platform Changes
-  sort: 2
+  sort: 2574
   level: 2
   description: Talking through the legal side of how changes will be made, and privacy
     will be considered as the platform changes and versions are released throughout

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Lock-down New Writes
-  sort: 6
+  sort: 4314
   level: 2
   description: When will all POST, PUT, and other write capabilities be locked down,
     making it easier to stabilize, sync, and migrate for final shut down.

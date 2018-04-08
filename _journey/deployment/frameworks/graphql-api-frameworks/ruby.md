@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Ruby
-  sort: 3
+  sort: 1414
   level: 3
   description: A GraphQL API framework for easily deploying APIs, and handles all
     the most common elements of deploying an API, in the Ruby language.

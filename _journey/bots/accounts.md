@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accounts
-  sort: 5
+  sort: 3075
   level: 1
   description: Information and directories regarding the registering and sharing of
     bot accounts that are operating on a platform using existing services.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Webhooks
-  sort: 1
+  sort: 957
   level: 2
   description: Providing notifications via webhooks when it comes to DNS events.
 entities:

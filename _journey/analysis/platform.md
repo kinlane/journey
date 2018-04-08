@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Platform
-  sort: 4
+  sort: 3101
   level: 1
   description: What is available to analyze platform usage to the platform itself,
     allowing teams to measure what is happening, and understand operations at all

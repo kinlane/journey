@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Resource Injection
-  sort: 12
+  sort: 2358
   level: 2
   description: This attack consists of changing resource identifiers used by an application
     in order to perform a malicious task, allowing data to be manipulated to execute

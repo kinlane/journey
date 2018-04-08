@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Regulation
-  sort: 12
+  sort: 2548
   level: 2
   description: Any legal disclaimers regarding regulatory and compliance aspects of
     operating the platform, providing the required disclosures in service of government

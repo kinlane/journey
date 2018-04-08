@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Presence
-  sort: 1
+  sort: 3321
   level: 2
   description: Presence provides information on when a user has joined or left a channel,
     who, and how many, users are subscribed to a particular channel, which channel(s)

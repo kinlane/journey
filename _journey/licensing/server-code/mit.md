@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: MIT
-  sort: 3
+  sort: 2664
   level: 2
   description: 'The MIT License is a free software license originating at the Massachusetts
     Institute of Technology (MIT). It is a permissive free software license, meaning

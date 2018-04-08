@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SimpleDB
-  sort: 8
+  sort: 1034
   level: 2
   description: Providing a connection to SimpleDB data store that allows for quick
     access to tables and fields, making data available through an API from the backend

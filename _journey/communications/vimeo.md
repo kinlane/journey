@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Vimeo
-  sort: 10
+  sort: 1928
   level: 1
   description: Using Vimeo as a communication channel for educating users about an
     API platform.

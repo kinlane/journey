@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Overflow Binary Resource File
-  sort: 3
+  sort: 2309
   level: 2
   description: Coming from input data, and an Overflow Binary Resource File, where
     attacker modifies/prepares the binary file in such a way that the application,

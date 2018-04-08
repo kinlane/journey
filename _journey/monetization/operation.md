@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Operation
-  sort: 6
+  sort: 3613
   level: 2
   description: Providing a detailed plan for what it will take to operate a service,
     keep it up and running, and fully make available to consumers throughout its lifecycle,

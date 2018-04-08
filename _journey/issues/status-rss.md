@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Status RSS
-  sort: 2
+  sort: 1948
   level: 1
   description: Providing an RSS feed for a status dashboard, allowing users to receive
     updates on any website, and via any RSS client.

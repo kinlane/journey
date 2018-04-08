@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Venture
-  sort: 3
+  sort: 3473
   level: 1
   description: What venture capital investments have been made when it comes to platform
     operations, or are available to make future investments in new services, or applications

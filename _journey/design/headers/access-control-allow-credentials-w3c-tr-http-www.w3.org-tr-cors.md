@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Access-Control-Allow-Credentials (W3C TR http://www.w3.org/TR/cors)
-  sort: 17
+  sort: 369
   level: 2
   description: 'The Access-Control-Allow-Credentials header indicates whether the
     response to request can be exposed when the omit credentials flag is unset. When

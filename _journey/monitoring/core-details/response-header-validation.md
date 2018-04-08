@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Response Header Validation
-  sort: 3
+  sort: 1978
   level: 2
   description: Being able to validate for a specific header for a request.
 entities:

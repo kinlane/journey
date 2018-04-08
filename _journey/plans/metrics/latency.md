@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Latency
-  sort: 37
+  sort: 3894
   level: 2
   description: Measuring the latency that occurs as part of API access, and allowing
     it to impact API consumption plans.

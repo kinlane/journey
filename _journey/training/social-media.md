@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Social Media
-  sort: 4
+  sort: 4371
   level: 1
   description: Leveraging social media channels for syndicating training materials,
     but also using them as opportunities to engage with users.

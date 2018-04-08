@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reporting
-  sort: 3
+  sort: 4184
   level: 2
   description: Sometimes providing regular numbers and reports to key players internally
     can help keep operations running smooth. What reports can we produce?

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Status-URI (RFC 2518)
-  sort: 153
+  sort: 641
   level: 2
   description: 'The Status-URI response header may be used with the 102 (Processing)
     status code to inform the client as to the status of a method. '

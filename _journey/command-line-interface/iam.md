@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: IAM
-  sort: 4
+  sort: 2860
   level: 1
   description: Defining the identity and access layer via the CLI, including the login
     and authorization to the interface, as well as with existing services and backend

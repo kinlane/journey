@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reporting
-  sort: 1
+  sort: 1578
   level: 2
   description: Providing reporting tools on virtualized instances, providing developers
     and consumers with snapshots of activity.

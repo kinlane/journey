@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Field Selection
-  sort: 11
+  sort: 247
   level: 2
   description: Consider providing a way that API consumers can select which fields
     are included in API responses.

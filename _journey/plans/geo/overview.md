@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Overview
-  sort: 1
+  sort: 3787
   level: 2
   description: Providing an overview of what geographic regions are covered or available
     as part of API consumption.

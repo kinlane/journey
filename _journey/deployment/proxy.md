@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Proxy
-  sort: 5
+  sort: 1091
   level: 2
   description: A lightweight, service or tool-based approach to getting in the way
     of an existing service and applying transformations on it before the results are

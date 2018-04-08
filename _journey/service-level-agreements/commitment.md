@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Commitment
-  sort: 1
+  sort: 2600
   level: 1
   description: Details about a platforms commitment and philosophy around providing
     a SLA, and what it means to the level of service.

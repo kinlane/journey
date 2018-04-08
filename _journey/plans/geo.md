@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Geo
-  sort: 4
+  sort: 3784
   level: 2
   description: What geographic variables are in play when it comes to choosing or
     working within a plan? How can services be delivered geographically or locally

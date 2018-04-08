@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Integration
-  sort: 47
+  sort: 4476
   level: 1
   description: Plan for the integration guidance that will be needed to drive a wider
     service governance strategy.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reserved
-  sort: 9
+  sort: 3695
   level: 2
   description: There are opportunities to reserve an instance of a resource or set
     of resources for specific time frames. If the resources are also available on-demand,

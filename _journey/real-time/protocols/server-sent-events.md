@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Server-Sent Events
-  sort: 20
+  sort: 3413
   level: 2
   description: Server-sent events (SSE) is a technology where a browser receives automatic
     updates from a server via HTTP connection. The Server-Sent Events EventSource

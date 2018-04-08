@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Compliance
-  sort: 10
+  sort: 3279
   level: 1
   description: Providing the ability to verify and report upon backup and restore
     process to ensure they are in alignment with regulatory compliance and governance

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Policies
-  sort: 10
+  sort: 1112
   level: 2
   description: Enabling a policy framework that allows standardized policies to be
     applied to a variety of use cases, and conditions, helping organize how a policy

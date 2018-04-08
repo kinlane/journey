@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Utility
-  sort: 7
+  sort: 997
   level: 2
   description: Some of the the more utility aspects of managing DNS that don't fit
     into their own category currently, so they are aggregated into a single list for

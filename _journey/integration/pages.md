@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Pages
-  sort: 10
+  sort: 3149
   level: 1
   description: Providing a single, or multiple pages and directory of integrations
     available as part of a service operations, either direct integrations or enabled

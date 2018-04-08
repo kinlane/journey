@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: FTP
-  sort: 4
+  sort: 1058
   level: 3
   description: Providing a ready to go FTP connector for connecting to an existing
     FTP location and publishing available files via a web API.

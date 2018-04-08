@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Media Types
-  sort: 2
+  sort: 146
   level: 2
   description: A media type (also MIME type and content type) is a two-part identifier
     for file formats and format contents transmitted on the Internet. The Internet

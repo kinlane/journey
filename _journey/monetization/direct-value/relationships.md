@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Relationships
-  sort: 23
+  sort: 3563
   level: 2
   description: How can relationships between users, or companies be applied to value
     generated? Will access to more relationships positively or negatively impact how

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Pay For Changes
-  sort: 3
+  sort: 2479
   level: 2
   description: Can API consumers pay to get any aspects of terms of services adjusted?
 entities:

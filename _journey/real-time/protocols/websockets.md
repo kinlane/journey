@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Websockets
-  sort: 9
+  sort: 3391
   level: 2
   description: WebSocket is a protocol providing full-duplex communication channels
     over a single TCP connection. The WebSocket protocol was standardized by the IETF

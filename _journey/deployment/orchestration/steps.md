@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Steps
-  sort: 5
+  sort: 1498
   level: 2
   description: Precise modeling of each step in the deployment of each service, providing
     everything that is needed from start to finish.

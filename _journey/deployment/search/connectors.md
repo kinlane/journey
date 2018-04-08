@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Connectors
-  sort: 2
+  sort: 1136
   level: 2
   description: Enabling the easy connection to document stores, storage solutions,
     and existing CDN to allow for indexing and delivery as web APIs, in a scalable

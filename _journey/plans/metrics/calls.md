@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Calls
-  sort: 2
+  sort: 3823
   level: 2
   description: The most fundamental metric for APIs, the API call.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Landing Page
-  sort: 1
+  sort: 4067
   level: 1
   description: A page dedicated to the certification opportunities available via a
     platform, providing a single place to understand what is possible.

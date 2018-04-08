@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Verbs
-  sort: 2
+  sort: 3954
   level: 2
   description: Allowing access controls applied down to the HTTP verb level, providing
     granular controls for GET, POST, PUT, DELETE, and other dimensions of resources.

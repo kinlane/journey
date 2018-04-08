@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: DNS Failover
-  sort: 2
+  sort: 979
   level: 2
   description: Allowing for failover at the DNS level, providing redundancy and failover
     of

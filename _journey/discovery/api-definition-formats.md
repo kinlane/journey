@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: API Definition Formats
-  sort: 1
+  sort: 2719
   level: 2
   description: Providing machine readable API definitions that support the discovery
     of APIs, as well as the supporting API operations around them.

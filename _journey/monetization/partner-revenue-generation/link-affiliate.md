@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Link Affiliate
-  sort: 1
+  sort: 3639
   level: 2
   description: What revenue is generated and paid out via links that are made available
     via the API, with potentially externally affiliate links embedded.

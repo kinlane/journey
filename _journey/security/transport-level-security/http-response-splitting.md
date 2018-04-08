@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HTTP Response Splitting
-  sort: 3
+  sort: 2406
   level: 2
   description: Occurs when data enters a through an untrusted source, most frequently
     an HTTP request, included in an HTTP response header sent to a web user without

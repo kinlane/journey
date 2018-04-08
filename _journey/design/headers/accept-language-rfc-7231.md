@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accept-Language (RFC 7231)
-  sort: 12
+  sort: 359
   level: 2
   description: 'The "Accept-Language" header field can be used by user agents to indicate
     the set of natural languages that are preferred in the response. '

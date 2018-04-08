@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Proxy
-  sort: 3
+  sort: 194
   level: 2
   description: Allowing for the proxying of API requests and responses using tools
     like Charles Proxy, or Prism from Stoplight, and generating of API definitions

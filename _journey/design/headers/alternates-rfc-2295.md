@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Alternates (RFC 2295)
-  sort: 29
+  sort: 393
   level: 2
   description: 'The Alternates response header is used to convey the list of variants
     bound to a negotiable resource. This list can also include directives for any

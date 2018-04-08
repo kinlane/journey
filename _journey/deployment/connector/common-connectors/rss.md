@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: RSS
-  sort: 2
+  sort: 1054
   level: 3
   description: Providing a ready to go RSS connector for working with other RSS feeds,
     and then transforming them into a new API for different audience or purposes.

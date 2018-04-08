@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SockJS
-  sort: 11
+  sort: 3395
   level: 2
   description: SockJS is a browser JavaScript library that provides a WebSocket-like
     object. SockJS gives you a coherent, cross-browser, Javascript API which creates

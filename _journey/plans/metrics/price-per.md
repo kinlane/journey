@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Price Per
-  sort: 54
+  sort: 3928
   level: 2
   description: Considering a price per a specific amount of API calls or other metric
     being applied as part of API consumption.

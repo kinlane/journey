@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SMS
-  sort: 1
+  sort: 2113
   level: 2
   description: Allow notifications to be received by SMS.
 entities:

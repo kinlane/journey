@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Transformations
-  sort: 1
+  sort: 3231
   level: 2
   description: Allow for transformations of received webhooks before they are sent
     elsewhere.

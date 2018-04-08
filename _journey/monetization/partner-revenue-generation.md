@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Partner Revenue Generation
-  sort: 7
+  sort: 3636
   level: 2
   description: What opportunities are there to generate revenue with partners, either
     bringing in revenue, or possibly sharing with partners in a joint effort? Making

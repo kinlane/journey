@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Educational
-  sort: 19
+  sort: 3715
   level: 2
   description: A platform provides considerations for K-12 or higher educational access
     to resources. Like non-profit levels of access, education can benefit the overall

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OData-Isolation (OASIS Standard odata-v4.0-part1-protocol)
-  sort: 110
+  sort: 555
   level: 2
   description: 'The OData-Isolation header specifies the isolation of the current
     request from external changes. The only supported value for this header is snapshot. '

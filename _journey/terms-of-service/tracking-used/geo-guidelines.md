@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Geo Guidelines
-  sort: 1
+  sort: 2506
   level: 2
   description: Providing an overview of considerations when it comes to location,
     and geo tracking via the platform.

@@ -6,7 +6,7 @@ rel:
 properties:
   name: JSON Web Token (JWT) Profile for OAuth 2.0 Client Authentication and Authorization
     Grants (RFC 7523)
-  sort: 2
+  sort: 1641
   level: 2
   description: 'This specification defines the use of a JSON Web Token (JWT) Bearer
     Token as a means for requesting an OAuth 2.0 access token as well as for client

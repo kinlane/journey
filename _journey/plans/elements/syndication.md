@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Syndication
-  sort: 37
+  sort: 3751
   level: 2
   description: API resources exist to encourage syndication of data, content, and
     other digital resources. How are APIs supporting the syndication of data and content

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Machine Learning
-  sort: 8
+  sort: 3109
   level: 1
   description: Details regarding how machine learning is applied at the analysis layer,
     adding the ability to establish models based upon platform operations, and make

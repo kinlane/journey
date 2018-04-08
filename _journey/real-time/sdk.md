@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SDK
-  sort: 6
+  sort: 3363
   level: 2
   description: What real time SDKs are available for working with real time streams,
     and handling more dedicated API connections within a variety of web, mobile, or

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content Storage & Access
-  sort: 3
+  sort: 1195
   level: 3
   description: Defining how scraped content is organized as part of a wider scraping
     and harvesting workflow intending to get needed resources for making available

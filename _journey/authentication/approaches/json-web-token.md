@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: JSON Web Token
-  sort: 12
+  sort: 1625
   level: 2
   description: JSON Web Token (JWT) is an open standard (RFC 7519) that defines a
     compact and self-contained way for securely transmitting information between parties

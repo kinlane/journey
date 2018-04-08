@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content-Security-Policy-Report-Only-Pin (W3C TR http://www.w3.org/TR/csp-pinning)
-  sort: 56
+  sort: 447
   level: 2
   description: 'The Content-Security-Policy-Report-Only-Pin header field is the mechanism
     for delivering a pinned policy that the user agent MUST monitor for any resource

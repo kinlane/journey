@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Ordering-Type (RFC 3648)
-  sort: 114
+  sort: 563
   level: 2
   description: 'When a collection is created, the client MAY request that it be ordered
     and specify the semantics of the ordering by using the new Ordering-Type header

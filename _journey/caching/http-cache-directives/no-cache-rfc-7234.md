@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: no-cache (RFC 7234)
-  sort: 7
+  sort: 872
   level: 2
   description: 'The "no-cache" request directive indicates that a cache MUST NOT use
     a stored response to satisfy the request without successful validation on the

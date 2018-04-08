@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Dashboard
-  sort: 1
+  sort: 2124
   level: 2
   description: Providing a dashboard to review monitors.
 entities:

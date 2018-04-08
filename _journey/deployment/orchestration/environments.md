@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Environments
-  sort: 4
+  sort: 1496
   level: 2
   description: Establishing a common approach to defining relative environments involved
     in the deployment, testing, and building of each service.

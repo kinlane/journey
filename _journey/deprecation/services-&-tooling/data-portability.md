@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Data Portability
-  sort: 4
+  sort: 4340
   level: 2
   description: Beyond migration, and syncing, can API consumers get raw dumps of all
     of their usage data, as well as any other object, and entity they have stored

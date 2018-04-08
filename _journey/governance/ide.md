@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: IDE
-  sort: 40
+  sort: 4462
   level: 1
   description: Plan for the IDE guidance that will be needed to drive a wider service
     governance strategy.

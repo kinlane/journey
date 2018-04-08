@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Quarterly
-  sort: 7
+  sort: 3945
   level: 2
   description: Managing, guiding, and restricting plan entries in quarters. Like monthly,
     and weekly, this timeframe is more used to organizing billing and support cycles,

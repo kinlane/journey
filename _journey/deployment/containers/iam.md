@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: IAM
-  sort: 2
+  sort: 1371
   level: 2
   description: Defining what the identity and access management layer and policies
     look like for access compute resources allocated for API deployment.

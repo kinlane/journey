@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Cache-Control (RFC 7234)
-  sort: 39
+  sort: 413
   level: 2
   description: 'The "Cache-Control" header field is used to specify directives for
     caches along the request/response chain. Such cache directives are unidirectional

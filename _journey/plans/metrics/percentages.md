@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Percentages
-  sort: 44
+  sort: 3908
   level: 2
   description: The application of various percentages as part of measuring API consumption,
     and plan operation.

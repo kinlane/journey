@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OAuth 2.0 Dynamic Client Registration Management Protocol (RFC 7592)
-  sort: 1
+  sort: 1633
   level: 1
   description: 'This specification defines methods for management of OAuth 2.0 dynamic
     client registrations for use cases in which the properties of a registered client

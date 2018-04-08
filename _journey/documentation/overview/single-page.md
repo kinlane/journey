@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Single Page
-  sort: 3
+  sort: 1679
   level: 2
   description: Providing a single page for accessing API documentation without clicking
     too much.

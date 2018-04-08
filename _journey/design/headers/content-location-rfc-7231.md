@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content-Location (RFC 7231)
-  sort: 51
+  sort: 437
   level: 2
   description: 'The "Content-Location" header field references a URI that can be used
     as an identifier for a specific resource corresponding to the representation in

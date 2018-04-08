@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Co-Location
-  sort: 5
+  sort: 3795
   level: 2
   description: Allowing for access of API resources via collocated facilities.
 entities:

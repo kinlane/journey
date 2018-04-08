@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Github
-  sort: 3
+  sort: 2232
   level: 2
   description: The Github account for a platform, and its operators provides a unique
     look into what is happening from an engineering standpoint, showing signals around

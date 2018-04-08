@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Charts
-  sort: 1
+  sort: 3800
   level: 2
   description: Providing a chart with a listing of all endpoints and limits for each
     one.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Archive
-  sort: 14
+  sort: 3705
   level: 2
   description: Resources are in an archived state and require very little access,
     and can be stored in different manner. Like infrequent, archive is mean for maybe

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: If-Unmodified-Since (RFC 7232)
-  sort: 94
+  sort: 523
   level: 2
   description: 'The "If-Unmodified-Since" header field makes the request method conditional
     on the selected representation last modification date being earlier than or equal

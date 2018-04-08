@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Blog
-  sort: 3
+  sort: 4369
   level: 1
   description: Regularly publishing, sharing, and sydnicating out training materials
     on the blog, and making it part of the regular communications, evangelism, and

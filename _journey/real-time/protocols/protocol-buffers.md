@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Protocol Buffers
-  sort: 13
+  sort: 3399
   level: 2
   description: "Protocol buffers are Google's language-neutral, platform-neutral,
     extensible mechanism for serializing structured data \u2013 think XML, but smaller,

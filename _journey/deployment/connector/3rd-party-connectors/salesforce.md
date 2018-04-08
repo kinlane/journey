@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SalesForce
-  sort: 1
+  sort: 1075
   level: 3
   description: Providing a ready to go connector for working with the SalesForce API,
     allowing an existing 3rd party service in use to be made available via a web API.

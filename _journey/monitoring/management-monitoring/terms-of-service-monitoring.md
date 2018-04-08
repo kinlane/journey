@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Terms of Service Monitoring
-  sort: 3
+  sort: 2016
   level: 2
   description: Updates when a company changes the terms of service
 entities:

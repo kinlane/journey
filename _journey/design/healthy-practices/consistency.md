@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Consistency
-  sort: 3
+  sort: 206
   level: 2
   description: Employ consistent approaches to all aspects of API design, providing
     a familiar approach across all APIs published.

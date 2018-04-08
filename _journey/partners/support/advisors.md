@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Advisors
-  sort: 4
+  sort: 4053
   level: 2
   description: Provide special advisors that are there to support partners.
 entities:

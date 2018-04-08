@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: must-revalidate (RFC 7234)
-  sort: 6
+  sort: 870
   level: 2
   description: 'The "must-revalidate" response directive indicates that once it has
     become stale, a cache MUST NOT use the response to satisfy subsequent requests

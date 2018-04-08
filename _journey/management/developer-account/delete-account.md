@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Delete Account
-  sort: 9
+  sort: 1809
   level: 2
   description: Giving developers the ability to delete their account from within their
     account portal.

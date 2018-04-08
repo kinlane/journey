@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Geo
-  sort: 14
+  sort: 3545
   level: 2
   description: How can geographic location be leverage as part of determining value
     generation? Different data centers, or networks, or possibly as part of support.

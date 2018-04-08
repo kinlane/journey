@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Heroku
-  sort: 2
+  sort: 2921
   level: 2
   description: Providing ready to go Heroku integration, allowing developers, and
     sometimes even non-developers to immediately put an API to use through their Heroku

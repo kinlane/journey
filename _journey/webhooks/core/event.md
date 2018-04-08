@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Event
-  sort: 3
+  sort: 3199
   level: 2
   description: Selecting which events triggers a Webhook.
 entities:

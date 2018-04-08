@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: HTTP Cache Directives
-  sort: 1
+  sort: 857
   level: 2
   description: Providing a list of the HTTP Cache Directives that should be adopted
     as part of the caching of services being delivered.

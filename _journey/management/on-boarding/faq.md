@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: FAQ
-  sort: 4
+  sort: 1776
   level: 2
   description: Providing developers a list of the common questions asked of an API
     platform, with simple answers to each question, allowing them to understand the

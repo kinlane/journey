@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Google
-  sort: 3
+  sort: 3449
   level: 2
   description: What tooling, SDKs, links, and resources are available to help API
     consumers understand how they can build Google voice-enabled applications?

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Public Domain Dedication and License (PDDL)
-  sort: 1
+  sort: 2651
   level: 2
   description: The PDDL places the data(base) in the public domain (waiving all rights).
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accept-CH-Lifetime (Internet Draft ietf-httpbis-client-hints)
-  sort: 6
+  sort: 347
   level: 2
   description: 'Servers can ask the client to remember an origin-wide Accept-CH preference
     for a specified period of time to enable delivery of Client Hints on all subsequent

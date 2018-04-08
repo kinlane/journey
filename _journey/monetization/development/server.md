@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Server
-  sort: 6
+  sort: 3510
   level: 2
   description: Defining the amount of work I put into setting up, and configuring
     the server to run a new API, including where it goes in my overall operations

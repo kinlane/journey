@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Global design
-  sort: 11
+  sort: 222
   level: 2
   description: Think outside your city, state, and country when it comes to designing
     your APIs. Don't just design for your bubble. Design as if people around the world

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Service
-  sort: 4
+  sort: 1100
   level: 2
   description: What 3rd party services are available for delivering proxy services
     in association with a platform's operation, providing a sanctioned commercial

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Silk
-  sort: 5
+  sort: 1242
   level: 3
   description: Integration of crawling and scraping activities into Silk.
 entities:

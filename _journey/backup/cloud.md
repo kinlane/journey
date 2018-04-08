@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Cloud
-  sort: 8
+  sort: 3275
   level: 1
   description: Allowing for cloud backups to occur, ensuring that backups of all resources
     are available wherever in the cloud that makes the most sense for stability and

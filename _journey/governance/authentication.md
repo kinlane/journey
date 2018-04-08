@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Authentication
-  sort: 12
+  sort: 4406
   level: 1
   description: Plan for the authentication guidance that will be needed to drive a
     wider service governance strategy.

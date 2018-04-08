@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Dedicated Subdomain
-  sort: 2
+  sort: 1657
   level: 1
   description: Establishing a single subdomain for accessing the API portal, usually
     at http://developer.example.com, making it simple, intuitive, and consistent with

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Documentation
-  sort: 2
+  sort: 4144
   level: 2
   description: Enhancement and addition to API documentation based upon project development
     and active developer engagement and feedback

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Entire Platform Shutdown
-  sort: 3
+  sort: 4349
   level: 2
   description: What is the plan for an entire platform shutdown, ceasing all API operations.
 entities:

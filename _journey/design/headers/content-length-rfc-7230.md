@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content-Length (RFC 7230)
-  sort: 50
+  sort: 435
   level: 2
   description: 'When a message does not have a Transfer-Encoding header field, a Content-Length
     header field can provide the anticipated size, as a decimal number of octets,

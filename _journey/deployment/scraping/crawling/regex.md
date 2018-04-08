@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: RegEx
-  sort: 6
+  sort: 1189
   level: 3
   description: Opening up the ability to apply regular expression as part of evaluation
     during the crawling process.

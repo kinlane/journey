@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: APIs.guru
-  sort: 3
+  sort: 2732
   level: 2
   description: A public API directory running on Github, with a public catalog for
     searching and browsing, as well as a way for API providers to submit a pull request

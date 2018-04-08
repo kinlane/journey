@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Data Virtualization
-  sort: 2
+  sort: 1555
   level: 2
   description: Not just virtualizing APIs and other aspects of the services, but also
     virtualizing the data that is made available via services, allowing for meaningful

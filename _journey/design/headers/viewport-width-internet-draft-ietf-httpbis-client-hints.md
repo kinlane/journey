@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Viewport-Width (Internet Draft ietf-httpbis-client-hints)
-  sort: 177
+  sort: 689
   level: 2
   description: 'The "Viewport-Width" header field is a number that, in requests, indicates
     the layout viewport width in CSS px. '

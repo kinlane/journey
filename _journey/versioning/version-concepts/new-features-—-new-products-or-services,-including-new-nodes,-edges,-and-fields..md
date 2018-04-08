@@ -6,7 +6,7 @@ rel:
 properties:
   name: "New Features \u2014 New products or services, including new nodes, edges,
     and fields."
-  sort: 4
+  sort: 913
   level: 2
   description: ~
 entities:

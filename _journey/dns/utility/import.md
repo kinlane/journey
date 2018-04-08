@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Import
-  sort: 4
+  sort: 1006
   level: 2
   description: Allowing for the import of DNS configuration using portable formats.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Ingestion
-  sort: 3
+  sort: 1831
   level: 1
   description: Quantifying how log files are ingested, and aggregated across a comprehensive,
     service wide logging strategy.

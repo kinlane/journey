@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accept-Patch (RFC 5789)
-  sort: 13
+  sort: 361
   level: 2
   description: 'This specification introduces a new response header Accept-Patch used
     to specify the patch document formats accepted by the server. Accept-Patch SHOULD

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: PaaS
-  sort: 6
+  sort: 3586
   level: 2
   description: Value generated is focused on PaaS services, and API value generation
     is about augmenting these services, secondary to the core PaaS business model.

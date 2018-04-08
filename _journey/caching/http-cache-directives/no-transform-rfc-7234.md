@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: no-transform (RFC 7234)
-  sort: 9
+  sort: 876
   level: 2
   description: 'The "no-transform" directive indicates that an intermediary (whether
     or not it implements a cache) MUST NOT transform the payload. '

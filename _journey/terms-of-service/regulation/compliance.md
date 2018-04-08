@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Compliance
-  sort: 1
+  sort: 2551
   level: 2
   description: A page providing compliance related information, covering how a company,
     platform, and APIs complies with government and industry regulations.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Java Authentication and Authorization Service (JaaS)
-  sort: 1
+  sort: 3314
   level: 2
   description: Java Authentication and Authorization Service, or JAAS, pronounced
     Jazz, is the Java implementation of the standard Pluggable Authentication Module

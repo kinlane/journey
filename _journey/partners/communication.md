@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Communication
-  sort: 3
+  sort: 3979
   level: 2
   description: What is the communication strategy associated with partner levels of
     access, providing higher levels of communication and engagement as part of involvement

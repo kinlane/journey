@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Analytics
-  sort: 38
+  sort: 3753
   level: 2
   description: A set of API resources exist to gather, refine, and organize data for
     the purpose of driving analytics. While these analytics might be also extended

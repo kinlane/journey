@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Date (RFC 7231)
-  sort: 67
+  sort: 469
   level: 2
   description: 'The "Date" header field represents the date and time at which the
     message was originated, having the same semantics as the Origination Date Field

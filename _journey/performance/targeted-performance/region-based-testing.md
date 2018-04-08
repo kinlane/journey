@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Region Based Testing
-  sort: 1
+  sort: 2205
   level: 2
   description: Allow for performance tests from specific geographic regions.
 entities:

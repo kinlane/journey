@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Non-Personal Information
-  sort: 3
+  sort: 2488
   level: 2
   description: What are the considerations for all other content and data areas. This
     not personally identifiable information, but everything else.

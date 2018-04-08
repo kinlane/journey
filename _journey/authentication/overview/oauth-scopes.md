@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OAuth Scopes
-  sort: 4
+  sort: 1596
   level: 2
   description: Providing a dedicated page or section to listing out the different
     OAuth scopes used by a platform. Providing a transparent window into all the scopes

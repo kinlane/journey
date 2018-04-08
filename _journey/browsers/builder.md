@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Builder
-  sort: 2
+  sort: 3019
   level: 1
   description: Are there any tools for building browser add-ons, plugins, bookmarklets,
     or assist in configuring a browser to execute something on behalf of a particular

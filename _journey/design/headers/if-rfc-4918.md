@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: If (RFC 4918)
-  sort: 88
+  sort: 511
   level: 2
   description: 'The If request header is intended to have similar functionality to
     the If-Match header defined in Section 14.24 of RFC 2616. However, the If header

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Import
-  sort: 3
+  sort: 2191
   level: 2
   description: Enabling the ability to import and export common API definitions and
     use them to define the performance testing across all services.

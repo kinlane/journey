@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SubOK (Internet Draft mogul-http-dupsup)
-  sort: 155
+  sort: 645
   level: 2
   description: 'The SubOK request header field is used to provide directives from
     an end-client to a proxy cache regarding the possible substitution of an instance

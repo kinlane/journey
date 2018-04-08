@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Continuously Deployed
-  sort: 5
+  sort: 1663
   level: 1
   description: Consider making the portal a statically generated website that can
     be continuously updated as part of a CD pipeline.

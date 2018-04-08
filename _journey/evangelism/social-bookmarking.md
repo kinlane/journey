@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Social Bookmarking
-  sort: 14
+  sort: 4211
   level: 2
   description: What does evangelism look like across social sharing and bookmarking
     locations, actively sharing platform and service URLs, but also actively sharing

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Pagination
-  sort: 6
+  sort: 714
   level: 2
   description: Considering how large volumes of data will be delivered, and consumers
     will be requesting different pages.

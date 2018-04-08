@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Experience Over Resource
-  sort: 8
+  sort: 216
   level: 2
   description: Make APIs reflect how they will be used, and experienced, over where
     the API came from and how the resource it was derived from--despite what you may

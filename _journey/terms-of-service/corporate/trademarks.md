@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Trademarks
-  sort: 1
+  sort: 2546
   level: 2
   description: "Providing a reference to\u200B corporate trademarks that are part
     of API operations, and developers may have to consider."

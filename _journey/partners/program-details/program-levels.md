@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Program Levels
-  sort: 4
+  sort: 3968
   level: 2
   description: Details about what the different levels of the partner program are.
 entities:

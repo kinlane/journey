@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Service Management
-  sort: 4
+  sort: 1822
   level: 2
   description: "A service management API, providing users to see what services are
     available, and their access and usage levels for any given service. \t "

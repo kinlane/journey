@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Dropbox
-  sort: 1
+  sort: 1234
   level: 3
   description: Integration of crawling and scraping activities into Dropbox.
 entities:

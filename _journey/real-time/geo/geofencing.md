@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Geofencing
-  sort: 1
+  sort: 3342
   level: 2
   description: A geofence is a virtual barrier. Programs that incorporate geo-fencing
     allow an administrator to set up triggers so when a device enters (or exits) the

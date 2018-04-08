@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Response Viewer
-  sort: 6
+  sort: 2828
   level: 2
   description: Providing the ability to easily work with API responses, and enable
     the consumer to make sense of the moving parts of each request, and easily see

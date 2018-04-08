@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SEARCH (RFC 5323)
-  sort: 31
+  sort: 316
   level: 2
   description: 'The client invokes the SEARCH method to initiate a server-side search.
     The body of the request defines the query. The server MUST emit an entity matching

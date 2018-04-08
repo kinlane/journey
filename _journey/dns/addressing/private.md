@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Private
-  sort: 9
+  sort: 952
   level: 2
   description: Allowing for the management of a private DNS deployment.
 entities:

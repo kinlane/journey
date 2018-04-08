@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Email Coordination
-  sort: 1
+  sort: 4234
   level: 2
   description: Regular coordination, relaying of support issues with central support
     process.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Light Switch Flicking
-  sort: 7
+  sort: 4316
   level: 2
   description: Will there be light switch flicking, or dark-out testing, which send
     real world pain to API consumers, reminding them that a shutdown is imminent.

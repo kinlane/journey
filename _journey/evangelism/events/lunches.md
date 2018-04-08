@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Lunches
-  sort: 4
+  sort: 4157
   level: 2
   description: What brown bag, and other formal or informal lunches are being held
     with internal, partner, or public stakeholders when it comes to platform operations.

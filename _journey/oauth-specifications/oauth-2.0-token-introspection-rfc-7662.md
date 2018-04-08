@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OAuth 2.0 Token Introspection (RFC 7662)
-  sort: 3
+  sort: 1635
   level: 1
   description: 'This specification defines a method for a protected resource to query
     an OAuth 2.0 authorization server to determine the active state of an OAuth 2.0

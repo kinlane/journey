@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Idea Submission
-  sort: 2
+  sort: 1941
   level: 1
   description: 'Allow for the submission of ideas, using the Github issue management,
     or other system, giving API consumers the ability to potentially contribute to

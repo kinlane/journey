@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OData-MaxVersion (OASIS Standard odata-v4.0-part1-protocol)
-  sort: 111
+  sort: 557
   level: 2
   description: 'Clients SHOULD specify an OData-MaxVersion request header. If specified
     the service MUST generate a response with an OData-Version less than or equal

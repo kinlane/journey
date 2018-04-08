@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Documentation Monitoring
-  sort: 1
+  sort: 2012
   level: 2
   description: Keeping track of changes to an APIs documentation
 entities:

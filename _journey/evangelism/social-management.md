@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Social Management
-  sort: 15
+  sort: 4222
   level: 2
   description: Outlining how social media channels are being managed and curated as
     part of evangelism efforts, keeping them in sync with other campaigns, and using

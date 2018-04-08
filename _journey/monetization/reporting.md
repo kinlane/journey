@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reporting
-  sort: 8
+  sort: 3647
   level: 2
   description: How is revenue being measured and reported upon? How is the value of
     what services deliver being measured and understood? Provide information on what

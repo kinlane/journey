@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Communications
-  sort: 18
+  sort: 4418
   level: 1
   description: Plan for the communications guidance that will be needed to drive a
     wider service governance strategy.

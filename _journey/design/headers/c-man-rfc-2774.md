@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: C-Man (RFC 2774)
-  sort: 35
+  sort: 405
   level: 2
   description: 'A mandatory extension declaration indicates that the ultimate recipient
     MUST consult and adhere to the rules given by the extension when processing the

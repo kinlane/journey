@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Granularity
-  sort: 12
+  sort: 249
   level: 2
   description: Always be aware of the granularity of your API endpoints, and each
     resource being exposed, keeping everything as small as possible.

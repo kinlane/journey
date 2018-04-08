@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Visualizing
-  sort: 3
+  sort: 1527
   level: 1
   description: Enabling the ability to visualize dependencies between services, making
     every service, framework, system, and other scope of dependency easy to see.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Collaboration
-  sort: 4
+  sort: 1575
   level: 2
   description: Enabling the ability to collaborate around the deployment, availability,
     and testing of virtualized infrastructure in support of services.

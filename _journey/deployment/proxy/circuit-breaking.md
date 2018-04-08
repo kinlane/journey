@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Circuit Breaking
-  sort: 12
+  sort: 1116
   level: 2
   description: Providing fault tolerance within a proxy, allowing it to respond in
     a constructive way when their targets and sources fail.

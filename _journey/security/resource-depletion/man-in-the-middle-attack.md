@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Man-in-the-Middle Attack
-  sort: 3
+  sort: 2438
   level: 2
   description: The interception of communication between two systems, where once the
     TCP connection is intercepted, the attacker acts as a proxy, being able to read,

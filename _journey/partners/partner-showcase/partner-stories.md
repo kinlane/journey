@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Partner Stories
-  sort: 2
+  sort: 4040
   level: 2
   description: Stories of the partners and how they use the platform.
 entities:

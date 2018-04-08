@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: POST (RFC 7231)
-  sort: 24
+  sort: 302
   level: 2
   description: 'The POST method requests that the target resource process the representation
     enclosed in the request according to the resource''s own specific semantics. '

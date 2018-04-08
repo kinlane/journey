@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Templates
-  sort: 1
+  sort: 1558
   level: 2
   description: Being able to create templates of data to be used when virtualized
     APIs are setup.

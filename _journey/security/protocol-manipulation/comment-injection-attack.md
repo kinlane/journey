@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Comment Injection Attack
-  sort: 1
+  sort: 2413
   level: 2
   description: Comments injected into an application through input can be used to
     compromise a system, where data is parsed, an injected/malformed comment may cause

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: IAM
-  sort: 3
+  sort: 1494
   level: 2
   description: Providing a comprehensive identity and access management layer for
     ensuring there is proper access to every element present in the pipeline and model

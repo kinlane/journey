@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: JSON Web Token Specifications
-  sort: 1
+  sort: 1638
   level: 2
   description: ""
 entities:

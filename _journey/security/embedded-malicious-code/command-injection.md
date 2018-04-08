@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Command Injection
-  sort: 2
+  sort: 2337
   level: 2
   description: An attack in which executes arbitrary commands to the host operating
     system via a vulnerable application, made possible when an application passes

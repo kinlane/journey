@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Orchestration
-  sort: 33
+  sort: 1487
   level: 2
   description: Defining what the build, syndication, and orchestration of service
     deployments and integrations look like, and are executed, realizing a more organized

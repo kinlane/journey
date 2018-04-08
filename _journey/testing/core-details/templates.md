@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Templates
-  sort: 13
+  sort: 2097
   level: 2
   description: Offer templates of common or specialized requests.
 entities:

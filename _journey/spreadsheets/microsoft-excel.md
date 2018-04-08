@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Microsoft Excel
-  sort: 1
+  sort: 3456
   level: 1
   description: What types of Microsoft Excel integrations, plugins, and usage is available
     as part of platform operations, allowing API integration or consumption via spreadsheets.

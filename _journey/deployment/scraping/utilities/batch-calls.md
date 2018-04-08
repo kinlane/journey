@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Batch Calls
-  sort: 7
+  sort: 1311
   level: 3
   description: Provide the ability to make more than one call at once, tackling multiple
     objects at once.

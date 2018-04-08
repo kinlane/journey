@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Tools
-  sort: 5
+  sort: 1102
   level: 2
   description: What open source tooling is available for delivering proxy services
     in association with a platform's operation, providing a vetted solution for delivering

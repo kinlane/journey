@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Authentication Overview
-  sort: 2
+  sort: 1592
   level: 2
   description: An overview of how authentication is handled for a platform, and which
     formats are supported, setting expectations for consumers.

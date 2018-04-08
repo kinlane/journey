@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accept-Additions (RFC 2324RFC 7168)
-  sort: 4
+  sort: 343
   level: 2
   description: 'In HTTP, the "Accept" request-header field is used to specify media
     types which are acceptable for the response. However, in HTCPCP, the response

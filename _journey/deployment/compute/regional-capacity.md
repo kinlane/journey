@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Regional Capacity
-  sort: 4
+  sort: 1337
   level: 2
   description: Opening up the opportunity for multi-region deployment, establishing
     common practices for thinking about about one or many regions can be leveraged

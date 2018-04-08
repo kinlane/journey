@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: XML Encoding
-  sort: 3
+  sort: 2394
   level: 2
   description: Do not assemble XML string concatenation, rather us a XML serializer,
     ensure that the XML content sent to the browser is parseable and does not contain

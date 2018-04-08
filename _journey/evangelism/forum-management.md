@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Forum Management
-  sort: 8
+  sort: 4159
   level: 2
   description: How is the forum being considered and included in the wider evangelism
     and outreach strategy, building on the conversations that are already occurring

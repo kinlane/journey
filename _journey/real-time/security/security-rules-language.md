@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Security Rules Language
-  sort: 2
+  sort: 3424
   level: 2
   description: Firebase provides a flexible, expression-based rules language with
     JavaScript-like syntax to easily define how your data should be structured and

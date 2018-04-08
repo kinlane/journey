@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Tunnel-Protocol (Internet Draft ietf-httpbis-tunnel-protocol)
-  sort: 168
+  sort: 671
   level: 2
   description: 'Clients include the Tunnel-Protocol header field in an HTTP CONNECT
     request to indicate the application layer protocol that will be used within the

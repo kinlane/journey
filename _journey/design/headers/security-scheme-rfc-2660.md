@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Security-Scheme (RFC 2660)
-  sort: 144
+  sort: 623
   level: 2
   description: 'All S-HTTP compliant agents must generate the Security-Scheme header
     in the headers of all HTTP messages they generate. This header permits other agents

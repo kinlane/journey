@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Taking Away
-  sort: 1
+  sort: 907
   level: 2
   description: 'You MUST NOT take anything away (related: Minimal Surface Principle
     , Robustness Principle)'

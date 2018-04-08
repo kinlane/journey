@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Requirements
-  sort: 3
+  sort: 2696
   level: 2
   description: Providing clear requirements regarding what is required of API consumers
     when it comes to displaying logos, providing links, and following other branding

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Change Log
-  sort: 1
+  sort: 1957
   level: 1
   description: A detailed list of changes have been made to an API platform, giving
     consumers a single place they can go to learn about what changes have been made.

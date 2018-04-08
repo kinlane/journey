@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Management
-  sort: 3
+  sort: 4290
   level: 2
   description: What does the overall management of the depreciation process look like
     leading up to the actual shuttering of services, including the underlying tools

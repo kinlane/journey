@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Type
-  sort: 26
+  sort: 3729
   level: 2
   description: Are there custom types of plans available, with a grouping dimension
     that goes beyond just the available plans. Thinking of plan types as a sort of

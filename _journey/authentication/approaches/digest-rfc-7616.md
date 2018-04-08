@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Digest (RFC 7616)
-  sort: 4
+  sort: 1609
   level: 2
   description: 'The Digest scheme is based on a simple challenge-response paradigm.
     The Digest scheme challenges using a nonce value and might indicate that username

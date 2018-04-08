@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Domain(s)
-  sort: 1
+  sort: 926
   level: 2
   description: Details regarding what domains are available for making available for
     service deployment, allowing for consistent, and meaningful addressing and deployment

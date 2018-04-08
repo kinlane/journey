@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Retention
-  sort: 5
+  sort: 1835
   level: 1
   description: Defining how long logs are being stored across all systems relevant
     to a services operation, ensuring that each log entry has a time to live (TTL).

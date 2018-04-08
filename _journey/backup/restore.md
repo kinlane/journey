@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Restore
-  sort: 4
+  sort: 3267
   level: 1
   description: Allowing any machine, database, and file to be restored based upon
     a variety of criteria, and across all regions, and all available  deployment options.

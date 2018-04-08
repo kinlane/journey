@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Spotlight
-  sort: 2
+  sort: 3984
   level: 2
   description: Have a special section to spotlight on partners.
 entities:

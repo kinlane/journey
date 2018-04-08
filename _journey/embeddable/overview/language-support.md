@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Language Support
-  sort: 1
+  sort: 3029
   level: 2
   description: Providing support for multiple languages across embeddable elements.
 entities:

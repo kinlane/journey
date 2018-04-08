@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: X-Frame-Options (RFC 7034)
-  sort: 182
+  sort: 699
   level: 2
   description: 'The X-Frame-Options HTTP header field indicates a policy that specifies
     whether the browser should render the transmitted resource within a or an . Servers

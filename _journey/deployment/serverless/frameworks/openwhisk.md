@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OpenWhisk
-  sort: 2
+  sort: 1485
   level: 3
   description: 'Apache OpenWhisk (Incubating) is a serverless, open source cloud platform
     that executes functions in response to events at any scale. With Apache OpenWhisk

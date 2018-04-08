@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Machine Images
-  sort: 8
+  sort: 1345
   level: 2
   description: Establishing a regular imaging, update, patches, and maintenance definition
     for the underlying compute employed by search service.

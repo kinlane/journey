@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Service
-  sort: 7
+  sort: 2612
   level: 1
   description: Information about how different services are broken down as part of
     the service, and the SLA is being applied in different ways.

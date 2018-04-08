@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Change Log
-  sort: 3
+  sort: 2250
   level: 2
   description: A complete and accurate lot of what has change on a platform allows
     for consumers to stay in tune with what has changed.

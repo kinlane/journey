@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Scan
-  sort: 41
+  sort: 3902
   level: 2
   description: Measure the scanning of a physical or digital object involved in API
     operations.

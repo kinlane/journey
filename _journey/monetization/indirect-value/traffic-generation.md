@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Traffic Generation
-  sort: 2
+  sort: 3578
   level: 2
   description: 'The API exists solely for distributing links to web and mobile applications,
     driving traffic to specific properties '

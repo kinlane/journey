@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Monitoring
-  sort: 2
+  sort: 2234
   level: 2
   description: Details surround the monitoring, testing, and other elements in place
     to ensure that platform operators are aware of the overall platform health, and

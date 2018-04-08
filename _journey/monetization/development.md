@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Development
-  sort: 2
+  sort: 3497
   level: 2
   description: What does it cost to develop a service, and understand development
     costs at scale across services? Keeping track of everything it takes to stand

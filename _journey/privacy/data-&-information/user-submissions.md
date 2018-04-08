@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: User Submissions
-  sort: 2
+  sort: 2561
   level: 2
   description: What is the general view of user submissions, and user generated content
     and data. Is it core to platform operations, and what is the general tone of users

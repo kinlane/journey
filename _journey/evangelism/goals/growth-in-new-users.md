@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Growth in New Users
-  sort: 1
+  sort: 4083
   level: 2
   description: Growing the number of new signups for an API platform, increasing the
     number of new consumers, and potentially establishing as an active user.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Inline Token Generator
-  sort: 1
+  sort: 1590
   level: 2
   description: Allowing developers to request token inline with documentation.
 entities:

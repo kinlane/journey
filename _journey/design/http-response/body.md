@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Body
-  sort: 1
+  sort: 704
   level: 2
   description: The response body, which might include hypermedia, and other media
     types, providing a structure response to each API request.

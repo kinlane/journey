@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Joomla
-  sort: 5
+  sort: 2927
   level: 2
   description: Providing ready to go Joomla integration, allowing developers, and
     sometimes even non-developers to immediately put an API to use through their Joomla

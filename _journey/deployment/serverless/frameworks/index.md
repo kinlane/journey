@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Frameworks
-  sort: 3
+  sort: 1480
   level: 3
   description: Some of the open source frameworks available for deploying of serverless
     solutions, for a variety of use cases.

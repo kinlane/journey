@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Grants
-  sort: 4
+  sort: 3475
   level: 1
   description: Are there grant opportunities involved with the platform operations,
     or available to consumers who are looking to invest in the platform, or develop

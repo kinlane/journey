@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Zone
-  sort: 3
+  sort: 940
   level: 2
   description: Manage the zones for any particular domain.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Body
-  sort: 6
+  sort: 237
   level: 2
   description: Use the body of each request in a consistent way across API operations.
     The body provides much more room for more structured data and content.

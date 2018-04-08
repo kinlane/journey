@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Editor
-  sort: 5
+  sort: 1982
   level: 2
   description: Being able to edit the request being made as part of API monitoring
     process.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Artifacts
-  sort: 7
+  sort: 1502
   level: 2
   description: Organized management and accounting of all artifacts involved in the
     build process, using them as definitions in the overall API lifecycle.

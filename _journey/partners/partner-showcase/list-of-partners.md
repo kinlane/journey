@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: List of Partners
-  sort: 1
+  sort: 4038
   level: 2
   description: A list of partners, usually name and logo, maybe with some description.
 entities:

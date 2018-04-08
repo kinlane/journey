@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Analytics
-  sort: 1
+  sort: 3351
   level: 2
   description: Providing analytics on all activity via account(s), allowing users
     to review their usage in a visual way.

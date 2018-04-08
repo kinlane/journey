@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: MINOR version when you add functionality in a backwards-compatible manner,
-  sort: 2
+  sort: 900
   level: 2
   description: ~
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Industry Monitoring
-  sort: 2
+  sort: 4100
   level: 2
   description: Evaluation of relevant topics and trends of overall industry an API
     is operating within.

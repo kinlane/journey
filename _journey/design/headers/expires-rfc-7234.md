@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Expires (RFC 7234)
-  sort: 78
+  sort: 491
   level: 2
   description: 'The "Expires" header field gives the date/time after which the response
     is considered stale. The presence of an Expires field does not imply that the

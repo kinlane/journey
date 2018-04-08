@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Node.js
-  sort: 4
+  sort: 1399
   level: 3
   description: A REST API framework for easily deploying APIs, and handles all the
     most common elements of deploying an API, using the Node.js language.

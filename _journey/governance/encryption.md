@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Encryption
-  sort: 27
+  sort: 4436
   level: 1
   description: Plan for the encryption guidance that will be needed to drive a wider
     service governance strategy.

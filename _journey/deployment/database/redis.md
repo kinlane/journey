@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Redis
-  sort: 13
+  sort: 1044
   level: 2
   description: Providing a connection to Redis database that allows for quick access
     to tables and fields, making data available through an API from the backend database.

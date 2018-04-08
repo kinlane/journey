@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Backup
-  sort: 52
+  sort: 4486
   level: 1
   description: Plan for the backup guidance that will be needed to drive a wider service
     governance strategy.

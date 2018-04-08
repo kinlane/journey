@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Widget Builder
-  sort: 1
+  sort: 3053
   level: 2
   description: A widget builder provides a form that API consumers can use to configure
     a predefined widget that is integrated with an API, allowing them to customize

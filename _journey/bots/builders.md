@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Builders
-  sort: 4
+  sort: 3073
   level: 1
   description: Details regarding the tooling and services available for helping service
     consumers build, deploy, and manage bots via a platform.

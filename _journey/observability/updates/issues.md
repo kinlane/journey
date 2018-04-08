@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Issues
-  sort: 2
+  sort: 2248
   level: 2
   description: Being open and transparent about the issues that are happening via
     a platform demonstrates a certain level of awareness, as well as honesty.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: License Plate Recognition
-  sort: 7
+  sort: 1279
   level: 3
   description: The identification of vehicle license plates identified in photos and
     images extracted from URLs.

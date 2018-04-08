@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Localhost
-  sort: 3
+  sort: 2052
   level: 2
   description: Allow for executing monitoring requests using localhost.
 entities:

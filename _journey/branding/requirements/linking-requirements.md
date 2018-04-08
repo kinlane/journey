@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Linking Requirements
-  sort: 3
+  sort: 2703
   level: 2
   description: What are your linking requirements? Along with images and other assets,
     what URLs should be attributed to as part of the process. Make the instructions

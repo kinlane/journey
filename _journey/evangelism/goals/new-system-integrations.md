@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: New System Integrations
-  sort: 5
+  sort: 4091
   level: 2
   description: Increase the number of integrations that occur with the API, into other
     systems.

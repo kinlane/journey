@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: P3P (W3C TR http://www.w3.org/TR/P3P)
-  sort: 118
+  sort: 571
   level: 2
   description: 'Any document retrieved by HTTP may point to a policy reference file
     through the use of a new response header, the P3P header. If a site is using P3P

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OpenAPI Spec
-  sort: 2
+  sort: 2106
   level: 2
   description: Allow for importing using OpenAPI Spec.
 entities:

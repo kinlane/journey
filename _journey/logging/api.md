@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: API
-  sort: 14
+  sort: 1853
   level: 1
   description: Making aggregate log files a first class citizen when it comes to API
     access, allowing robust access via simple web APIs, that provide secure access

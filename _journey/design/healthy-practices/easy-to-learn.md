@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Easy to Learn
-  sort: 5
+  sort: 210
   level: 2
   description: Keeping APIs simple, and consistent, will contribute to them being
     easy to learn about for any potential API consumer.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Licensing
-  sort: 2
+  sort: 4279
   level: 2
   description: Openly discussing and sharing the licensing involved with deprecated
     backend, frontend, as well as API definitions, allowing for consumers to potential

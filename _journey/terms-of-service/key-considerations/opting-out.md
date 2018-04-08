@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Opting Out
-  sort: 2
+  sort: 2477
   level: 2
   description: What are the possibilities for opting out of services? Are there data
     sharing, licensing, or communication areas that can be opted out, or NOT opted

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Authentication
-  sort: 5
+  sort: 3122
   level: 1
   description: Are there aggregate authentication concerns, practices, services, and
     tooling in place to make sure many different APIs can be managed effectively?

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Proxy
-  sort: 1
+  sort: 3291
   level: 2
   description: A proxy server is a server (a computer system or an application) that
     acts as an intermediary for requests from clients seeking resources from other

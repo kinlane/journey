@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Playback
-  sort: 6
+  sort: 2083
   level: 2
   description: Enable the playback of a single request.
 entities:

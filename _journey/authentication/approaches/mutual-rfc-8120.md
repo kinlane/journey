@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Mutual (RFC 8120)
-  sort: 6
+  sort: 1613
   level: 2
   description: 'The scheme provides true mutual authentication between an HTTP client
     and an HTTP server, using just a simple password as a credential. '

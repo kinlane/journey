@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Connection Changes
-  sort: 4
+  sort: 3164
   level: 1
   description: Providing information on how connections have changed, or can be changed
     as part of API access across all services.

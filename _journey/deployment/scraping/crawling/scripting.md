@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Scripting
-  sort: 3
+  sort: 1183
   level: 3
   description: Allow for scripting as part of the web crawling cycle.
 entities:

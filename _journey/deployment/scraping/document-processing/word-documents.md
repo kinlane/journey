@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Word Documents
-  sort: 3
+  sort: 1229
   level: 3
   description: Extraction of content from Word documents that are harvest via URLs.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Key (Internet Draft ietf-httpbis-key)
-  sort: 95
+  sort: 525
   level: 2
   description: 'The "Key" response header field describes the request attributes that
     the server has used to select the current representation. As such, its semantics

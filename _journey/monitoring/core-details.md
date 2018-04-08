@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Core Details
-  sort: 2
+  sort: 1971
   level: 2
   description: The core aspects of operating a monitoring campaign across all services,
     ensuring that they are granularly monitored and ensured they are meeting SLAs.

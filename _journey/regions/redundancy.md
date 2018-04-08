@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Redundancy
-  sort: 5
+  sort: 3185
   level: 1
   description: Information regarding how services can failover, balanced, and made
     available across multiple regions, sharing healthy practices for how this is done

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Bandwidth
-  sort: 20
+  sort: 3859
   level: 2
   description: Measuring API access based upon the amount of bandwidth used.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Service Credit
-  sort: 8
+  sort: 2614
   level: 1
   description: When an SLA is not met, how are accounts being credit due to service
     outages, and downtime, hold the platform accountable for reliability.

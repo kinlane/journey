@@ -6,7 +6,7 @@ rel:
 properties:
   name: Searches -Allowing for simple questions to be asked, and provide a framework
     to allow APIs to be employed in answering any question asked.
-  sort: 4
+  sort: 3137
   level: 1
   description: ~
 entities:

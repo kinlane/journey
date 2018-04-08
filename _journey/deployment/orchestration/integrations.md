@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Integrations
-  sort: 10
+  sort: 1508
   level: 2
   description: Establishing ready to go integrations for common deployment and integration
     targets, allowing for each setup, and management of the most common integration

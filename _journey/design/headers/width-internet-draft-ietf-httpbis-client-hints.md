@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Width (Internet Draft ietf-httpbis-client-hints)
-  sort: 181
+  sort: 697
   level: 2
   description: 'The "Width" header field is a number that, in requests, indicates
     the resource width in physical px (i.e. intrinsic size of an image). '

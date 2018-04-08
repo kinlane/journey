@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Bookmarklets
-  sort: 1
+  sort: 3017
   level: 1
   description: Establishing copy and pastable, or drag and droppable browser bookmarklets
     that can be used to make specific API calls, and put a single service to use.

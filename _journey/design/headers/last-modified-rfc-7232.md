@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Last-Modified (RFC 7232)
-  sort: 98
+  sort: 531
   level: 2
   description: 'The "Last-Modified" header field in a response provides a timestamp
     indicating the date and time at which the origin server believes the selected

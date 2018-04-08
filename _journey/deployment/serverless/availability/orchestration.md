@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Orchestration
-  sort: 3
+  sort: 1472
   level: 3
   description: Providing tools for orchestrating and working with serverless scripts
     and functions in sequence, batches, groups, and other more organized, concerted

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accept-Post (W3C TR http://www.w3.org/TR/ldp)
-  sort: 14
+  sort: 363
   level: 2
   description: 'The Accept-Post HTTP header SHOULD appear in the OPTIONS response
     for any resource that supports the use of the POST method. The presence of the

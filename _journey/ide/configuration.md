@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Configuration
-  sort: 3
+  sort: 2991
   level: 2
   description: Providing a rich environment for allowing each developer to customize
     and configure their development environment making it work with their way of doing

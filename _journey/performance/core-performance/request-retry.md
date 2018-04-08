@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Retry
-  sort: 6
+  sort: 2171
   level: 2
   description: Allow the retry of any performance test.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: XML Validation
-  sort: 7
+  sort: 2383
   level: 2
   description: XML-based services must ensure that they are protected against common
     XML based attacks by using secure XML-parsing.

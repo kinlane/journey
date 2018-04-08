@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Road Map
-  sort: 1
+  sort: 1939
   level: 1
   description: A detailed list of what additions and changes are being planned as
     part of API operations, giving consumers a place where they can go learn about

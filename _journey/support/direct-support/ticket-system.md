@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Ticket System
-  sort: 4
+  sort: 1899
   level: 2
   description: Provide a central ticketing system for all support requests, possibly
     using popular support software like Zendesk.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Date Extraction
-  sort: 8
+  sort: 1164
   level: 3
   description: Pulling of the dates from an article, blog post, and other content
     published via a URL.

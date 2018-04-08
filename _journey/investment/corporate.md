@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Corporate
-  sort: 2
+  sort: 3471
   level: 1
   description: What corporate investments have been made when it comes to platform
     operations, or are available to make future investments in new services, or applications

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Serverless Framework
-  sort: 1
+  sort: 1483
   level: 3
   description: 'Build applications comprised of microservices that run in response
     to events, autoscale for you, and only charge you when they run. This lowers the

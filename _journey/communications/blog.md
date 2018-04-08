@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Blog
-  sort: 1
+  sort: 1910
   level: 1
   description: Providing a blog dedicated to API platform operations, with stories
     about the providers, consumers, and other related stories.

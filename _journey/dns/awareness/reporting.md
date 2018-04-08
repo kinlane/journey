@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reporting
-  sort: 2
+  sort: 993
   level: 2
   description: Provide self-service reporting tools on DNS activity and services.
 entities:

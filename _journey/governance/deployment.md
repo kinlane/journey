@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Deployment
-  sort: 5
+  sort: 4392
   level: 1
   description: Plan for the API deployment guidance that is needed to provide what
     is needed to feed a wider service governance strategy.

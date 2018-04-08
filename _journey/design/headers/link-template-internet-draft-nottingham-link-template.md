@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Link-Template (Internet Draft nottingham-link-template)
-  sort: 100
+  sort: 535
   level: 2
   description: 'The Link-Template entity-header field provides a means for serialising
     one or more links into HTTP headers. It is semantically equivalent to the Link

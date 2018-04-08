@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Compliance
-  sort: 18
+  sort: 1861
   level: 1
   description: Defining the wider compliance strategy to ensure all logging efforts
     are meeting any compliance requirements, and that all relevant data is being stored

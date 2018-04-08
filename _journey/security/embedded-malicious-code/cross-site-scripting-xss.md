@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Cross-site Scripting (XSS)
-  sort: 7
+  sort: 2347
   level: 2
   description: A type of injection, in which malicious scripts are injected into
 entities:

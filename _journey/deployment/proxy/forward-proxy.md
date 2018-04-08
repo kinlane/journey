@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Forward Proxy
-  sort: 2
+  sort: 1096
   level: 2
   description: An intermediary for clients to contact any server, allowing for transformations
     and filtering before delivery.

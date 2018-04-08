@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Non-Commercial
-  sort: 18
+  sort: 3713
   level: 2
   description: The platform allows for non-commercial access to resources, which usually
     means there is additional commercial requirements. Allowing non-profit organizations,

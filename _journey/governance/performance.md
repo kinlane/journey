@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Performance
-  sort: 24
+  sort: 4430
   level: 1
   description: Plan for the performance guidance that will be needed to drive a wider
     service governance strategy.

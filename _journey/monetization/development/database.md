@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Database
-  sort: 5
+  sort: 3508
   level: 2
   description: How much work am I putting into setting up the database. A lot of this
     I can automate, but there is always a setup cost involved.

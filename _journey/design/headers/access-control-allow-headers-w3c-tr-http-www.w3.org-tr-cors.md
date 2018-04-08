@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Access-Control-Allow-Headers (W3C TR http://www.w3.org/TR/cors)
-  sort: 18
+  sort: 371
   level: 2
   description: 'The Access-Control-Allow-Headers header indicates, as part of the
     response to a preflight request, which header field names can be used during the

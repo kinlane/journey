@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Editor
-  sort: 5
+  sort: 2169
   level: 2
   description: Being able to edit the request being made.
 entities:

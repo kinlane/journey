@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Base URL for Portal
-  sort: 2
+  sort: 931
   level: 2
   description: Providing a simple base URL for accessing the developer portal -
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: APIs.json
-  sort: 1
+  sort: 2722
   level: 2
   description: Use the APIs.json JSON specification for describing collections of
     APIs, allowing them to be indexed for inclusion in public and private search engines.

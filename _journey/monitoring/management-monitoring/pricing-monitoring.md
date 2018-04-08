@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Pricing Monitoring
-  sort: 2
+  sort: 2014
   level: 2
   description: Notifications when an API platform pricing changes
 entities:

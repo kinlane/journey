@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Managed
-  sort: 8
+  sort: 3254
   level: 1
   description: Provide certified partners and vendors who can assist with a managed
     migration, helping make sure it happens without any problems.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: UPDATE (RFC 3253)
-  sort: 37
+  sort: 328
   level: 2
   description: 'The UPDATE method modifies the content and dead properties of a checked-in
     version-controlled resource (the "update target") to be those of a specified version

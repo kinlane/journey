@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Access
-  sort: 1
+  sort: 3821
   level: 2
   description: Where access to an API is on the table, and might not be publicly available,
     or part of all plans. Differing from API access as an element, this is about actually

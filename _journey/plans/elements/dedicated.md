@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Dedicated
-  sort: 12
+  sort: 3701
   level: 2
   description: Resources can be allocated in a dedicated state, remaining available
     with no downtime, or according to SLA. This element is complementary to on-demand,

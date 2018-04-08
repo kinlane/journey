@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Simplicity
-  sort: 2
+  sort: 204
   level: 2
   description: Consider simplicity at ever turn when designing APIs, providing the
     small possible unit of value you possibly can--simplicity goes a long way.

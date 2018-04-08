@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Syndication
-  sort: 27
+  sort: 3873
   level: 2
   description: Measurement for API consumption based upon how much syndication occurs.
 entities:

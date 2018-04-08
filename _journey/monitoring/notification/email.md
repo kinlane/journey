@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Email
-  sort: 2
+  sort: 2023
   level: 2
   description: Allow notifications to be received by email.
 entities:

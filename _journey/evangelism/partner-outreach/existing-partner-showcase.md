@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Existing Partner Showcase
-  sort: 2
+  sort: 4128
   level: 2
   description: The showcasing of existing partners, to make sure the spotlight is
     on them in blog posts, PR, and social media.

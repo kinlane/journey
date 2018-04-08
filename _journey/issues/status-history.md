@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Status History
-  sort: 4
+  sort: 1952
   level: 1
   description: Providing a history of status, usually by day, and showing results
     month by month, or week by week, as long as status has been tracked for an API.

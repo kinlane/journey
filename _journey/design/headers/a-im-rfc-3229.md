@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: A-IM (RFC 3229)
-  sort: 1
+  sort: 337
   level: 2
   description: 'The A-IM request-header field is similar to Accept, but restricts
     the instance-manipulations that are acceptable in the response. A response may

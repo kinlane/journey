@@ -6,7 +6,7 @@ rel:
 properties:
   name: "All Changes \u2014 Changes to existing products or services (not including
     Deprecations)."
-  sort: 5
+  sort: 915
   level: 2
   description: ~
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Bug Bounty Program
-  sort: 4
+  sort: 2456
   level: 2
   description: Provide a platform for running a bug bounty program, that allows API
     providers to crowdsource the discovery, and review of an API, providing a potentially

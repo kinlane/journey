@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: If-Match (RFC 7232)
-  sort: 89
+  sort: 513
   level: 2
   description: 'The "If-Match" header field makes the request method conditional on
     the recipient origin server either having at least one current representation

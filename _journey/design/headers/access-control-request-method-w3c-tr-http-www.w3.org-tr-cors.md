@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Access-Control-Request-Method (W3C TR http://www.w3.org/TR/cors)
-  sort: 24
+  sort: 383
   level: 2
   description: 'The Access-Control-Request-Method header indicates which method will
     be used in the actual request as part of the preflight request. '

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Platforms
-  sort: 2
+  sort: 3442
   level: 2
   description: Discussing what platforms are available when it comes to voice-enablement,
     and showcasing the support available for each of the major voice platforms, encouraging

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Embedded Malicious Code
-  sort: 6
+  sort: 2332
   level: 2
   description: Evaluating how malicious code might be injected into API requests looking
     to open up holes within services, and get behind validators, filters, and other

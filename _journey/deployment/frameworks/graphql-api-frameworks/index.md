@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: GraphQL API Frameworks
-  sort: 2
+  sort: 1407
   level: 3
   description: Providing a robust list of API frameworks for deploying GraphQL API
     services, providing a common framework for delivering the API while also providing

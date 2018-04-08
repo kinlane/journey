@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: PUT (RFC 7231)
-  sort: 28
+  sort: 310
   level: 2
   description: 'The PUT method requests that the state of the target resource be created
     or replaced with the state defined by the representation enclosed in the request

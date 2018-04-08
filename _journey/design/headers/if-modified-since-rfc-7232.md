@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: If-Modified-Since (RFC 7232)
-  sort: 90
+  sort: 515
   level: 2
   description: 'The "If-Modified-Since" header field makes a GET or HEAD request method
     conditional on the selected representation modification date being more recent

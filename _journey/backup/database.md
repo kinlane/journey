@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Database
-  sort: 2
+  sort: 3263
   level: 1
   description: Providing services and tooling for backing up database, allowing for
     easy storage and restore of all database resources.

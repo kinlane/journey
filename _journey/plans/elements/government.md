@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Government
-  sort: 21
+  sort: 3719
   level: 2
   description: A set of API resources is available specifically for government access,
     meeting the specialized needs of local or federal government use. Complimentary

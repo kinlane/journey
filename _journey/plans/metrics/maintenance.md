@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Maintenance
-  sort: 36
+  sort: 3892
   level: 2
   description: Measuring maintenance events that occur, and affecting API consumption
     based upon.

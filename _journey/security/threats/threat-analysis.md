@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Threat Analysis
-  sort: 1
+  sort: 2443
   level: 2
   description: Providing systems that will automate the analysis of threats to DNS.
 entities:

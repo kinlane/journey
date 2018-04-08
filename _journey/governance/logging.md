@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Logging
-  sort: 14
+  sort: 4410
   level: 1
   description: Plan for the logging guidance that will be needed to drive a wider
     service governance strategy.

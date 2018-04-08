@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Troubleshooting
-  sort: 20
+  sort: 1865
   level: 1
   description: Providing solutions that assist with immediate troubleshooting across
     services, based upon errors, spikes, and other signals that indicate there might

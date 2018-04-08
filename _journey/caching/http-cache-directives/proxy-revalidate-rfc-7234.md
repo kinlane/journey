@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: proxy-revalidate (RFC 7234)
-  sort: 12
+  sort: 882
   level: 2
   description: 'The "proxy-revalidate" response directive has the same meaning as
     the must-revalidate response directive, except that it does not apply to private

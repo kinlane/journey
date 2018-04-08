@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Discover
-  sort: 4
+  sort: 3489
   level: 2
   description: What did I spent to find this. I may have had to buy someone dinner
     or beer to find, as well as time on the Internet searching, and connecting the

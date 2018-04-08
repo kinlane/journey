@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Commenting
-  sort: 11
+  sort: 2093
   level: 2
   description: Enabling users to comment on a specific request.
 entities:

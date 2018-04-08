@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Prefer (RFC 7240)
-  sort: 125
+  sort: 585
   level: 2
   description: 'The Prefer request header field is used to indicate that particular
     server behaviors are preferred by the client, but not required for successful

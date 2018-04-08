@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Data License
-  sort: 1
+  sort: 4282
   level: 2
   description: How will data be licensed after things are shut down?
 entities:

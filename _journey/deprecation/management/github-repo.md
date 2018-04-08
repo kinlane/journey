@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Github Repo
-  sort: 1
+  sort: 4293
   level: 2
   description: Will a dedicated Github repository be made available for the company,
     platform, API, or other aspects of opportunity, made available for capturing any

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reporting
-  sort: 6
+  sort: 2029
   level: 2
   description: Providing what is needed to properly report upon monitoring that is
     occurring across services, allowing for reporting to all stakeholders regarding

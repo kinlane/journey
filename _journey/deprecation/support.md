@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Support
-  sort: 5
+  sort: 4322
   level: 2
   description: Details of the deprecation support plan that is in place, providing
     assistance to partners and consumers as they work to migrate off of a service

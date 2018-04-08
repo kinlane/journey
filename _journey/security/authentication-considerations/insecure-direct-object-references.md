@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Insecure Direct Object References
-  sort: 7
+  sort: 2290
   level: 2
   description: It may seem obvious, but if you had a bank account REST web service,
     you'd have to make sure there is adequate checking of primary and foreign keys.

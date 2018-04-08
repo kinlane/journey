@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Increased
-  sort: 6
+  sort: 3810
   level: 2
   description: Opportunities for increasing rate limits either by changing plans,
     or simply requesting limits to be raised.

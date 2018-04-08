@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Resources
-  sort: 3
+  sort: 1704
   level: 2
   description: The extra resources that are made available for developers to put to
     use in their integration journey, providing a wealth of resources to be applied

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Revenue Sharing
-  sort: 1
+  sort: 4009
   level: 2
   description: Offer revenue sharing for partners.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accept-Indefinite-Ranges (Internet Draft combs-http-indeterminate-range)
-  sort: 11
+  sort: 357
   level: 2
   description: 'The Accept-Indefinite-Ranges request-header field allows the client
     to indicate its acceptance of indefinite-sized range requests for a resource. '

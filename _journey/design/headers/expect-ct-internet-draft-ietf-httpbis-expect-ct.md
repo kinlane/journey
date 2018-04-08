@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Expect-CT (Internet Draft ietf-httpbis-expect-ct)
-  sort: 77
+  sort: 489
   level: 2
   description: 'The "Expect-CT" header field is a new response header defined in this
     specification. It is used by a server to indicate that UAs should evaluate connections

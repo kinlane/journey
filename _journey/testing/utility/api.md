@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: API
-  sort: 4
+  sort: 2144
   level: 2
   description: Providing an API for API monitoring tools.
 entities:

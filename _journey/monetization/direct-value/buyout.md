@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Buyout
-  sort: 6
+  sort: 3529
   level: 2
   description: Allow API consumers to get paid for the credits on their account, preferably
     all users are encouraged to spend credits, but buyout is an option.

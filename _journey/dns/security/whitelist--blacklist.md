@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Whitelist / Blacklist
-  sort: 3
+  sort: 970
   level: 2
   description: Being able to establish whitelists and blacklists of domains, IP addresses,
     and other criteria for DNS level defense.

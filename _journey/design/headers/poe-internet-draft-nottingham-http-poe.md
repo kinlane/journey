@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: POE (Internet Draft nottingham-http-poe)
-  sort: 121
+  sort: 577
   level: 2
   description: 'The POE HTTP header is a request-header field whose field-value indicates
     the version of POE that a client supports. '

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Code of Conduct
-  sort: 3
+  sort: 4020
   level: 2
   description: A code of conduct targeting partners, explaining what is expected.
 entities:

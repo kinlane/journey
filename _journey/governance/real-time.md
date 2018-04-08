@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Real Time
-  sort: 53
+  sort: 4488
   level: 1
   description: Plan for the real time guidance that will be needed to drive a wider
     service governance strategy.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Service Availability
-  sort: 1
+  sort: 1974
   level: 2
   description: Making sure a service is available.
 entities:

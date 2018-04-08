@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Processing
-  sort: 2
+  sort: 909
   level: 2
   description: You MUST NOT change processing rules
 entities:

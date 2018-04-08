@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Full Path Disclosure
-  sort: 10
+  sort: 2354
   level: 2
   description: Vulnerabilities enabling the attacker to see the path to the webroot/file,
     potentially opening up full access to the underlying system.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Services
-  sort: 36
+  sort: 3749
   level: 2
   description: API resources exist to support other related services, and act as value-add
     to the primary business focus. This is somewhat duplicate to SaaS or PaaS elements,

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: IM (RFC 3229)
-  sort: 87
+  sort: 509
   level: 2
   description: 'The IM response-header field is used to indicate the instance-manipulations,
     if any, that have been applied to the instance represented by the response. Typical

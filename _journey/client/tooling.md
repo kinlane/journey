@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Tooling
-  sort: 7
+  sort: 2841
   level: 2
   description: Providing additional client tooling that helps consumers make sense
     of the integration with services and be able to enhance the API integration cycles.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Dependencies
-  sort: 7
+  sort: 4396
   level: 1
   description: Plan for the dependency guidance that is needed to provide what is
     needed to feed a wider service governance strategy.

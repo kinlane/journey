@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Overview
-  sort: 1
+  sort: 1587
   level: 2
   description: Relevant overview information about authentication across services,
     providing what is needed to get started understanding how authentication will

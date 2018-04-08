@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Public Domain (CC0)
-  sort: 3
+  sort: 2630
   level: 2
   description: 'Use this universal tool if you are a holder of copyright or database
     rights, and you wish to waive all your interests in your work worldwide. '

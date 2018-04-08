@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Developer Dashboard
-  sort: 1
+  sort: 1793
   level: 2
   description: Provide developers a single dashboard for getting at all their tools,
     metrics and information they need to successfully manage their usage.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Testing
-  sort: 23
+  sort: 4428
   level: 1
   description: Plan for the testing guidance that will be needed to drive a wider
     service governance strategy.

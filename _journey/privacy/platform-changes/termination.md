@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Termination
-  sort: 1
+  sort: 2577
   level: 2
   description: What privacy considerations are taken when accounts are terminated.
     Can users, and API consumers terminate their relationship and assume that privacy

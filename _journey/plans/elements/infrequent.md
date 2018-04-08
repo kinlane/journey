@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Infrequent
-  sort: 13
+  sort: 3703
   level: 2
   description: Resources are accessed infrequently, treating them as warehoused, or
     off to the side. Another side of the resource availability which focuses on these

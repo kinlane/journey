@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Observability
-  sort: 25
+  sort: 4432
   level: 1
   description: Plan for the observability guidance that will be needed to drive a
     wider service governance strategy.

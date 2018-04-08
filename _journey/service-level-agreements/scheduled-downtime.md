@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Scheduled Downtime
-  sort: 5
+  sort: 2608
   level: 1
   description: Details regarding how scheduled downtime is factored in as part of
     ensuring an SLA is being met, and how preparations and communication occurs.

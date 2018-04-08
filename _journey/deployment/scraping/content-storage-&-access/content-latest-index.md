@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content Latest Index
-  sort: 1
+  sort: 1198
   level: 3
   description: Providing access to the latest content crawled and harvest against
     a domain or list of domains.

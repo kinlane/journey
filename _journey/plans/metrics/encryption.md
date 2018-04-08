@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Encryption
-  sort: 51
+  sort: 3922
   level: 2
   description: Considering the existence of, or strength of encryption as part of
     the API consumption process.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Push Notifications
-  sort: 2
+  sort: 3323
   level: 2
   description: Push notifications let your application notify a user of new messages
     or events even when the user is not actively using your application. On Android

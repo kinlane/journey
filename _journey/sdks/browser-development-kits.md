@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Browser Development Kits
-  sort: 4
+  sort: 2909
   level: 2
   description: What assistance is available for helping API consumers integrate services
     into the browser, making APIs easily integrated into the leading browsers using

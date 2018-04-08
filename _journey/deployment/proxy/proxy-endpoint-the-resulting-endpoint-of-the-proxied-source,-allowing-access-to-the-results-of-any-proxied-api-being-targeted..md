@@ -6,7 +6,7 @@ rel:
 properties:
   name: 'Proxy Endpoint: The resulting endpoint of the proxied source, allowing access
     to the results of any proxied API being targeted.'
-  sort: 6
+  sort: 1104
   level: 2
   description: ~
 entities:

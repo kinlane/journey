@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Blog RSS Feed
-  sort: 2
+  sort: 1912
   level: 1
   description: Make sure there is an RSS feed for any blog that is published as part
     of API operations.

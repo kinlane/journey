@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Groups
-  sort: 47
+  sort: 3914
   level: 2
   description: API access adjusted based upon grouping, or group level access which
     is aside from standard plans.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Command Line Interface
-  sort: 2
+  sort: 2140
   level: 2
   description: Provide a command line interface for working with tests.
 entities:

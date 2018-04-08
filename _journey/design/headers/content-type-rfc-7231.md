@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content-Type (RFC 7231)
-  sort: 59
+  sort: 453
   level: 2
   description: 'The "Content-Type" header field indicates the media type of the associated
     representation: either the representation enclosed in the message payload or the

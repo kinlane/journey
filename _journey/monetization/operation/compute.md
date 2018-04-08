@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Compute
-  sort: 2
+  sort: 3618
   level: 2
   description: What percentage of my AWS compute is dedicated to an API. Flat percentage
     of the server its one until usage history exists.

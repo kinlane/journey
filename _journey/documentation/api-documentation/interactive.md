@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Interactive
-  sort: 2
+  sort: 1694
   level: 2
   description: Publishing interactive API documentation using one of the common API
     definition driven documentation solutions, providing details of the requests,

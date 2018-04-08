@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Early Communication
-  sort: 1
+  sort: 4000
   level: 2
   description: Allow for partners to get early access to platform communications.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Rules
-  sort: 8
+  sort: 3081
   level: 1
   description: Establishing a set of rules that bot developers should be following
     as they look to automate, and build accounts and applications that are using services.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Github Issues
-  sort: 2
+  sort: 4295
   level: 2
   description: Is there a Github issues established for handling all concerns, and
     conversations around the API deprecation.

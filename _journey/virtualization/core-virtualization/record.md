@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Record
-  sort: 4
+  sort: 1545
   level: 2
   description: Recording the setup of a virtualization environment for use at later
     date.

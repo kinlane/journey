@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Be Friendly
-  sort: 6
+  sort: 4269
   level: 2
   description: Be as friendly as you can. It will be a hard time for everyone involved.
 entities:

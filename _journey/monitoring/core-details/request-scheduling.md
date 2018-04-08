@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Scheduling
-  sort: 9
+  sort: 1990
   level: 2
   description: Allow the scheduling of when to run specific task at specific time(s).
 entities:

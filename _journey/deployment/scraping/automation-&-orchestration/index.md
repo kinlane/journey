@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Automation & Orchestration
-  sort: 4
+  sort: 1206
   level: 3
   description: Allowing for the automation and orchestration of the scraping process
     enabling it to be scaled, and automated to the needs of services.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Datensparsamkeit (Data Minimization)
-  sort: 21
+  sort: 1867
   level: 1
   description: It's an attitude to how we capture and store data, saying that we should
     only handle data that we really need.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Disk I/O
-  sort: 3
+  sort: 2165
   level: 2
   description: Allow for the monitoring of disk I/O.
 entities:

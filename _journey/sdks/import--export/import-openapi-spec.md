@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Import OpenAPI Spec
-  sort: 1
+  sort: 2944
   level: 2
   description: Allow for importing of API definitions using OpenAPI specification
     format, for generation of SDKs.

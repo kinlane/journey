@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: RapidAPI
-  sort: 2
+  sort: 2730
   level: 2
   description: A public API directory, formerly known as Mashape, but has been rebranded
     as RapidAPI, providing a directory of popular API programs.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Reporting
-  sort: 12
+  sort: 4197
   level: 2
   description: How is evangelism measured and reported upon by the teams owning and
     delivering services? What is communicated internally, with partners, and shared

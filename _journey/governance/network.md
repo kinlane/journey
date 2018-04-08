@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Network
-  sort: 48
+  sort: 4478
   level: 1
   description: Plan for the network guidance that will be needed to drive a wider
     service governance strategy.

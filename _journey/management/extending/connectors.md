@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Connectors
-  sort: 2
+  sort: 1763
   level: 2
   description: What backend connectors are available for working with common backend
     systems like databases, file systems, LDAP, etc. Making it easier to deploy an

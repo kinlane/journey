@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: no-store (RFC 7234)
-  sort: 8
+  sort: 874
   level: 2
   description: 'The "no-store" directive indicates that a cache MUST NOT store any
     part of either this request or any response to it. This directive applies to both

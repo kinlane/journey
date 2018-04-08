@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Resources
-  sort: 8
+  sort: 3949
   level: 2
   description: What other resources are available for use as variables within plans,
     to help refine and incentivize how service usage and consumption occurs beyond

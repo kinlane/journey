@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Connection (RFC 7230)
-  sort: 44
+  sort: 423
   level: 2
   description: 'The "Connection" header field allows the sender to indicate desired
     control options for the current connection. In order to avoid confusing downstream

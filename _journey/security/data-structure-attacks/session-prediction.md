@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Session Prediction
-  sort: 9
+  sort: 2330
   level: 2
   description: An attack that focuses on predicting session ID values that permit
     an attacker to bypass the authentication schema of an application, by analyzing

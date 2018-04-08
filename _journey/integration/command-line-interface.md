@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Command Line Interface
-  sort: 11
+  sort: 3151
   level: 1
   description: Delivering a Command Line Interface (CLI) that developers can use when
     integrating, as well as building into continuous integration pipelines.

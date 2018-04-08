@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Case Studies
-  sort: 1
+  sort: 1707
   level: 2
   description: Offering a wealth of case studies of actual implementations that have
     occurred with an API , showing potential consumers what is possible.

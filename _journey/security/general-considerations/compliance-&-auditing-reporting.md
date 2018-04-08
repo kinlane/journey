@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Compliance & Auditing Reporting
-  sort: 3
+  sort: 2454
   level: 2
   description: Providing a specific interface for auditors and compliance officers
     to see what security has been applied to any interface. The reporting should provide

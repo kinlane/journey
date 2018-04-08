@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Training
-  sort: 3
+  sort: 4051
   level: 2
   description: Offer direct training opportunities that is designed just for partners.
 entities:

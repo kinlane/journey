@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request Headers Editor
-  sort: 2
+  sort: 2820
   level: 2
   description: Being able to add, edit, and remove any headers that will be sent with
     any request being made through the client.

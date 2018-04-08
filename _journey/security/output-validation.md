@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Output Validation
-  sort: 8
+  sort: 2387
   level: 2
   description: Looking at how API requests are validated for accuracy, and do not
     possess any secrets, or other information that might be used to compromise the

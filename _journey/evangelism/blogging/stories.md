@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Stories
-  sort: 2
+  sort: 4135
   level: 2
   description: Writing, editing and posting of stories derived from projects, with
     SEO and API area support by design.

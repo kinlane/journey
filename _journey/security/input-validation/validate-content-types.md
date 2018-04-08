@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Validate Content-Types
-  sort: 1
+  sort: 2371
   level: 2
   description: The server should never assume the Content-Type; it should always check
     that the Content-Type header and the content are the same type.

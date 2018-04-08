@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Addressing
-  sort: 2
+  sort: 3160
   level: 1
   description: What IP addresses and other DNS related information is available regarding
     the network layer of operating any particular service, or across many services.

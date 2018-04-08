@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Importing
-  sort: 3
+  sort: 3460
   level: 1
   description: Are there solutions for allowing the importing of spreadsheets or CSV
     using platform services, allowing spreadsheets to become data sources.

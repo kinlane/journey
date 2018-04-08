@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Twitter
-  sort: 3
+  sort: 1914
   level: 1
   description: Provide an active Twitter account for support, as well as evangelism
     efforts around an APIs operations.

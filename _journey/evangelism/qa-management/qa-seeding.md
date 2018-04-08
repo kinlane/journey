@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: QA Seeding
-  sort: 4
+  sort: 4195
   level: 2
   description: Seeding of questions by anonymous 3rd party profiles for relevant topics.
 entities:

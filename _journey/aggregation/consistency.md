@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Consistency
-  sort: 7
+  sort: 3126
   level: 1
   description: How is consistency across many different APIs surface area and schema
     addressed, providing a single philosophy for handling the changes that will exist?

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Regions
-  sort: 49
+  sort: 4480
   level: 1
   description: Plan for the regional guidance that will be needed to drive a wider
     service governance strategy.

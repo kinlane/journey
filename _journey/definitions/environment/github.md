@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Github
-  sort: 4
+  sort: 186
   level: 2
   description: Allowing for the import, publishing, and syncing of API definitions
     and schemas to Github for forking, and management using the social coding platform.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Support
-  sort: 17
+  sort: 4416
   level: 1
   description: Plan for the support guidance that will be needed to drive a wider
     service governance strategy.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: stale-while-revalidate (RFC 5861)
-  sort: 16
+  sort: 890
   level: 2
   description: 'When present in an HTTP response, the stale-while-revalidate Cache-Control
     extension indicates that caches MAY serve the response in which it appears after

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Historical
-  sort: 4
+  sort: 4265
   level: 2
   description: What historical communications will be made available from blog posts,
     to tweets, documentation, and other communication focused efforts.

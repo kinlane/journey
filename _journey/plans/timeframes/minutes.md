@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Minutes
-  sort: 2
+  sort: 3935
   level: 2
   description: Managing, guiding, and restricting plan entries in minutes. Like seconds
     this is a common timeframe for considering rate limits, and judging the overall

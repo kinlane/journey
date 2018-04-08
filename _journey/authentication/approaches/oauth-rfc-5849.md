@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OAuth (RFC 5849)
-  sort: 8
+  sort: 1617
   level: 2
   description: 'Protocol parameters can be transmitted using the HTTP "Authorization"
     header field as defined by RFC 2617 with the auth-scheme name set to "OAuth" (case

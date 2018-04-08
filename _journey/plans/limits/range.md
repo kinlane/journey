@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Range
-  sort: 4
+  sort: 3806
   level: 2
   description: Considering a range of values when measuring API consumption, and evaluating
     plan level access.

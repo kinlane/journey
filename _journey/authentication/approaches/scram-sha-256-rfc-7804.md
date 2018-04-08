@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SCRAM-SHA-256 (RFC 7804)
-  sort: 10
+  sort: 1621
   level: 2
   description: 'HTTP SCRAM is an HTTP Authentication mechanism whose client response
     and server challenge messages are text-based messages containing one or more attribute-value

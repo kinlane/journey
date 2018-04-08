@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Brand Awareness
-  sort: 3
+  sort: 4087
   level: 2
   description: A consistent strategy and set of resources for extending the brand
     reach for any API platform, by providing a set of instructions and assets for

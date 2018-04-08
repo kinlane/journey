@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Trojan Horse
-  sort: 3
+  sort: 2318
   level: 2
   description: A Trojan Horse is a program that uses malicious code masqueraded as
     a trusted application, which is vehicle in which malicious code can be injected

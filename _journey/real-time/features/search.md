@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Search
-  sort: 6
+  sort: 3331
   level: 2
   description: Providing search features, allowing the real time search of users,
     messages, and other data or content.

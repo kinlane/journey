@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Use of Brand Logo
-  sort: 6
+  sort: 2690
   level: 2
   description: How should API consumers understand when it comes to using logos in
     their tools, services, and any materials they produce to support their work.

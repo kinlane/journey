@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: PEP (W3C TR http://www.w3.org/TR/WD-http-pep)
-  sort: 119
+  sort: 573
   level: 2
   description: 'PEP end-to-end declarations must be transmitted to the ultimate recipient
     of the declaration. The PEP header field is an end-to-end header field. '

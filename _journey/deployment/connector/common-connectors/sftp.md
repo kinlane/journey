@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SFTP
-  sort: 5
+  sort: 1060
   level: 3
   description: Providing a ready to go SFTP connector for connecting to an existing
     FTP location and publishing available files via a web API.

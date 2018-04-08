@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Grants
-  sort: 20
+  sort: 3557
   level: 2
   description: Is the value generated around API operations because of a single, or
     possibly multiple grants? How are grant programs leveraged to develop the API

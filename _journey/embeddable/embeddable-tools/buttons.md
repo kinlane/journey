@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Buttons
-  sort: 2
+  sort: 3040
   level: 2
   description: Buttons are shareable snippets of code that often share, syndicate
     or trigger a variety of events that use APIs as their source.

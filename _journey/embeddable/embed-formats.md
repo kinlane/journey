@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Embed Formats
-  sort: 4
+  sort: 3057
   level: 2
   description: What open formats are supported to ensure that embeddable tools build
     on top of services or interoperable, and employ common patterns when it comes

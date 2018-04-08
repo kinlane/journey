@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Connectors
-  sort: 28
+  sort: 3875
   level: 2
   description: Measuring API access based upon the number of connectors that are employed,
     or part of

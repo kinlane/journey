@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Access-Control-Allow-Origin (W3C TR http://www.w3.org/TR/cors)
-  sort: 20
+  sort: 375
   level: 2
   description: 'The Access-Control-Allow-Origin header indicates whether a resource
     can be shared based by returning the value of the Origin request header, "*",

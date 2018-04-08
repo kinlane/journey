@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: JavaScript API
-  sort: 2
+  sort: 3055
   level: 2
   description: A complete JavaScript API that developers can use to build and manage
     their own JavaScript integrations with an APIs resources, beyond existing widgets.

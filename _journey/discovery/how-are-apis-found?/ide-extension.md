@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: IDE Extension
-  sort: 3
+  sort: 2753
   level: 2
   description: integrated development environment (IDE) extensions or add-ons that
     allow developers to quickly discovery and understand API endpoints.

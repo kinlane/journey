@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Applications
-  sort: 25
+  sort: 3567
   level: 2
   description: Is value generated looked at on a per application basis? Does having
     multiple applications impact the value generate? Coming up with interesting ways

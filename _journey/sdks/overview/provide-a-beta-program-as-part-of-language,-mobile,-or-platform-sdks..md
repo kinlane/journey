@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Provide a beta program as part of language, mobile, or platform SDKs.
-  sort: 2
+  sort: 2875
   level: 2
   description: ~
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Platform Development Kits
-  sort: 5
+  sort: 2916
   level: 2
   description: What other 3rd party platforms are invested in when it comes to provide
     read to go code for integration, significantly speeding up the time it takes for

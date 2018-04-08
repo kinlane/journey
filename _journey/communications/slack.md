@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Slack
-  sort: 13
+  sort: 1934
   level: 1
   description: Using Slack to create private channels just for communicating with
     internal, partner, or public API consumers.

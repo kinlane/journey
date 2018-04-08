@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Fresh Engagement
-  sort: 2
+  sort: 4115
   level: 2
   description: Emailing new developers who have registered weekly to see what their
     immediate needs are, while their registration is fresh in their minds.

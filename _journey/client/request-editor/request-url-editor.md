@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Request URL Editor
-  sort: 1
+  sort: 2818
   level: 2
   description: Having full control to edit any part of the URL for any request being
     made through the client.

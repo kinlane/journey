@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: SAP
-  sort: 10
+  sort: 1038
   level: 2
   description: Providing a connection to SAP database that allows for quick access
     to tables and fields, making data available through an API from the backend database.

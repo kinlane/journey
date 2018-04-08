@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Aggregator
-  sort: 6
+  sort: 169
   level: 2
   description: Aggregation of APIs using a machine readable API definition format.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: User Discussion Lists and Forums
-  sort: 3
+  sort: 2563
   level: 2
   description: What privacy considerations have been made around discussion lists
     and forums operated by the platform? What data is stored? How is the privacy of

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Entry
-  sort: 1
+  sort: 3483
   level: 2
   description: Costs, resources, and investment involved with entry of data into a
     system.

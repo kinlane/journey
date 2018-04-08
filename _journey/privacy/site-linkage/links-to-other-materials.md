@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Links to Other Materials
-  sort: 1
+  sort: 2583
   level: 2
   description: What are the privacy considerations when external sites and materials
     are linked to.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Digest Auth
-  sort: 3
+  sort: 2767
   level: 2
   description: Digest Auth is supported by an HTTP client for authentication as part
     of ay request being made.

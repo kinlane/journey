@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Status
-  sort: 11
+  sort: 3281
   level: 1
   description: Allowing for the status of backups across all services to be reported
     upon, and responded to across the platform, allowing for complete backup coverage.

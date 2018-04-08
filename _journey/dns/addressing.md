@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Addressing
-  sort: 2
+  sort: 933
   level: 2
   description: Providing guidance and information regarding the addressing needed
     for delivering services consistently across an organization, while allowing them

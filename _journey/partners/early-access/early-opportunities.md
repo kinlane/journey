@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Early Opportunities
-  sort: 2
+  sort: 4002
   level: 2
   description: Access to early platform opportunities meant just for partners.
 entities:

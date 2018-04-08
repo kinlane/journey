@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Monthly Uptime Percentage
-  sort: 4
+  sort: 2606
   level: 1
   description: Information regarding how the monthly uptime percentage is calculated
     and reported upon regularly as part of SLA reporting.

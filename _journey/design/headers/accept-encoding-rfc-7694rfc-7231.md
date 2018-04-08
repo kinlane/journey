@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accept-Encoding (RFC 7694RFC 7231)
-  sort: 9
+  sort: 353
   level: 2
   description: 'Section 5.3.4 of RFC 7231 defines "Accept-Encoding" as a request header
     field only. This specification expands that definition to allow "Accept-Encoding"

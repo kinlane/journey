@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Scheduling
-  sort: 4
+  sort: 1474
   level: 3
   description: Allowing for scripts to be executed based upon a schedule, operating
     individual scripts at scale across a multitude of functions.

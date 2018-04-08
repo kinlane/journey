@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Keyboard Shortcuts
-  sort: 6
+  sort: 2809
   level: 2
   description: Provide keyboard shortcuts, that make working with HTTP client requests
     easier.

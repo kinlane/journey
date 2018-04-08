@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Security Contact
-  sort: 2
+  sort: 2271
   level: 2
   description: Who to contact in the event of a security incident that concerns the
     platform. Providing a phone number, email, or form that can be submitted.

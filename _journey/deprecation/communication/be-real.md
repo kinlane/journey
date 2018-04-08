@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Be Real
-  sort: 5
+  sort: 4267
   level: 2
   description: Make sure that you are genuine in your plans, communication, and outreach.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: PIN Based Authorization
-  sort: 2
+  sort: 1648
   level: 2
   description: For applications which cannot access or embed a web browser, such as
     command-line applications, embedded systems, game consoles, and certain types

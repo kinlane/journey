@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Event-Driven
-  sort: 5
+  sort: 1476
   level: 3
   description: Operating scripts and functions in response to events that occur via
     backend systems, logs, database, and other common services.

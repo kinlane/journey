@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: QA Profile Maintenance
-  sort: 1
+  sort: 4189
   level: 2
   description: Ensure that profile on Quora and Stack Overflow are active.
 entities:

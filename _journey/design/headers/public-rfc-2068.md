@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Public (RFC 2068)
-  sort: 127
+  sort: 589
   level: 2
   description: 'The Public response-header field lists the set of methods supported
     by the server. The purpose of this field is strictly to inform the recipient of

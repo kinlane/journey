@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Management
-  sort: 4
+  sort: 2968
   level: 1
   description: The place where platform users can go to manage the platforms they
     have activated, allowing them to configure the details of how it works, as well

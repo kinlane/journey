@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: IAM
-  sort: 9
+  sort: 1463
   level: 3
   description: Providing an identity and access management layer that is in sync with
     security for other backend systems, and across all exposed services.

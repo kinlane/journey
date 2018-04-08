@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: JSON Files
-  sort: 4
+  sort: 1290
   level: 3
   description: Identification and processing of JSON files extracted from URLs.
 entities:

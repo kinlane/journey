@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Denial of Service (DDOS)
-  sort: 3
+  sort: 2273
   level: 2
   description: DNS tools for identifying and defending against a denial of service
     (DOS) attack.

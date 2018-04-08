@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Origin-Cookie (Internet Draft west-origin-cookies)
-  sort: 116
+  sort: 567
   level: 2
   description: 'The user agent includes stored cookies whose "origin-flag" is set
     in the "Origin-Cookie" request header. When the user agent generates an HTTP request,

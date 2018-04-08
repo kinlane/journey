@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Replay
-  sort: 5
+  sort: 2807
   level: 2
   description: Allow for the replay of any saved requests that has been run and recorded.
 entities:

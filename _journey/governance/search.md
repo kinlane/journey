@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Search
-  sort: 8
+  sort: 4398
   level: 1
   description: Plan for the search guidance that will be needed to drive a wider service
     governance strategy.

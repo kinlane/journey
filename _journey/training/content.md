@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Content
-  sort: 2
+  sort: 4367
   level: 1
   description: Publishing formal training materials that help address the areas that
     platform partners and consumers will need to understand as they work to put resources

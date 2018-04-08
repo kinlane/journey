@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Abuse of Functionality
-  sort: 4
+  sort: 2302
   level: 2
   description: Studying how normal functionality available via the existing services
     might be abused and used to gain access to data, content, algorithms, and backend

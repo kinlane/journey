@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Resource
-  sort: 3
+  sort: 231
   level: 2
   description: Consider how you craft your resources across all API operations. I
     do not subscribe to specific philosophies around this, just trying to provide

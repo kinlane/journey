@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Multi-step
-  sort: 8
+  sort: 3145
   level: 1
   description: Going beyond just just triggers and actions, and allowing for multi-step
     workflows that put multiple APIs to use.

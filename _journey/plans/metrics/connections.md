@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Connections
-  sort: 21
+  sort: 3861
   level: 2
   description: Measuring API access based upon the number of connections or threads
     made to resources.

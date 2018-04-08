@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Forwarded (RFC 7239)
-  sort: 80
+  sort: 495
   level: 2
   description: 'The "Forwarded" HTTP header field is an OPTIONAL header field that,
     when used, contains a list of parameter-identifier pairs that disclose information

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Public
-  sort: 2
+  sort: 3681
   level: 2
   description: Is this a publicly available API operation, something that may only
     apply to some plans? While not all aspects of API operations will be 100% publicly

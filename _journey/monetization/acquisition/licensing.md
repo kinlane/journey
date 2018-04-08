@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Licensing
-  sort: 6
+  sort: 3493
   level: 2
   description: There is a chance I would license a database from a company or institution,
     so I want to have this option in here. Even if this is open source, I want the

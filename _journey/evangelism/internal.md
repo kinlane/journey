@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Internal
-  sort: 10
+  sort: 4177
   level: 2
   description: What does internal storytelling look like across and between teams,
     showcasing and sharing the efforts of teams who are building and operating services,

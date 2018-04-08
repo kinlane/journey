@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Storage
-  sort: 5
+  sort: 3299
   level: 2
   description: Providing cloud storage infrastructure to accompany and support real
     time technology.

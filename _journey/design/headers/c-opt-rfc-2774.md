@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: C-Opt (RFC 2774)
-  sort: 36
+  sort: 407
   level: 2
   description: 'An optional extension declaration indicates that the ultimate recipient
     of the extension MAY consult and adhere to the rules given by the extension when

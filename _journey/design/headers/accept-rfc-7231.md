@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accept (RFC 7231)
-  sort: 3
+  sort: 341
   level: 2
   description: 'The "Accept" header field can be used by user agents to specify response
     media types that are acceptable. Accept header fields can be used to indicate

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Audience Focused
-  sort: 7
+  sort: 214
   level: 2
   description: APIs should be designed with a specific audience in mind, providing
     a solution to a problem they are having.

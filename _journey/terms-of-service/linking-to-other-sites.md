@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Linking To Other Sites
-  sort: 8
+  sort: 2526
   level: 2
   description: Legal guidance regarding how external domains are linked as part of
     platform operations, and guidance for how developers should be linking within

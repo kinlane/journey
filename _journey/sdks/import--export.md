@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Import / Export
-  sort: 7
+  sort: 2941
   level: 2
   description: What options are available for generating SDKs or other types of code
     from the machine readable definitions that are present for each service, helping

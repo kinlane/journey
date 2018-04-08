@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: PHP
-  sort: 1
+  sort: 2882
   level: 2
   description: An SDK available in the PHP programming language, with consideration
     specifically tailored for the language.

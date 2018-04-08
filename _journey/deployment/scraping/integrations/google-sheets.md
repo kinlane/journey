@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Google Sheets
-  sort: 3
+  sort: 1238
   level: 3
   description: Integration of crawling and scraping activities into Google Sheets.
 entities:

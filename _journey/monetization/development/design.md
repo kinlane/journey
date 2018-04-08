@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Design
-  sort: 4
+  sort: 3506
   level: 2
   description: What does it take me to generate a Swagger and API Blueprint, something
     that isn't just auto-generated, but also has the required hand polish it will

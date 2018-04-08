@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Other Milestones
-  sort: 8
+  sort: 4318
   level: 2
   description: What other milestones are there that will be important to internal,
     partner, and public stakeholders?

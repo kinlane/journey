@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: OPTIONS (RFC 7231)
-  sort: 21
+  sort: 296
   level: 2
   description: 'The OPTIONS method requests information about the communication options
     available for the target resource, at either the origin server or an intervening

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Timeframes
-  sort: 7
+  sort: 3930
   level: 2
   description: What timeframes are in use when it comes to measuring API consumption,
     and reporting upon plan and access tier usage by service consumers, defining the

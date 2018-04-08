@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Command-Line
-  sort: 5
+  sort: 167
   level: 2
   description: The usage of machine readable API definitions at the command line.
 entities:

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Accept-Ranges (RFC 7233)
-  sort: 16
+  sort: 367
   level: 2
   description: 'The "Accept-Ranges" header field allows a server to indicate that
     it supports range requests for the target resource. '

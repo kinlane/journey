@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Simple (or Streaming) Text Oriented Messaging Protocol (STOMP)
-  sort: 1
+  sort: 3375
   level: 2
   description: STOMP is the Simple (or Streaming) Text Oriented Messaging Protocol.
     STOMP provides an interoperable wire format so that STOMP clients can communicate

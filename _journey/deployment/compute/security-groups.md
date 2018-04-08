@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Security Groups
-  sort: 10
+  sort: 1349
   level: 2
   description: Establishing security groups as part of wider security strategy, and
     identifying logical groups for each group of services.

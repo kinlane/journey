@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Facebook Authentication
-  sort: 9
+  sort: 1786
   level: 2
   description: Allowing developers to create their API account using their Facebook
     account, and allowing the to login in the future using their Facebook credentials.

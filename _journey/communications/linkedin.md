@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: LinkedIn
-  sort: 5
+  sort: 1918
   level: 1
   description: Provide an active LinkedIn account for support, as well as evangelism
     efforts around an APIs operations.

@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Environment
-  sort: 3
+  sort: 2980
   level: 2
   description: Is there the option for establishing separate environments within an
     IDE. Are developers able to segment and group their API integrations into multiple

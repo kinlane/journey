@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Export
-  sort: 5
+  sort: 1008
   level: 2
   description: Allowing for the export of DNS configuration using portable formats.
 entities:

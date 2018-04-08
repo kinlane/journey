@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Relative Path Traversal
-  sort: 6
+  sort: 2423
   level: 2
   description: This attack is a variant of Path Traversal and can be exploited when
     the application accepts the use of relative traversal sequences such as ../.

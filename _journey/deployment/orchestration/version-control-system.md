@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Version Control System
-  sort: 1
+  sort: 1490
   level: 2
   description: Establish which version control systems are available, allowing support
     for Github, Gitlab, Bitbucket, or other supported solution.

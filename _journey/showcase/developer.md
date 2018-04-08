@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Developer
-  sort: 1
+  sort: 4241
   level: 1
   description: Having a strategy for the publishing of a developer showcase directory,
     and a process focused on incentivizing developers to deliver valuable integrations,

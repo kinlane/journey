@@ -5,7 +5,7 @@ rel:
 - self
 properties:
   name: Alerts
-  sort: 4
+  sort: 3224
   level: 2
   description: Triggering of alerts based upon events, schedule, and other webhook
     operations.
