@@ -12,8 +12,7 @@ layout: default
 {% assign elements = elements | split: '/' %}
 {% assign line = elements[0] | append: '/' | append: elements[1] %}
 
-<p>line: {{ line }}</p>
-
+<!-- Find the parent link-->
 {% assign parent_link = '' %}
 {% for links in page.links %}
   {% for rels in links.rel %}
@@ -23,8 +22,7 @@ layout: default
   {% endfor %}
 {% endfor %}
 
-<p>parent_link: {{ parent_link }}</p>
-
+<!--- Build Pagination-->
 {% assign last = '/' %}
 {% assign next = '/' %}
 {% assign tracking = '/' %}
@@ -42,13 +40,16 @@ layout: default
       {% assign get_next = 1 %}
     {% endif %}
 
-    {{ entry.name }} - {{ entry.path }} - {{ entry.title }}<br />
+    ({{ entry.properties.sort }}) {{ entry.name }} - {{ entry.path }} - {{ entry.title }}<br />
     {% assign tracking = entry.path %}
 
   {% endif %}
 {% endfor %}
 
+<br /><br />
+
 last: --{{ last }}--<br />
+parent: --{{ parent_link }}--<br />
 next: --{{ next }}--<br />
 
 <br />
