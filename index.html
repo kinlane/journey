@@ -1,132 +1,113 @@
 ---
 layout: default
-title: API Plan
+title: API Lifecycle
 ---
-<h1>API Journey - Level Two - 1</h1>
 
-<style type="text/css">
+<section id="banner">
+	<div class="content">
+	<header>
+		<h1>API Lifecycle</h1>
+	</header>
+	<p>These are the 68 steps in a modern API lifecycle I am keeping track of, trying to understand how APIs are being delivered, from define to deprecation.</p>
+	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tr style=" border: 0px solid #000;">
+			<td style="vertical-align: middle;">
+				<table cellpadding="0" cellspacing="0" border="0" style="height: 150px">
+				  <tr style="height: 50">
+				    <td height="25" align="right"><img src="/images/black-circle-left.png" height="50"></td>
+				    <td height="25" style="background-color:#006400;"><img src="/images/black-circle-center-vert-top.png" height="50"></td>
+				    <td height="25" align="left"><img src="/images/black-circle-right.png" height="50"></td>
+				  </tr>
+				  <tr style="height: 100%;">
+				    <td style="background-color#FFF;">&nbsp;</td>
+				    <td style="background-color:#006400;">&nbsp;</td>
+				    <td style="background-color#FFF;">&nbsp;</td>
+				  </tr>
+				</table>
+			</td>
+			<td style="min-height: 250px; padding-top: 3px; padding-left: 25px; vertical-align: top;">
+        <h3>Start</h3>
+				<p>The API journey is rarely a linear thing, with a clear start or finish. However, to help understand the many steps in a modern API lifecycle, it helps to have a place to start, and a place to finish. This is the beginning of your journey...</p>
+      </td>
+		</tr>
+    {% assign top = site.journey | sort: 'properties.sort' %}
+    {% assign all = site.journey | sort: 'properties.sort' %}
+    {% assign line_count = 1 %}
+    {% assign stop_count = 1 %}
+    {% for one in top %}
 
-/* The main DIV for the map */
-.subway-map
-{
-    margin: 0;
-    width: 500px;
-    height:410px;
-    background-color: white;
-}
+      {% assign is_line = 0 %}
+      {% for class in one.class %}
+        {% if class == "line" %}
+          {% assign is_line = 1 %}
+        {% endif %}
+      {% endfor %}
 
-/* Text labels */
-.text
-{
-    text-decoration: none;
-    color: black;
-}
+      {% assign self = '' %}
+      {% assign is_self = 0 %}
+      {% for links in one.links %}
+        {% for rels in links.rel %}
+          {% if rels == "self" %}
+            {% assign is_self = 1 %}
+          {% endif %}
+        {% endfor %}
+        {% if is_self == 1 %}
+          {% assign self = links.href %}
+        {% endif %}
 
-#legend
-{
-    float: left;
-    width: 250px;
-    height:400px;
-}
+      {% endfor %}
 
-#legend div
-{
-    height: 25px;
-}
-
-#legend span
-{
-    margin: 5px 5px 5px 0;
-}
-.subway-map span
-{
-    margin: 5px 5px 5px 0;
-}
-
-</style>
-
-<div class="subway-map" data-columns="100" data-rows="100" data-cellSize="33" data-legendId="legend" data-grid="false" data-gridNumbers="true" data-lineWidth="4">
-
-{% assign top = site.journey | sort: 'properties.sort' %}
-{% assign all = site.journey | sort: 'properties.sort' %}
-{% assign line_count = 1 %}
-{% assign stop_count = 1 %}
-{% for one in top limit: 5 %}
-
-  {% assign is_line = 0 %}
-  {% for class in one.class %}
-    {% if class == "line" %}
-      {% assign is_line = 1 %}
-    {% endif %}
-  {% endfor %}
-
-  {% assign one_base_path = one.path | replace: '_journey/','' | replace: '.md','' %}
-
-  {% assign x = one.properties.x %}
-  x: {{ x }}<br />
-  {% assign y = one.properties.y %}
-  y: {{ y }}<br />
-
-  {% assign direction = one.properties.direction %}
-
-  {% assign stop_count = 1 %}
-  {% if is_line == 1 and one.properties.level == 1 %}
-
-     <ul data-color="#{{ one.properties.color }}" data-label="{{ one.properties.name }}">
-     {% for two in all %}
-
-       {% assign is_child = 0 %}
-       {% assign is_parent = 0 %}
-       {% for links in two.links %}
-
-         {% for rels in links.rel %}
-           {% if rels == "parent" %}
-             {% assign is_parent = 1 %}
-           {% endif %}
-         {% endfor %}
-
-         {% if is_parent == 1 %}
-           {% if links.href contains one_base_path %}
-             {% assign is_child = 1 %}
-           {% endif %}
-         {% endif %}
-
-       {% endfor %}
-
-       {% assign two_base_path = two.path | replace: '_journey/','' | replace: 'index.md','' %}
-
-       {% if is_child == 1 %}
-
-         <li data-coords="{{ x }},{{ y }}" data-marker="@station" title="{{ two.properties.name }}">&nbsp;</li>
-
-         {% assign stop_count = stop_count | plus: 1 %}
-
-         {% if direction == 'N' %}
-          {% assign y = y | minus: 1 %}
-         {% endif %}
-
-         {% if direction == 'S' %}
-            {% assign y = y | plus: 1 %}
-         {% endif %}
-
-         {% if direction == 'E' %}
-            {% assign x = x | plus: 1 %}
-         {% endif %}
-
-         {% if direction == 'W' %}
-            {% assign x = x | minus: 1 %}
-         {% endif %}
-
-       {% endif %}
-
-     {% endfor %}
-     </ul>
-
-    {% assign line_count = line_count | plus: 2 %}
-
-  {% endif %}
-
-{% endfor %}
-
+      {% assign one_base_path = one.path | replace: '_journey/','' | replace: '.md','' %}
+      {% if is_line == 1 and one.properties.level == 1 %}
+        <tr style="border: 0px solid #000;">
+      		<td style="vertical-align: middle;" style="border: 0px solid #000;">
+            <table cellpadding="0" cellspacing="0" border="0" style="min-height: 250px;" height="100%">
+              <tr style="height: 100%;">
+                <td style="background-color#FFF;">&nbsp;</td>
+                <td style="background-color:#006400;">&nbsp;</td>
+                <td style="background-color#FFF;">&nbsp;</td>
+              </tr>
+              <tr style="height: 50">
+                <td height="25" align="right"><img src="/images/black-circle-left.png" height="50"></td>
+                <td height="25" style="background-color:#006400;"><img src="/images/black-circle-center-vert.png" height="50"></td>
+                <td height="25" align="left"><img src="/images/black-circle-right.png" height="50"></td>
+              </tr>
+              <tr style="height: 100%;">
+                <td style="background-color#FFF;">&nbsp;</td>
+                <td style="background-color:#006400;">&nbsp;</td>
+                <td style="background-color#FFF;">&nbsp;</td>
+              </tr>
+            </table>
+          </td>
+      		<td style="min-height: 250px; padding-top: 30px; padding-left: 25px; vertical-align: middle; border: 0px solid #000;">
+						<br /><br />
+						<h3><a href="/journey{{ self }}">{{ one.properties.name }}<a></h3>
+            <p><a href="/journey{{ self }}"><img src="/images/subway-arrow-right.png" align="right" width="50" /></a></p>
+      		  <p>{{ one.properties.description }}</p>
+      		</td>
+      	</tr>
+      {% endif %}
+    {% endfor %}
+    <tr style=" border: 0px solid #000;">
+  		<td style="vertical-align: middle;">
+				<table cellpadding="0" cellspacing="0" border="0" style="height: 150px">
+				  <tr style="height: 100%;">
+				    <td style="background-color#FFF;">&nbsp;</td>
+				    <td style="background-color:#006400;">&nbsp;</td>
+				    <td style="background-color#FFF;">&nbsp;</td>
+				  </tr>
+				  <tr style="height: 50">
+				    <td height="25" align="right"><img src="/images/black-circle-left.png" height="50"></td>
+				    <td height="25" style="background-color:#006400;"><img src="/images/black-circle-center-vert-bottom.png" height="50"></td>
+				    <td height="25" align="left"><img src="/images/black-circle-right.png" height="50"></td>
+				  </tr>
+				</table>
+			</td>
+  		<td style="min-height: 250px; padding-top: 30px; padding-left: 25px; vertical-align: bottom;">
+        <h3>Finish</h3>
+      </td>
+  	</td>
+  </tr>
+</table>
 </div>
-<script type="text/javascript">$(".subway-map").subwayMap({ debug: true });</script>
+</section>

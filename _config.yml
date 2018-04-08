@@ -1,5 +1,5 @@
 title:       API Journey
-url:          http://plan.apievangelist.com/
+url:          http://journey.apievangelist.com/
 
 tag: Plan
 
@@ -33,9 +33,16 @@ collections:
   journey:
     output: true
     permalink: /journey/:path/
+  listings:
+    output: true
+    permalink: /listings/:path/
 
 defaults:
   - scope:
       type: journey
     values:
       layout: journey
+  - scope:
+      type: listings
+    values:
+      layout: listings

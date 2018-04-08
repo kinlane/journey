@@ -1,0 +1,85 @@
+---
+layout: default
+title: API Plan
+---
+<h1>API Journey - Level Two - 1</h1>
+
+<style type="text/css">
+
+/* The main DIV for the map */
+.subway-map
+{
+    margin: 0;
+    width: 500px;
+    height:410px;
+    background-color: white;
+}
+
+/* Text labels */
+.text
+{
+    text-decoration: none;
+    color: black;
+}
+
+#legend
+{
+    float: left;
+    width: 250px;
+    height:400px;
+}
+
+#legend div
+{
+    height: 25px;
+}
+
+#legend span
+{
+    margin: 5px 5px 5px 0;
+}
+.subway-map span
+{
+    margin: 5px 5px 5px 0;
+}
+
+</style>
+
+{% assign top = site.journey | sort: 'properties.sort' %}
+{% assign all = site.journey | sort: 'properties.sort' %}
+{% assign line_count = 1 %}
+{% assign stop_count = 1 %}
+<div class="subway-map" data-columns="100" data-rows="100" data-cellSize="33" data-legendId="legend" data-grid="false" data-gridNumbers="true" data-lineWidth="4">
+{% for one in top limit: 5 %}
+  {% assign is_line = 0 %}
+  {% for class in one.class %}{% if class == "line" %}{% assign is_line = 1 %}{% endif %}{% endfor %}
+  {% assign one_base_path = one.path | replace: '_journey/','' | replace: '.md','' %}
+  {% assign x = one.properties.x %}
+  {% assign y = one.properties.y %}
+  {% assign direction = one.properties.direction %}
+  {% assign stop_count = 1 %}
+  {% if is_line == 1 and one.properties.level == 1 %}
+     <ul data-color="#{{ one.properties.color }}" data-label="{{ one.properties.name }}">
+     {% for two in all %}
+       {% assign is_child = 0 %}
+       {% assign is_parent = 0 %}
+       {% for links in two.links %}
+         {% for rels in links.rel %} {% if rels == "parent" %}{% assign is_parent = 1 %} {% endif %} {% endfor %}
+         {% if is_parent == 1 %} {% if links.href contains one_base_path %} {% assign is_child = 1 %} {% endif %}{% endif %}
+       {% endfor %}
+       {% assign two_base_path = two.path | replace: '_journey/','' | replace: 'index.md','' %}
+       {% if is_child == 1 %}
+         <li data-coords="{{ x }},{{ y }}" data-marker="@station" title="{{ two.properties.name }}">&nbsp;</li>
+         {% assign stop_count = stop_count | plus: 1 %}
+         {% if direction == 'N' %}{% assign y = y | minus: 1 %}{% endif %}
+         {% if direction == 'S' %}{% assign y = y | plus: 1 %}{% endif %}
+         {% if direction == 'E' %}{% assign x = x | plus: 1 %}{% endif %}
+         {% if direction == 'W' %} {% assign x = x | minus: 1 %}{% endif %}
+       {% endif %}
+     {% endfor %}
+     </ul>
+    {% assign line_count = line_count | plus: 2 %}
+  {% endif %}
+{% endfor %}
+</div>
+<script type="text/javascript">$(".subway-map").subwayMap({ debug: true });</script>
