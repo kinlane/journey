@@ -10,10 +10,20 @@ layout: default
 
 {% assign elements = page.path | replace: '.md','' %}
 {% assign elements = elements | split: '/' %}
-
 {% assign line = elements[0] | append: '/' | append: elements[1] %}
 
 <p>line: {{ line }}</p>
+
+{% assign parent_link = '' %}
+{% for links in page.links %}
+  {% for rels in links.rel %}
+    {% if rels == "parent" %}
+      {% assign parent_link = links.href %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+<p>parent_link: {{ parent_link }}</p>
 
 {% assign last = '/' %}
 {% assign next = '/' %}
