@@ -2,22 +2,111 @@
 layout: default
 title: API Plan
 ---
-<h1>API Journey - Level 1</h1>
+<h1>API Journey - Level Two - 1</h1>
+
+<style type="text/css">
+
+/* The main DIV for the map */
+.subway-map
+{
+    margin: 0;
+    width: 500px;
+    height:410px;
+    background-color: white;
+}
+
+/* Text labels */
+.text
+{
+    text-decoration: none;
+    color: black;
+}
+
+#legend
+{
+    float: left;
+    width: 250px;
+    height:400px;
+}
+
+#legend div
+{
+    height: 25px;
+}
+
+#legend span
+{
+    margin: 5px 5px 5px 0;
+}
+.subway-map span
+{
+    margin: 5px 5px 5px 0;
+}
+
+</style>
+
+<div class="subway-map" data-columns="100" data-rows="100" data-cellSize="33" data-legendId="legend" data-grid="false" data-gridNumbers="true" data-lineWidth="4">
 
 {% assign lines = site.journey | sort: 'properties.sort' %}
 {% assign line_count = 1 %}
-{% for plan in lines %}
+{% assign stop_count = 1 %}
+{% for one in lines %}
 
   {% assign is_line = 0 %}
-  {% for class in plan.class %}
+  {% for class in one.class %}
     {% if class == "line" %}
       {% assign is_line = 1 %}
     {% endif %}
   {% endfor %}
 
-  {% if is_line == 1 and plan.properties.level == 1 %}
-    <p><strong>{{ plan.properties.name }}</strong> ({{ plan.path }}) ({{ plan.properties.level }}/{{ plan.properties.sort }}) - {{ plan.properties.description }}</p>
-    {% assign line_count = line_count | plus: 1 %}
+  {% assign one_base_path = one.path | replace: '_journey/','' | replace: '.md','' %}
+
+  {% assign stop_count = 1 %}
+  {% if is_line == 1 and one.properties.level == 1 %}
+
+     <ul data-color="#FBAF3F" data-label="{{ one.properties.name }}">
+     {% for two in lines %}
+
+       {% assign is_child = 0 %}
+       {% assign is_parent = 0 %}
+       {% for links in two.links %}
+
+         {% for rels in links.rel %}
+           {% if rels == "parent" %}
+             {% assign is_parent = 1 %}
+           {% endif %}
+         {% endfor %}
+
+         {% if is_parent == 1 %}
+           {% if links.href contains one_base_path %}
+             {% assign is_child = 1 %}
+           {% endif %}
+         {% endif %}
+
+       {% endfor %}
+
+       {% assign two_base_path = two.path | replace: '_journey/','' | replace: 'index.md','' %}
+
+       {% if is_child == 1 %}
+
+         <li data-coords="{{ line_count }},{{ stop_count }}" data-marker="@station" title="{{ two.properties.name }}">&nbsp;</li>
+
+         {% assign stop_count = stop_count | plus: 1 %}
+
+   			 <li data-coords="{{ line_count }},{{ stop_count }}"></li>
+
+         {% assign stop_count = stop_count | plus: 1 %}
+
+       {% endif %}
+
+     {% endfor %}
+     </ul>
+
+    {% assign line_count = line_count | plus: 2 %}
+
   {% endif %}
 
 {% endfor %}
+
+</div>
+<script type="text/javascript">$(".subway-map").subwayMap({ debug: true });</script>

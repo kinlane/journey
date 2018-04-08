@@ -22,6 +22,37 @@ title: API Plan
     <p><strong>{{ one.properties.name }}</strong> ({{ one.path }}/{{ one_base_path }}) ({{ one.properties.level }}/{{ one.properties.sort }}) - {{ one.properties.description }}</p>
     {% assign line_count = line_count | plus: 1 %}
 
+    <ul>
+     {% for two in lines %}
+
+       {% assign is_child = 0 %}
+       {% assign is_parent = 0 %}
+       {% for links in two.links %}
+
+         {% for rels in links.rel %}
+           {% if rels == "parent" %}
+             {% assign is_parent = 1 %}
+           {% endif %}
+         {% endfor %}
+
+         {% if is_parent == 1 %}
+           {% if links.href contains one_base_path %}
+             {% assign is_child = 1 %}
+           {% endif %}
+         {% endif %}
+
+       {% endfor %}
+
+       {% assign two_base_path = two.path | replace: '_journey/','' | replace: 'index.md','' %}
+
+       {% if is_child == 1 %}
+         <li><strong>{{ two.properties.name }}</strong> ({{ two.path }}/{{ two_base_path }}) ({{ two.properties.level }}/{{ two.properties.sort }}) - {{ two.properties.description }}</li>
+         {% assign line_count = line_count | plus: 1 %}
+       {% endif %}
+
+     {% endfor %}
+     </ul>
+
     <hr />
 
   {% endif %}
