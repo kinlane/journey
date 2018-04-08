@@ -1,0 +1,33 @@
+---
+class:
+- stop
+rel:
+- self
+properties:
+  name: Service Level Agreement (SLA)
+  sort: 3814
+  level: 3
+  description: A service level agreement (SLA) is applied as part of API operations
+    as a whole, or as part of particular plans.
+entities:
+- class:
+  - stop
+  rel:
+  - self
+  properties:
+    name: Service Level Agreement (SLA)
+  links:
+  - rel:
+    - self
+    href: plans/limits/service-level-agreement-sla.md
+  - rel:
+    - parent
+    href: plans/limits/
+links:
+- rel:
+  - self
+  href: plans/limits/service-level-agreement-sla.md
+- rel:
+  - parent
+  href: plans/limits/
+...
