@@ -47,10 +47,11 @@ title: API Plan
 
 <div class="subway-map" data-columns="100" data-rows="100" data-cellSize="33" data-legendId="legend" data-grid="false" data-gridNumbers="true" data-lineWidth="4">
 
-{% assign lines = site.journey | sort: 'properties.sort' %}
+{% assign top = site.journey | sort: 'properties.sort' %}
+{% assign all = site.journey | sort: 'properties.sort' %}
 {% assign line_count = 1 %}
 {% assign stop_count = 1 %}
-{% for one in lines %}
+{% for one in top limit: 5 %}
 
   {% assign is_line = 0 %}
   {% for class in one.class %}
@@ -61,11 +62,18 @@ title: API Plan
 
   {% assign one_base_path = one.path | replace: '_journey/','' | replace: '.md','' %}
 
+  {% assign x = one.properties.x %}
+  x: {{ x }}<br />
+  {% assign y = one.properties.y %}
+  y: {{ y }}<br />
+
+  {% assign direction = one.properties.direction %}
+
   {% assign stop_count = 1 %}
   {% if is_line == 1 and one.properties.level == 1 %}
 
-     <ul data-color="#FBAF3F" data-label="{{ one.properties.name }}">
-     {% for two in lines %}
+     <ul data-color="#{{ one.properties.color }}" data-label="{{ one.properties.name }}">
+     {% for two in all %}
 
        {% assign is_child = 0 %}
        {% assign is_parent = 0 %}
@@ -89,13 +97,25 @@ title: API Plan
 
        {% if is_child == 1 %}
 
-         <li data-coords="{{ line_count }},{{ stop_count }}" data-marker="@station" title="{{ two.properties.name }}">&nbsp;</li>
+         <li data-coords="{{ x }},{{ y }}" data-marker="@station" title="{{ two.properties.name }}">&nbsp;</li>
 
          {% assign stop_count = stop_count | plus: 1 %}
 
-   			 <li data-coords="{{ line_count }},{{ stop_count }}"></li>
+         {% if direction == 'N' %}
+          {% assign y = y | minus: 1 %}
+         {% endif %}
 
-         {% assign stop_count = stop_count | plus: 1 %}
+         {% if direction == 'S' %}
+            {% assign y = y | plus: 1 %}
+         {% endif %}
+
+         {% if direction == 'E' %}
+            {% assign x = x | plus: 1 %}
+         {% endif %}
+
+         {% if direction == 'W' %}
+            {% assign x = x | minus: 1 %}
+         {% endif %}
 
        {% endif %}
 

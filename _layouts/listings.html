@@ -1,0 +1,86 @@
+---
+layout: default
+title: API Lifecycle
+---
+
+<section id="banner">
+	<div class="content">
+	<header>
+		<h1>API Lifecycle</h1>
+	</header>
+	<p>These are the 68 steps in a modern API lifecycle I am keeping track of, trying to understand how APIs are being delivered, from define to deprecation.</p>
+	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tr style=" border: 1px solid #000;">
+			<td style="vertical-align: middle;">
+				{% include subway-vertical-top.html %}
+			</td>
+			<td style="min-height: 400px; padding-top: 3px; padding-left: 25px; vertical-align: top;">
+        <h3>Start</h3>
+      </td>
+		</tr>
+    {% assign top = site.journey | sort: 'properties.sort' %}
+    {% assign all = site.journey | sort: 'properties.sort' %}
+    {% assign line_count = 1 %}
+    {% assign stop_count = 1 %}
+    {% for one in top %}
+
+      {% assign is_line = 0 %}
+      {% for class in one.class %}
+        {% if class == "line" %}
+          {% assign is_line = 1 %}
+        {% endif %}
+      {% endfor %}
+
+      {% assign self = '' %}
+      {% assign is_self = 0 %}
+      {% for links in one.links %}
+        {% for rels in links.rel %}
+          {% if rels == "self" %}
+            {% assign is_self = 1 %}
+          {% endif %}
+        {% endfor %}
+        {% if is_self == 1 %}
+          {% assign self = links.href %}
+        {% endif %}
+
+      {% endfor %}
+
+      {% assign one_base_path = one.path | replace: '_journey/','' | replace: '.md','' %}
+      {% if is_line == 1 and one.properties.level == 1 %}
+        <tr style="border: 1px solid #000;">
+      		<td style="vertical-align: middle;" style="border: 1px solid #000;">
+            <table cellpadding="0" cellspacing="0" border="0" height="500">
+              <tr style="height: 100%;">
+                <td style="background-color#FFF;">&nbsp;</td>
+                <td style="background-color:#006400;">&nbsp;</td>
+                <td style="background-color#FFF;">&nbsp;</td>
+              </tr>
+              <tr style="height: 50">
+                <td height="25" align="right"><img src="https://s3.amazonaws.com/kinlane-productions/subway/images/black-circle-left.png" height="50"></td>
+                <td height="25" style="background-color:#006400;"><img src="https://s3.amazonaws.com/kinlane-productions/subway/images/black-circle-center-vert.png" height="50"></td>
+                <td height="25" align="left"><img src="https://s3.amazonaws.com/kinlane-productions/subway/images/black-circle-right.png" height="50"></td>
+              </tr>
+              <tr style="height: 100%;">
+                <td style="background-color#FFF;">&nbsp;</td>
+                <td style="background-color:#006400;">&nbsp;</td>
+                <td style="background-color#FFF;">&nbsp;</td>
+              </tr>
+            </table>
+          </td>
+      		<td style="min-height: 400px; padding-left: 25px; vertical-align: middle; border: 1px solid #000;">
+      			<h3><a href="/journey{{ self }}">{{ one.properties.name }}<a></h3>
+      		  <p>{{ one.properties.description }}</p>
+      		</td>
+      	</tr>
+      {% endif %}
+    {% endfor %}
+    <tr style=" border: 1px solid #000;">
+  		<td style="vertical-align: middle;"> {% include subway-vertical-bottom.html %} </td>
+  		<td style="min-height: 400px; padding-top: 30px; padding-left: 25px; vertical-align: bottom;">
+        <h3>Finish</h3>
+      </td>
+  	</td>
+  </tr>
+</table>
+</div>
+</section>
