@@ -11,6 +11,19 @@ properties:
     for file formats and format contents transmitted on the Internet. The Internet
     Assigned Numbers Authority (IANA) is the official authority for the standardization
     and publication of these classifications.
+  tools:
+    - name: IANA Media Types
+      description: The list of media types from IANA.
+      url: https://www.iana.org/assignments/media-types/media-types.xhtml
+  items:
+    - name: text/html
+      description: The media type for HTML.  
+    - name: application/json
+      description: The media type for JSON.
+    - name: application/xml
+      description: The media type for XML.
+    - name: text/csv
+      description: The media type for CSVJSON.              
 entities:
 - class:
   - stop

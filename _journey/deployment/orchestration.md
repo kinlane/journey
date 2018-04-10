@@ -10,6 +10,13 @@ properties:
   description: Defining what the build, syndication, and orchestration of service
     deployments and integrations look like, and are executed, realizing a more organized
     and effective continuous integration and deployment workflow.
+  service:
+    - name: Jenkins
+      description: An award-winning, cross-platform, continuous integration and continuous delivery application.
+      url: https://jenkins.io/  
+    - name: CircleCI
+      description: Automated build, test &amp; deployment for public &amp; private projects.
+      url: https://circleci.com/        
 entities:
 - class:
   - line

@@ -4,7 +4,7 @@ class:
 rel:
 - self
 properties:
-  name: inv-maxage (Internet Draft nottingham-linked-cache-inv)
+  name: inv-maxage
   sort: 862
   level: 3
   description: 'When present, the ''inv-maxage'' cache-control extension indicates

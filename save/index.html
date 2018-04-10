@@ -1,0 +1,133 @@
+---
+layout: default
+title: API Journey - Saved Notes
+---
+
+<script>
+
+  function writeNotes($path,$count,$level,$path1,$path2)
+    {
+    savedinfo = JSON.parse(sessionStorage.getItem($path));
+    console.log($path + ' - ' + $count + ' - ' + savedinfo);
+    if(savedinfo)
+      {
+      console.log("1:" + $count);
+      document.getElementById("notes_"+$count).textContent = ' - ' + savedinfo.notes;
+
+      if($path1!='')
+        {
+        document.getElementById("list_"+$path1).style.display = '';
+        }
+      if($path2!='')
+        {
+        document.getElementById("list_"+$path2).style.display = '';
+        }
+
+      }
+    else
+      {
+      console.log("2:" + $count);
+      document.getElementById("list_"+$count).style.display = 'none';
+      }
+  }
+</script>
+
+<h2>API Journey - Saved Notes</h2>
+<p>These are the elements you have saved throughout this journey. These items are stored in your local browser session storage and will be erased when you close this tab, and will not be available in other tabs.</p>
+{% assign lines = site.journey | sort: 'properties.sort' %}
+{% assign note_count = 1 %}
+{% assign line_count = 1 %}
+{% for one in lines %}
+
+  {% assign is_line = 0 %}
+  {% for class in one.class %}
+    {% if class == "line" %}
+      {% assign is_line = 1 %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign one_base_path = one.path | replace: '.md','' %}
+  {% assign use_path = one_base_path | replace: '_journey/','' %}
+  {% if is_line == 1 and one.properties.level == 1 %}
+
+    {% assign note_count = note_count | plus: 1 %}
+    <p id="list_{{ note_count }}"><a href="/journey/{{ use_path }}"><strong>{{ one.properties.name }}</strong></a><span id="notes_{{ note_count }}"></span></p>
+    {% assign line_count = line_count | plus: 1 %}
+    {% assign parent_one_path = note_count %}
+    {% assign parent_two_path = 0 %}
+    <script>
+      writeNotes('{{ one.path }}','{{ note_count }}',1,0,0);
+    </script>
+    <ul>
+     {% for two in lines %}
+
+       {% assign is_child = 0 %}
+       {% if two.path contains one_base_path %}
+         {% assign is_child = 1 %}
+       {% endif %}
+
+       {% assign two_base_path = two.path | replace: '.md','' %}
+
+       {% if one.path != two.path %}
+
+         {% assign this_path = two.path | replace: '.md','' %}
+         {% assign use_path = this_path | replace: '_journey/','' %}
+
+         {% if one.properties.level == 1 and two.properties.level == 2 %}
+           {% if this_path contains one_base_path %}
+
+            {% assign note_count = note_count | plus: 1 %}
+            {% assign parent_two_path = note_count %}
+            <li id="list_{{ note_count }}"><a href="/journey/{{ use_path }}"><strong>{{ two.properties.name }}</strong></a><span id="notes_{{ note_count }}"></span></li>
+            <script>
+                writeNotes('{{ two.path }}','{{ note_count }}',2,{{ parent_one_path }},0);
+            </script>
+            <ul>
+            {% for three in lines %}
+
+              {% assign is_child = 0 %}
+              {% if three.path contains two_base_path %}
+                {% assign is_child = 1 %}
+              {% endif %}
+              {% assign three_base_path = three.path | replace: '.md','' %}
+              {% if two.path != three.path %}
+                {% assign this_path = three.path | replace: '.md','' %}
+                {% assign use_path = this_path | replace: '_journey/','' %}
+                {% if three.properties.level == 3 %}
+                  {% if this_path contains two_base_path %}
+                   {% assign note_count = note_count | plus: 1 %}
+                   <li id="list_{{ note_count }}"><a href="/journey/{{ use_path }}"><strong>{{ three.properties.name }}</strong></a><span id="notes_{{ note_count }}"></span></li>
+                   <script>
+                       writeNotes('{{ three.path }}','{{ note_count }}',3,{{ parent_one_path }},{{ parent_two_path }});
+                   </script>
+                  {% endif %}
+                {% endif %}
+              {% endif %}
+
+            {% endfor %}
+           </ul>
+
+
+           {% endif %}
+         {% endif %}
+
+         {% if one.properties.level == 2 and two.properties.level == 3 %}
+           {% if this_path contains two_base_path %}
+           {% assign use_path = this_path | replace: '_journey/','' %}
+             {% assign note_count = note_count | plus: 1 %}
+             <li id="list_{{ note_count }}"><a href="/journey/{{ use_path }}"><strong>{{ two.properties.name }}</strong></a> <span id="notes_{{ note_count }}"></span></li>
+             <script>
+                 writeNotes('{{ two.path }}','{{ note_count }}',2,{{ parent_one_path }},0);
+             </script>
+           {% endif %}
+         {% endif %}
+
+       {% endif %}
+
+
+     {% endfor %}
+     </ul>
+     
+  {% endif %}
+
+{% endfor %}

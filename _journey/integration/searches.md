@@ -4,11 +4,11 @@ class:
 rel:
 - self
 properties:
-  name: Searches -Allowing for simple questions to be asked, and provide a framework
-    to allow APIs to be employed in answering any question asked.
+  name: Searches
   sort: 3137
   level: 2
-  description: ~
+  description: Allowing for simple questions to be asked, and provide a framework
+    to allow APIs to be employed in answering any question asked.
 entities:
 - class:
   - stop

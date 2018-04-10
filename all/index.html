@@ -1,0 +1,87 @@
+---
+layout: default
+title: API Journey - All
+---
+
+<h2>API Journey</h2>
+
+{% assign lines = site.journey | sort: 'properties.sort' %}
+{% assign line_count = 1 %}
+{% for one in lines %}
+
+  {% assign is_line = 0 %}
+  {% for class in one.class %}
+    {% if class == "line" %}
+      {% assign is_line = 1 %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign one_base_path = one.path | replace: '.md','' %}
+  {% assign use_path = one_base_path | replace: '_journey/','' %}
+  {% if is_line == 1 and one.properties.level == 1 %}
+
+    <p><a href="/journey/{{ use_path }}"><strong>{{ one.properties.name }}</strong></a> - {{ one.properties.description }}</p>
+    {% assign line_count = line_count | plus: 1 %}
+
+    <ul>
+     {% for two in lines %}
+
+       {% assign is_child = 0 %}
+       {% if two.path contains one_base_path %}
+         {% assign is_child = 1 %}
+       {% endif %}
+
+       {% assign two_base_path = two.path | replace: '.md','' %}
+
+       {% if one.path != two.path %}
+
+         {% assign this_path = two.path | replace: '.md','' %}
+         {% assign use_path = this_path | replace: '_journey/','' %}
+
+         {% if one.properties.level == 1 and two.properties.level == 2 %}
+           {% if this_path contains one_base_path %}
+            <li><a href="/journey/{{ use_path }}"><strong>{{ two.properties.name }}</strong></a> - {{ two.properties.description }}</li>
+
+            <ul>
+            {% for three in lines %}
+
+              {% assign is_child = 0 %}
+              {% if three.path contains two_base_path %}
+                {% assign is_child = 1 %}
+              {% endif %}
+              {% assign three_base_path = three.path | replace: '.md','' %}
+              {% if two.path != three.path %}
+                {% assign this_path = three.path | replace: '.md','' %}
+                {% assign use_path = this_path | replace: '_journey/','' %}
+                {% if three.properties.level == 3 %}
+                  {% if this_path contains two_base_path %}
+                   <li><a href="/journey/{{ use_path }}"><strong>{{ three.properties.name }}</strong></a> - {{ three.properties.description }}</li>
+                  {% endif %}
+                {% endif %}
+              {% endif %}
+
+            {% endfor %}
+           </ul>
+
+
+           {% endif %}
+         {% endif %}
+
+         {% if one.properties.level == 2 and two.properties.level == 3 %}
+           {% if this_path contains two_base_path %}
+           {% assign use_path = this_path | replace: '_journey/','' %}
+             <li><a href="/journey/{{ use_path }}"><strong>{{ two.properties.name }}</strong></a></li>
+           {% endif %}
+         {% endif %}
+
+       {% endif %}
+
+
+     {% endfor %}
+     </ul>
+
+    <hr />
+
+  {% endif %}
+
+{% endfor %}
