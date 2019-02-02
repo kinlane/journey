@@ -1,0 +1,51 @@
+Swagger: "2.0"
+info:
+  title: API Evangelist Building Blocks
+  description: These are the building blocks for this research.
+  version: 1.0.0
+host: definitions.apievangelist.com
+basePath: /apis
+schemes:
+  - http
+produces:
+  - application/json
+consumes:
+  - application/json
+paths:
+  /building-blocks/:
+    get:
+      summary: Get Building Blocks
+      description: Returns all the building blocks for this research.
+      responses:
+        200:
+          description: Successful Response
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/building_block'
+      tags:
+        - Building Blocks
+definitions:
+  building_block:
+    properties:
+      building_block_id:
+        description: The id for the building block.
+        type: string
+      type:
+        description: The type of building block.
+        type: string
+      category:
+        description: The building block category.
+        type: string
+      name:
+        description: The name of the building block.
+        type: string
+      description:
+        description: A descripton for the building block.
+        type: string
+      logo:
+        description: An logo for the building block.
+        type: string
+      tags:
+        description: The tags for the building block.
+        type: string

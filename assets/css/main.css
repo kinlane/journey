@@ -9,7 +9,7 @@
 
 /* Reset */
 
-	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
 		padding: 0;
 		border: 0;
@@ -39,10 +39,10 @@
 		content: none;
 	}
 
-	/**table {
+	table {
 		border-collapse: collapse;
 		border-spacing: 0;
-	}**/
+	}
 
 	body {
 		-webkit-text-size-adjust: none;
@@ -2867,7 +2867,7 @@
 			margin-left: 2em;
 		}
 
-/* Table
+/* Table */
 
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
@@ -2934,7 +2934,7 @@
 			table.alt tfoot {
 				border-top: 0;
 			}
-*/
+
 /* Button */
 
 	input[type="submit"],
@@ -3130,45 +3130,13 @@
 			}
 
 			.features article .icon {
-				-moz-flex-grow: 0;
-				-webkit-flex-grow: 0;
-				-ms-flex-grow: 0;
-				flex-grow: 0;
-				-moz-flex-shrink: 0;
-				-webkit-flex-shrink: 0;
-				-ms-flex-shrink: 0;
-				flex-shrink: 0;
 				display: block;
-				height: 10em;
-				line-height: 10em;
-				margin: 0 2em 0 0;
+				height: 3em;
+				line-height: 2em;
+				margin: 0 5px 0 0;
 				text-align: center;
-				width: 10em;
+				width: 3em;
 			}
-
-				.features article .icon:before {
-					color: #000;
-					font-size: 2.75rem;
-					position: relative;
-					top: 0.05em;
-				}
-
-				.features article .icon:after {
-					-moz-transform: rotate(45deg);
-					-webkit-transform: rotate(45deg);
-					-ms-transform: rotate(45deg);
-					transform: rotate(45deg);
-					border-radius: 0.25rem;
-					border: solid 2px rgba(210, 215, 217, 0.75);
-					content: '';
-					display: block;
-					height: 7em;
-					left: 50%;
-					margin: -3.5em 0 0 -3.5em;
-					position: absolute;
-					top: 50%;
-					width: 7em;
-				}
 
 			.features article .content {
 				-moz-flex-grow: 1;
@@ -3179,6 +3147,7 @@
 				-webkit-flex-shrink: 1;
 				-ms-flex-shrink: 1;
 				flex-shrink: 1;
+				vertical-align: top;
 				width: 100%;
 			}
 

@@ -1,0 +1,60 @@
+Swagger: "2.0"
+info:
+  title: API Evangelist Organizations
+  description: These are the organizations I've curated as part of this research.
+  version: 1.0.0
+host: definitions.apievangelist.com
+basePath: /apis
+schemes:
+  - http
+produces:
+  - application/json
+consumes:
+  - application/json
+paths:
+  /organizations/:
+    get:
+      summary: Get Organizations
+      description: Returns all the API definition organizaitons.
+      responses:
+        200:
+          description: Successful Response
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/organizations'
+      tags:
+        - Organizations
+definitions:
+  partner:
+    properties:
+      slug:
+        description: A unique slug to identify the organization.
+        type: string
+      name:
+        description: The name of the organization.
+        type: string
+      description:
+        description: The description for the organization.
+        type: string
+      url:
+        description: A URL to find more information about organization.
+        type: string
+      short_url:
+        description: A shortened url for the organization website.
+        type: string
+      twitter:
+        description: The twitter account for the organization.
+        type: string
+      blog:
+        description: The url of the blog for the organization.
+        type: integer
+      blog_rss:
+        description: The blog feed for the organization.
+        type: string
+      image:
+        description: An image, logo, or icon for the organization.
+        type: string
+      tags:
+        description: Tags for the organizations.
+        type: string
